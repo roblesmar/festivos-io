@@ -6,6 +6,7 @@ si no) y agrupa los `Festivo` por municipio.
 """
 from __future__ import annotations
 
+import re
 from collections import defaultdict
 
 from .fuentes import REGISTRO
@@ -32,10 +33,40 @@ def _es_generico(denominacion: str) -> bool:
     return not texto or texto.startswith(_PREFIJOS_GENERICOS)
 
 
+# Palabras que van en minúscula dentro de un nombre (artículos, preposiciones,
+# conjunciones); se capitalizan igualmente cuando abren el nombre.
+_MINUSCULAS = {"de", "del", "la", "las", "el", "los", "y", "e", "o", "u",
+               "en", "a", "al", "lo", "con", "i"}
+# Número romano bien formado (para conservar «Juan XXIII» y no romperlo a «Xxiii»).
+_ROMANO = re.compile(r"(?=[ivxlcdm])m{0,3}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})")
+
+
+def _a_titulo(nombre: str) -> str:
+    """«SAN FRANCISCO DE SAN MIGUEL» → «San Francisco de San Miguel».
+
+    Solo actúa sobre nombres en MAYÚSCULAS (fuentes como Castilla y León o
+    Cantabria los publican así); los que ya vienen en caja mixta se dejan intactos
+    para no estropear formas propias. Conserva los números romanos.
+    """
+    letras = [c for c in nombre if c.isalpha()]
+    if not letras or sum(c.isupper() for c in letras) / len(letras) <= 0.8:
+        return nombre  # ya en caja mixta: no tocar
+    palabras: list[str] = []
+    for i, palabra in enumerate(nombre.split()):
+        bajo = palabra.lower()
+        if _ROMANO.fullmatch(bajo):
+            palabras.append(palabra.upper())        # número romano (XXIII)
+        elif i and bajo in _MINUSCULAS:
+            palabras.append(bajo)                   # conector en minúscula
+        else:
+            palabras.append(bajo[:1].upper() + bajo[1:])
+    return " ".join(palabras)
+
+
 def _nombre_festivo(denominacion: str | None, iso: str) -> dict[str, str]:
     """Nombre i18n del festivo; usa un genérico cuando la fuente no da uno real."""
     if denominacion and not _es_generico(denominacion):
-        return {"es": denominacion.strip()}
+        return {"es": _a_titulo(denominacion.strip())}
     if iso == "ES-CT":
         return {"es": "Festivo local", "ca": "Festa local"}
     return {"es": "Festivo local"}

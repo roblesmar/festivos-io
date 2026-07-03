@@ -1,0 +1,136 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-MD",
+    "name": "Madrid"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "ORDEN 2034/2026, de 25 de mayo, de la Consejera de Educación, Ciencia y Universidades, por la que se establece el calendario escolar para el curso 2026/2027 en los centros educativos no universitarios sostenidos con fondos públicos de la Comunidad de Madrid",
+    "boletin": "BOCM Núm. 131",
+    "fecha": "2026-06-04",
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/06/04/BOCM-20260604-13.PDF"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria (2º ciclo Infantil, Primaria, Especial)",
+      "start": "2026-09-07",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "1er ciclo Educacion Infantil (Escuelas Infantiles, Casas de Ninos)",
+      "start": "2026-09-07",
+      "end": "2027-07-30"
+    },
+    {
+      "stage": "ESO-bachillerato-FP",
+      "start": "2026-09-08",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "Conservatorios Profesionales Musica y Danza",
+      "start": "2026-09-08",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "Escuelas Oficiales de Idiomas",
+      "start": "2026-09-08",
+      "end": "2027-06-25"
+    },
+    {
+      "stage": "Educacion Personas Adultas",
+      "start": "2026-09-21",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "Ensenanzas Artisticas Superiores",
+      "start": "2026-09-09",
+      "end": "2027-06-18"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-23",
+      "to": "2027-01-06"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-20",
+      "to": "2027-03-28"
+    },
+    {
+      "name": {
+        "es": "Verano"
+      },
+      "from": "2027-07-01"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-10-12",
+      "name": {
+        "es": "Festividad (Fiesta Nacional de Espana)"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "name": {
+        "es": "Festividad"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "name": {
+        "es": "Festividad"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "name": {
+        "es": "Festividad (Inmaculada Concepcion)"
+      }
+    },
+    {
+      "date": "2027-01-07",
+      "name": {
+        "es": "Dia no lectivo"
+      }
+    },
+    {
+      "date": "2027-01-08",
+      "name": {
+        "es": "Dia no lectivo"
+      }
+    },
+    {
+      "date": "2027-02-12",
+      "name": {
+        "es": "Dia no lectivo"
+      }
+    },
+    {
+      "date": "2027-02-15",
+      "name": {
+        "es": "Dia no lectivo"
+      }
+    },
+    {
+      "date": "2027-03-19",
+      "name": {
+        "es": "Dia no lectivo"
+      }
+    },
+    {
+      "date": "2027-03-29",
+      "name": {
+        "es": "Dia no lectivo"
+      }
+    }
+  ]
+}

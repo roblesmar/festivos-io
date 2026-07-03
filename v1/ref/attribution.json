@@ -1,0 +1,124 @@
+{
+  "schema": "https://festivos.io/v1/schema/attribution.json",
+  "version": "1.0.0",
+  "note": "Cada festivo conserva su 'source' (documento concreto). Este registro da el editor oficial y la base legal por nivel/CCAA para la atribución.",
+  "dataset": {
+    "title": "festivos.io",
+    "publisher": "festivos.io",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "national_regional": {
+    "publisher": "Agencia Estatal Boletín Oficial del Estado (BOE)",
+    "citation": "Fuente: Agencia Estatal Boletín Oficial del Estado (BOE)",
+    "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)",
+    "url": "https://www.boe.es"
+  },
+  "reference": {
+    "publisher": "Instituto Nacional de Estadística (INE)",
+    "citation": "Fuente: Instituto Nacional de Estadística (INE)",
+    "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)",
+    "url": "https://www.ine.es"
+  },
+  "local_por_ccaa": {
+    "ES-AN": {
+      "publisher": "Junta de Andalucía",
+      "citation": "Fuente: Junta de Andalucía",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)",
+      "url": "https://www.juntadeandalucia.es"
+    },
+    "ES-AR": {
+      "publisher": "Gobierno de Aragón — Aragón Open Data",
+      "citation": "Fuente: Gobierno de Aragón — Aragón Open Data",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)",
+      "license": "CC BY 4.0 (Aragón Open Data)",
+      "url": "https://opendata.aragon.es"
+    },
+    "ES-AS": {
+      "publisher": "Gobierno del Principado de Asturias",
+      "citation": "Fuente: Gobierno del Principado de Asturias",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-IB": {
+      "publisher": "Govern de les Illes Balears",
+      "citation": "Fuente: Govern de les Illes Balears",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-CN": {
+      "publisher": "Gobierno de Canarias",
+      "citation": "Fuente: Gobierno de Canarias",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-CB": {
+      "publisher": "Gobierno de Cantabria",
+      "citation": "Fuente: Gobierno de Cantabria",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-CL": {
+      "publisher": "Junta de Castilla y León",
+      "citation": "Fuente: Junta de Castilla y León",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-CM": {
+      "publisher": "Junta de Comunidades de Castilla-La Mancha",
+      "citation": "Fuente: Junta de Comunidades de Castilla-La Mancha",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-CT": {
+      "publisher": "Generalitat de Catalunya — Departament d'Empresa i Treball",
+      "citation": "Fuente: Generalitat de Catalunya — Departament d'Empresa i Treball",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)",
+      "url": "https://analisi.transparenciacatalunya.cat/resource/b4eh-r8up.json"
+    },
+    "ES-VC": {
+      "publisher": "Generalitat Valenciana",
+      "citation": "Fuente: Generalitat Valenciana",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-EX": {
+      "publisher": "Junta de Extremadura",
+      "citation": "Fuente: Junta de Extremadura",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-GA": {
+      "publisher": "Xunta de Galicia",
+      "citation": "Fuente: Xunta de Galicia",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-MD": {
+      "publisher": "Comunidad de Madrid",
+      "citation": "Fuente: Comunidad de Madrid",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-MC": {
+      "publisher": "Región de Murcia (CARM)",
+      "citation": "Fuente: Región de Murcia (CARM)",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-NC": {
+      "publisher": "Gobierno de Navarra — Nafarroako Gobernua",
+      "citation": "Fuente: Gobierno de Navarra — Nafarroako Gobernua",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-PV": {
+      "publisher": "Gobierno Vasco — Eusko Jaurlaritza",
+      "citation": "Fuente: Gobierno Vasco — Eusko Jaurlaritza",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-RI": {
+      "publisher": "Gobierno de La Rioja",
+      "citation": "Fuente: Gobierno de La Rioja",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-CE": {
+      "publisher": "Ciudad Autónoma de Ceuta",
+      "citation": "Fuente: Ciudad Autónoma de Ceuta",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    },
+    "ES-ML": {
+      "publisher": "Ciudad Autónoma de Melilla",
+      "citation": "Fuente: Ciudad Autónoma de Melilla",
+      "legal_basis": "Ley 37/2007 (reutilización de información del sector público; cita la fuente)"
+    }
+  }
+}

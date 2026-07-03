@@ -1,0 +1,368 @@
+{
+  "schema": "https://festivos.io/v1/schema/ccaa.json",
+  "version": "1.0.0",
+  "source": "derivado de v1/ref/municipios.json (INE)",
+  "count": 19,
+  "ccaa": [
+    {
+      "iso": "ES-AN",
+      "ine": "01",
+      "name": "Andalucía",
+      "municipios": 785,
+      "provinces": [
+        {
+          "ine": "04",
+          "name": "Almería"
+        },
+        {
+          "ine": "11",
+          "name": "Cádiz"
+        },
+        {
+          "ine": "14",
+          "name": "Córdoba"
+        },
+        {
+          "ine": "18",
+          "name": "Granada"
+        },
+        {
+          "ine": "21",
+          "name": "Huelva"
+        },
+        {
+          "ine": "23",
+          "name": "Jaén"
+        },
+        {
+          "ine": "29",
+          "name": "Málaga"
+        },
+        {
+          "ine": "41",
+          "name": "Sevilla"
+        }
+      ]
+    },
+    {
+      "iso": "ES-AR",
+      "ine": "02",
+      "name": "Aragón",
+      "municipios": 731,
+      "provinces": [
+        {
+          "ine": "22",
+          "name": "Huesca"
+        },
+        {
+          "ine": "44",
+          "name": "Teruel"
+        },
+        {
+          "ine": "50",
+          "name": "Zaragoza"
+        }
+      ]
+    },
+    {
+      "iso": "ES-AS",
+      "ine": "03",
+      "name": "Principado de Asturias",
+      "municipios": 78,
+      "provinces": [
+        {
+          "ine": "33",
+          "name": "Asturias"
+        }
+      ]
+    },
+    {
+      "iso": "ES-IB",
+      "ine": "04",
+      "name": "Illes Balears",
+      "municipios": 67,
+      "provinces": [
+        {
+          "ine": "07",
+          "name": "Illes Balears"
+        }
+      ]
+    },
+    {
+      "iso": "ES-CN",
+      "ine": "05",
+      "name": "Canarias",
+      "municipios": 88,
+      "provinces": [
+        {
+          "ine": "35",
+          "name": "Las Palmas"
+        },
+        {
+          "ine": "38",
+          "name": "Santa Cruz de Tenerife"
+        }
+      ]
+    },
+    {
+      "iso": "ES-CB",
+      "ine": "06",
+      "name": "Cantabria",
+      "municipios": 102,
+      "provinces": [
+        {
+          "ine": "39",
+          "name": "Cantabria"
+        }
+      ]
+    },
+    {
+      "iso": "ES-CL",
+      "ine": "07",
+      "name": "Castilla y León",
+      "municipios": 2248,
+      "provinces": [
+        {
+          "ine": "05",
+          "name": "Ávila"
+        },
+        {
+          "ine": "09",
+          "name": "Burgos"
+        },
+        {
+          "ine": "24",
+          "name": "León"
+        },
+        {
+          "ine": "34",
+          "name": "Palencia"
+        },
+        {
+          "ine": "37",
+          "name": "Salamanca"
+        },
+        {
+          "ine": "40",
+          "name": "Segovia"
+        },
+        {
+          "ine": "42",
+          "name": "Soria"
+        },
+        {
+          "ine": "47",
+          "name": "Valladolid"
+        },
+        {
+          "ine": "49",
+          "name": "Zamora"
+        }
+      ]
+    },
+    {
+      "iso": "ES-CM",
+      "ine": "08",
+      "name": "Castilla-La Mancha",
+      "municipios": 919,
+      "provinces": [
+        {
+          "ine": "02",
+          "name": "Albacete"
+        },
+        {
+          "ine": "13",
+          "name": "Ciudad Real"
+        },
+        {
+          "ine": "16",
+          "name": "Cuenca"
+        },
+        {
+          "ine": "19",
+          "name": "Guadalajara"
+        },
+        {
+          "ine": "45",
+          "name": "Toledo"
+        }
+      ]
+    },
+    {
+      "iso": "ES-CT",
+      "ine": "09",
+      "name": "Cataluña",
+      "municipios": 947,
+      "provinces": [
+        {
+          "ine": "08",
+          "name": "Barcelona"
+        },
+        {
+          "ine": "17",
+          "name": "Girona"
+        },
+        {
+          "ine": "25",
+          "name": "Lleida"
+        },
+        {
+          "ine": "43",
+          "name": "Tarragona"
+        }
+      ]
+    },
+    {
+      "iso": "ES-VC",
+      "ine": "10",
+      "name": "Comunitat Valenciana",
+      "municipios": 542,
+      "provinces": [
+        {
+          "ine": "03",
+          "name": "Alicante/Alacant"
+        },
+        {
+          "ine": "12",
+          "name": "Castellón/Castelló"
+        },
+        {
+          "ine": "46",
+          "name": "Valencia/València"
+        }
+      ]
+    },
+    {
+      "iso": "ES-EX",
+      "ine": "11",
+      "name": "Extremadura",
+      "municipios": 388,
+      "provinces": [
+        {
+          "ine": "06",
+          "name": "Badajoz"
+        },
+        {
+          "ine": "10",
+          "name": "Cáceres"
+        }
+      ]
+    },
+    {
+      "iso": "ES-GA",
+      "ine": "12",
+      "name": "Galicia",
+      "municipios": 313,
+      "provinces": [
+        {
+          "ine": "15",
+          "name": "A Coruña"
+        },
+        {
+          "ine": "27",
+          "name": "Lugo"
+        },
+        {
+          "ine": "32",
+          "name": "Ourense"
+        },
+        {
+          "ine": "36",
+          "name": "Pontevedra"
+        }
+      ]
+    },
+    {
+      "iso": "ES-MD",
+      "ine": "13",
+      "name": "Comunidad de Madrid",
+      "municipios": 179,
+      "provinces": [
+        {
+          "ine": "28",
+          "name": "Madrid"
+        }
+      ]
+    },
+    {
+      "iso": "ES-MC",
+      "ine": "14",
+      "name": "Región de Murcia",
+      "municipios": 45,
+      "provinces": [
+        {
+          "ine": "30",
+          "name": "Murcia"
+        }
+      ]
+    },
+    {
+      "iso": "ES-NC",
+      "ine": "15",
+      "name": "Comunidad Foral de Navarra",
+      "municipios": 272,
+      "provinces": [
+        {
+          "ine": "31",
+          "name": "Navarra"
+        }
+      ]
+    },
+    {
+      "iso": "ES-PV",
+      "ine": "16",
+      "name": "País Vasco",
+      "municipios": 252,
+      "provinces": [
+        {
+          "ine": "01",
+          "name": "Araba/Álava"
+        },
+        {
+          "ine": "20",
+          "name": "Gipuzkoa"
+        },
+        {
+          "ine": "48",
+          "name": "Bizkaia"
+        }
+      ]
+    },
+    {
+      "iso": "ES-RI",
+      "ine": "17",
+      "name": "La Rioja",
+      "municipios": 174,
+      "provinces": [
+        {
+          "ine": "26",
+          "name": "La Rioja"
+        }
+      ]
+    },
+    {
+      "iso": "ES-CE",
+      "ine": "18",
+      "name": "Ceuta",
+      "municipios": 1,
+      "provinces": [
+        {
+          "ine": "51",
+          "name": "Ceuta"
+        }
+      ]
+    },
+    {
+      "iso": "ES-ML",
+      "ine": "19",
+      "name": "Melilla",
+      "municipios": 1,
+      "provinces": [
+        {
+          "ine": "52",
+          "name": "Melilla"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "year": 2025,
+  "ccaa": "ES-CE",
+  "count_municipios": 1,
+  "count_festivos": 2,
+  "municipios": [
+    {"ine": "51001", "name": "Ceuta", "holidays": [{"date": "2025-03-31", "name": {"es": "Eidul Fitr (Fiesta de Culminación del Ramadán)"}, "level": "local", "type": "fixed", "source": {"ref": "Ceuta"}}, {"date": "2025-06-13", "name": {"es": "San Antonio"}, "level": "local", "type": "fixed", "source": {"ref": "Ceuta"}}]}
+  ]
+}

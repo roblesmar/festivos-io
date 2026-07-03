@@ -1,0 +1,89 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-VC",
+    "name": "Comunitat Valenciana"
+  },
+  "confidence": "media",
+  "source": {
+    "ref": "Resolución de 15 de junio de 2026, de la Dirección General de Centros Docentes, por la que se fija el calendario escolar del curso académico 2026-2027 en la Comunitat Valenciana",
+    "boletin": "DOGV",
+    "fecha": "2026-06-18",
+    "url": "https://comunica.gva.es/es/detalle?id=410987558&site=373430869"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria",
+      "start": "2026-09-09",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "ESO-bachillerato",
+      "start": "2026-09-09",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "FP (básica, media, superior)",
+      "start": "2026-09-09",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "Enseñanzas artísticas (Música/Danza/Diseño) y FPA",
+      "start": "2026-09-14",
+      "end": "2027-06-11"
+    },
+    {
+      "stage": "Enseñanzas deportivas de régimen especial",
+      "start": "2026-09-21",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "Escuelas Oficiales de Idiomas",
+      "start": "2026-09-28",
+      "end": "2027-06-18"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-22",
+      "to": "2027-01-06"
+    },
+    {
+      "name": {
+        "es": "Pascua / Semana Santa"
+      },
+      "from": "2027-03-25",
+      "to": "2027-04-05"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-10-09",
+      "name": {
+        "es": "Día de la Comunitat Valenciana"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "name": {
+        "es": "Fiesta Nacional de España"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "name": {
+        "es": "Inmaculada Concepción"
+      }
+    },
+    {
+      "date": "2027-03-19",
+      "name": {
+        "es": "San José"
+      }
+    }
+  ]
+}

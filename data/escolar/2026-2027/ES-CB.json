@@ -1,0 +1,208 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-CB",
+    "name": "Cantabria"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Orden EDU/10/2026, de 24 de marzo, por la que se establece el calendario escolar para el curso 2026-2027 para centros docentes no universitarios. Consejería de Educación, Formación Profesional y Universidades del Gobierno de Cantabria",
+    "boletin": "BOC núm. 75",
+    "fecha": "2026-04-21",
+    "url": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=434226"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria (incl. educación especial)",
+      "start": "2026-09-08",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "ESO-bachillerato",
+      "start": "2026-09-09",
+      "end": "2027-06-24"
+    },
+    {
+      "stage": "FP",
+      "start": "2026-09-09",
+      "end": "2027-06-24"
+    },
+    {
+      "stage": "música y danza (elementales y profesionales)",
+      "start": "2026-09-16",
+      "end": "2027-05-31"
+    },
+    {
+      "stage": "enseñanzas deportivas de régimen especial",
+      "start": "2026-09-18",
+      "end": "2027-06-24"
+    },
+    {
+      "stage": "artes plásticas y diseño / educación permanente de adultos",
+      "start": "2026-09-16",
+      "end": "2027-06-24"
+    },
+    {
+      "stage": "idiomas de régimen especial (EOI)",
+      "start": "2026-10-05",
+      "end": "2027-05-31"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-23",
+      "to": "2027-01-08"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-22",
+      "to": "2027-03-26"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-11-02",
+      "name": {
+        "es": "No lectivo"
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "name": {
+        "es": "No lectivo"
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "name": {
+        "es": "No lectivo"
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "name": {
+        "es": "No lectivo"
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "name": {
+        "es": "No lectivo"
+      }
+    },
+    {
+      "date": "2026-12-23",
+      "name": {
+        "es": "No lectivo (Navidad)"
+      }
+    },
+    {
+      "date": "2026-12-24",
+      "name": {
+        "es": "No lectivo (Navidad)"
+      }
+    },
+    {
+      "date": "2026-12-28",
+      "name": {
+        "es": "No lectivo (Navidad)"
+      }
+    },
+    {
+      "date": "2026-12-29",
+      "name": {
+        "es": "No lectivo (Navidad)"
+      }
+    },
+    {
+      "date": "2026-12-30",
+      "name": {
+        "es": "No lectivo (Navidad)"
+      }
+    },
+    {
+      "date": "2026-12-31",
+      "name": {
+        "es": "No lectivo (Navidad)"
+      }
+    },
+    {
+      "date": "2027-01-04",
+      "name": {
+        "es": "No lectivo (Navidad)"
+      }
+    },
+    {
+      "date": "2027-01-05",
+      "name": {
+        "es": "No lectivo (Navidad)"
+      }
+    },
+    {
+      "date": "2027-01-07",
+      "name": {
+        "es": "No lectivo (Navidad)"
+      }
+    },
+    {
+      "date": "2027-01-08",
+      "name": {
+        "es": "No lectivo (Navidad)"
+      }
+    },
+    {
+      "date": "2027-02-10",
+      "name": {
+        "es": "No lectivo"
+      }
+    },
+    {
+      "date": "2027-02-11",
+      "name": {
+        "es": "No lectivo"
+      }
+    },
+    {
+      "date": "2027-02-12",
+      "name": {
+        "es": "No lectivo"
+      }
+    },
+    {
+      "date": "2027-03-22",
+      "name": {
+        "es": "No lectivo (Semana Santa)"
+      }
+    },
+    {
+      "date": "2027-03-23",
+      "name": {
+        "es": "No lectivo (Semana Santa)"
+      }
+    },
+    {
+      "date": "2027-03-24",
+      "name": {
+        "es": "No lectivo (Semana Santa)"
+      }
+    },
+    {
+      "date": "2027-05-03",
+      "name": {
+        "es": "No lectivo"
+      }
+    },
+    {
+      "date": "2027-05-04",
+      "name": {
+        "es": "No lectivo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+# Servidor MCP remoto de festivos.
+# Expone los festivos de España como herramientas para agentes; envuelve el
+# dataset estático (festivos.io) y la API de consulta (api.festivos.io).
+
+name = "festivos-mcp"
+main = "src/index.ts"
+compatibility_date = "2025-01-15"
+compatibility_flags = ["nodejs_compat"]
+
+# Subdominio propio (custom domain); wrangler crea el DNS al desplegar.
+routes = [{ pattern = "mcp.festivos.io", custom_domain = true }]
+workers_dev = true
+
+[vars]
+API_BASE = "https://api.festivos.io"
+DATA_BASE = "https://festivos.io"
+
+# El protocolo MCP remoto usa un Durable Object (estado de sesión).
+[[durable_objects.bindings]]
+name = "MCP_OBJECT"
+class_name = "FestivosMCP"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["FestivosMCP"]

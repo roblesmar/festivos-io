@@ -1,0 +1,117 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-CL",
+    "name": "Castilla y León"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "ORDEN EDU/478/2026, de 25 de mayo, de la Consejería de Educación, por la que se aprueba el calendario escolar para el curso académico 2026-2027 en los centros docentes que impartan enseñanzas no universitarias en la Comunidad de Castilla y León",
+    "boletin": "BOCYL núm. 101",
+    "fecha": "2026-05-28",
+    "url": "https://bocyl.jcyl.es/boletines/2026/05/28/pdf/BOCYL-D-28052026-101-28.pdf"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria",
+      "start": "2026-09-09",
+      "end": "2027-06-24"
+    },
+    {
+      "stage": "ESO",
+      "start": "2026-09-15",
+      "end": "2027-06-24"
+    },
+    {
+      "stage": "bachillerato (1º curso)",
+      "start": "2026-09-15",
+      "end": "2027-06-17"
+    },
+    {
+      "stage": "bachillerato (2º curso, ordinario y nocturno)",
+      "start": "2026-09-15",
+      "end": "2027-05-21"
+    },
+    {
+      "stage": "FP (ciclos formativos presencial)",
+      "start": "2026-09-15",
+      "end": "2027-06-17"
+    },
+    {
+      "stage": "FP semipresencial/virtual y a distancia/adultos",
+      "start": "2026-09-22",
+      "end": "2027-06-17"
+    },
+    {
+      "stage": "enseñanzas de idiomas",
+      "start": "2026-10-05",
+      "end": "2027-05-28"
+    },
+    {
+      "stage": "música y danza / artísticas superiores / deportivas",
+      "start": "2026-10-01",
+      "end": "2027-06-24"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-23",
+      "to": "2027-01-10"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-20",
+      "to": "2027-03-30"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-10-12",
+      "name": {
+        "es": "Festivo (Fiesta Nacional de España)"
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "name": {
+        "es": "Día del Docente (no lectivo)"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "name": {
+        "es": "Festivo"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "name": {
+        "es": "Festivo (Día de la Constitución, traslado)"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "name": {
+        "es": "Festivo (Inmaculada Concepción)"
+      }
+    },
+    {
+      "date": "2027-02-08",
+      "name": {
+        "es": "Fiestas de Carnaval (no lectivo)"
+      }
+    },
+    {
+      "date": "2027-02-09",
+      "name": {
+        "es": "Fiestas de Carnaval (no lectivo)"
+      }
+    }
+  ]
+}

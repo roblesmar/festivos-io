@@ -1,0 +1,48 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-PV",
+    "name": "País Vasco"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Resolución de la Viceconsejera de Políticas Educativas por la que se dictan normas complementarias que han de regular la elaboración del calendario escolar para el curso 2026-2027 (Educación Infantil y Primaria). Departamento de Educación, Gobierno Vasco. Firmada electrónicamente el 21-04-2026 (Lucia Torrealday Berrueco). Localizador J0D0Z-T83ME-RHDE. Se complementa con la Resolución conjunta de la Viceconsejera de Políticas Educativas y el Viceconsejero de Formación Profesional para ESO, Bachillerato y FP (firmada 21-04-2026; localizador J0D0Z-T83N8-QW0K) y la Resolución para Escuelas Oficiales de Idiomas (localizador J0D0Z-T83ME-16Y3). Todas se dictan al amparo de la Orden de 10 de marzo de 2008 del Consejero de Educación, Universidades e Investigación (BOPV de 25 de abril de 2008).",
+    "fecha": "2026-04-21",
+    "url": "https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/2026_2027/Resolucion-calendario-Primaria-2026_27-cast-.pdf"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria",
+      "start": "2026-09-07",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "ESO-bachillerato",
+      "start": "2026-09-07",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "FP",
+      "start": "2026-09-03",
+      "end": "2027-06-18"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-24",
+      "to": "2027-01-06"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-25",
+      "to": "2027-03-29"
+    }
+  ],
+  "nonSchoolDays": []
+}

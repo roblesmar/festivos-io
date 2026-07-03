@@ -1,0 +1,83 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-EX",
+    "name": "Extremadura"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Resolución de 15 de junio de 2026, de la Secretaría General de Educación (Consejería de Educación y Formación Profesional, Junta de Extremadura), por la que se aprueba el calendario escolar para el curso 2026/2027",
+    "boletin": "DOE núm. 116",
+    "fecha": "2026-06-18",
+    "url": "https://doe.juntaex.es/pdfs/doe/2026/1160o/26061567.pdf"
+  },
+  "terms": [
+    {
+      "stage": "infantil-2ciclo-primaria-ESO-educacion-especial",
+      "start": "2026-09-10",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "infantil-1er-ciclo",
+      "start": "2026-09-10",
+      "end": "2027-07-23"
+    },
+    {
+      "stage": "bachillerato-1",
+      "start": "2026-09-11",
+      "end": "2027-06-17"
+    },
+    {
+      "stage": "bachillerato-2",
+      "start": "2026-09-11",
+      "end": "2027-05-07"
+    },
+    {
+      "stage": "FP-grado-basico",
+      "start": "2026-09-10",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "FP-grado-medio-superior",
+      "start": "2026-09-10",
+      "end": "2027-06-04"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-23",
+      "to": "2027-01-07"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-22",
+      "to": "2027-03-29"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2027-01-29",
+      "name": {
+        "es": "Día del Docente (excepto Conservatorios Oficiales de Música)"
+      }
+    },
+    {
+      "date": "2027-02-08",
+      "name": {
+        "es": "Carnaval"
+      }
+    },
+    {
+      "date": "2027-02-09",
+      "name": {
+        "es": "Carnaval"
+      }
+    }
+  ]
+}

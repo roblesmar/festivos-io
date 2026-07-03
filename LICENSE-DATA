@@ -1,0 +1,31 @@
+Licencia de los DATOS — Creative Commons Attribution 4.0 International (CC BY 4.0)
+================================================================================
+
+Los DATOS de este proyecto —los ficheros de festivos en formato JSON e ICS
+publicados bajo el prefijo `/v1/`, así como las tablas de referencia— se
+publican bajo la licencia Creative Commons Attribution 4.0 International
+(CC BY 4.0).
+
+  Texto legal completo: https://creativecommons.org/licenses/by/4.0/legalcode
+  Resumen legible:      https://creativecommons.org/licenses/by/4.0/deed.es
+
+Eres libre de:
+  - Compartir: copiar y redistribuir el material en cualquier medio o formato.
+  - Adaptar:   remezclar, transformar y construir a partir del material,
+               para cualquier finalidad, incluso comercial.
+
+Bajo la siguiente condición:
+  - Atribución: debes dar el crédito apropiado, enlazar a la licencia e indicar
+    si se han hecho cambios.
+
+Atribución sugerida:
+  «festivos.io — CC BY 4.0 — https://festivos.io»
+
+Fuentes oficiales de origen
+---------------------------
+Estos datos son una obra derivada de información del sector público español
+reutilizable (BOE, portales de datos abiertos autonómicos, INE, entre otros).
+La atribución a esas fuentes se documenta en FUENTES.md y se conserva en el
+campo `source` de cada festivo.
+
+(El CÓDIGO de este repositorio se licencia por separado bajo MIT; ver LICENSE.)

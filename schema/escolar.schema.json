@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://festivos.io/v1/schema/escolar.json",
+  "title": "Calendario escolar de España por CCAA (resumen de un curso)",
+  "type": "object",
+  "required": ["version", "year", "course", "regions"],
+  "properties": {
+    "schema": { "type": "string" },
+    "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "country": { "const": "ES" },
+    "calendarType": { "const": "escolar" },
+    "year": { "type": "integer", "description": "año natural de inicio del curso (2026 = curso 2026-2027)" },
+    "course": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{4}$" },
+    "disclaimer": { "type": "string" },
+    "count": { "type": "integer" },
+    "regions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ccaa", "name", "source"],
+        "properties": {
+          "ccaa": { "type": "string", "pattern": "^ES-[A-Z]{2}$" },
+          "name": { "type": "string" },
+          "termStart": { "type": ["string", "null"], "description": "inicio de curso más temprano" },
+          "termEnd": { "type": ["string", "null"] },
+          "confidence": { "enum": ["alta", "media", "baja"] },
+          "source": { "type": "object", "required": ["ref"], "properties": { "ref": { "type": "string" }, "url": { "type": "string", "format": "uri" } } }
+        }
+      }
+    }
+  }
+}

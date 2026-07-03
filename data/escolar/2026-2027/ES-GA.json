@@ -1,0 +1,68 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-GA",
+    "name": "Galicia"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Orde do 4 de xuño de 2026 pola que se aproba o calendario escolar para o curso 2026/27 nos centros docentes sostidos con fondos públicos na Comunidade Autónoma de Galicia (Consellería de Cultura, Educación, FP e Universidades)",
+    "boletin": "DOG núm. 110",
+    "fecha": "2026-06-15",
+    "url": "https://www.xunta.gal/dog/Publicados/2026/20260615/AnuncioG0761-050626-0001_es.html"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria",
+      "start": "2026-09-09",
+      "end": "2027-06-21"
+    },
+    {
+      "stage": "ESO-bachillerato",
+      "start": "2026-09-09",
+      "end": "2027-06-21"
+    },
+    {
+      "stage": "FP (1er curso de ciclos)",
+      "start": "2026-09-09",
+      "end": "2027-06-21"
+    },
+    {
+      "stage": "FP (2º curso de ciclos)",
+      "start": "2026-09-09",
+      "end": "2027-06-15"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-22",
+      "to": "2027-01-07"
+    },
+    {
+      "name": {
+        "es": "Carnaval (Entroido)"
+      },
+      "from": "2027-02-08",
+      "to": "2027-02-10"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-22",
+      "to": "2027-03-29"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-12-07",
+      "name": {
+        "es": "Día do Ensino (Día de la Enseñanza) - día no lectivo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "schema": "https://festivos.io/v1/schema/fiscal-catalogo.json",
+  "version": "1.0.0",
+  "description": "Catálogo de obligaciones tributarias recurrentes (AEAT). Metadatos por modelo: nombre, categoría, periodicidad y perfiles a los que aplica. Las FECHAS no están aquí: se toman de los feeds iCalendar oficiales de la AEAT al construir cada año. Editable por PR.",
+  "source": {
+    "ref": "AEAT — Calendario del contribuyente",
+    "url": "https://sede.agenciatributaria.gob.es/Sede/calendario-contribuyente.html"
+  },
+  "obligations": [
+    {
+      "model": "593",
+      "name": {
+        "es": "Impuestos especiales - autoliquidaciones (IIEE/medioambientales)"
+      },
+      "category": "IIEE",
+      "periodicity": "mensual",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "Según el impuesto especial concreto; con carácter general dentro del mes siguiente al periodo de liquidación."
+    },
+    {
+      "model": "100",
+      "name": {
+        "es": "IRPF - Declaración anual de la Renta"
+      },
+      "category": "IRPF",
+      "periodicity": "anual",
+      "profiles": [
+        "particular",
+        "autonomo"
+      ],
+      "window": "Campaña de Renta: desde el 8 de abril hasta el 30 de junio del año siguiente al ejercicio; con domiciliación bancaria del resultado a ingresar, hasta el 25 de junio."
+    },
+    {
+      "model": "130",
+      "name": {
+        "es": "IRPF - Pago fraccionado, estimación directa"
+      },
+      "category": "IRPF",
+      "periodicity": "trimestral",
+      "profiles": [
+        "autonomo"
+      ],
+      "window": "Del 1 al 20 del mes siguiente al trimestre (1T abril, 2T julio, 3T octubre); el 4T del 1 al 30 de enero."
+    },
+    {
+      "model": "131",
+      "name": {
+        "es": "IRPF - Pago fraccionado, estimación objetiva (módulos)"
+      },
+      "category": "IRPF",
+      "periodicity": "trimestral",
+      "profiles": [
+        "autonomo"
+      ],
+      "window": "Del 1 al 20 del mes siguiente al trimestre; el 4T del 1 al 30 de enero."
+    },
+    {
+      "model": "303",
+      "name": {
+        "es": "IVA - Autoliquidación"
+      },
+      "category": "IVA",
+      "periodicity": "trimestral",
+      "profiles": [
+        "autonomo",
+        "empresa"
+      ],
+      "window": "Trimestral: del 1 al 20 del mes siguiente al fin del trimestre (1T abril, 2T julio, 3T octubre); el 4T se presenta del 1 al 30 de enero. Mensual (grandes empresas/REDEME): del 1 al 30 del mes siguiente (febrero hasta el último día de febrero)."
+    },
+    {
+      "model": "322",
+      "name": {
+        "es": "IVA - Grupo de entidades, modelo individual"
+      },
+      "category": "IVA",
+      "periodicity": "mensual",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "Del 1 al 30 del mes siguiente al periodo (febrero hasta fin de febrero)."
+    },
+    {
+      "model": "349",
+      "name": {
+        "es": "IVA - Declaración recapitulativa de operaciones intracomunitarias"
+      },
+      "category": "IVA",
+      "periodicity": "mensual",
+      "profiles": [
+        "autonomo",
+        "empresa"
+      ],
+      "window": "Mensual: del 1 al 20 del mes siguiente. Trimestral (si procede): del 1 al 20 del mes siguiente al trimestre, 4T del 1 al 30 de enero."
+    },
+    {
+      "model": "353",
+      "name": {
+        "es": "IVA - Grupo de entidades, modelo agregado"
+      },
+      "category": "IVA",
+      "periodicity": "mensual",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "Del 1 al 30 del mes siguiente al periodo."
+    },
+    {
+      "model": "380",
+      "name": {
+        "es": "IVA - Operaciones asimiladas a las importaciones"
+      },
+      "category": "IVA",
+      "periodicity": "trimestral",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "Mismo plazo que el 303 del periodo correspondiente."
+    },
+    {
+      "model": "390",
+      "name": {
+        "es": "IVA - Resumen anual"
+      },
+      "category": "IVA",
+      "periodicity": "anual",
+      "profiles": [
+        "autonomo",
+        "empresa"
+      ],
+      "window": "Del 1 al 30 de enero del año siguiente al ejercicio."
+    },
+    {
+      "model": "165",
+      "name": {
+        "es": "Declaración informativa de certificaciones a socios de entidades de nueva/reciente creación"
+      },
+      "category": "informativas",
+      "periodicity": "anual",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "Durante el mes de enero (en 2026, hasta el 2 de febrero)."
+    },
+    {
+      "model": "180",
+      "name": {
+        "es": "Resumen anual de retenciones - rentas de arrendamiento de inmuebles urbanos"
+      },
+      "category": "informativas",
+      "periodicity": "anual",
+      "profiles": [
+        "autonomo",
+        "empresa"
+      ],
+      "window": "Del 1 de enero al último día de enero (2 de febrero de 2026, por ser inhábiles 31-ene y 1-feb)."
+    },
+    {
+      "model": "184",
+      "name": {
+        "es": "Declaración informativa de entidades en régimen de atribución de rentas"
+      },
+      "category": "informativas",
+      "periodicity": "anual",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "Durante el mes de enero (en 2026, hasta el 2 de febrero)."
+    },
+    {
+      "model": "190",
+      "name": {
+        "es": "Resumen anual de retenciones - rendimientos del trabajo y actividades económicas"
+      },
+      "category": "informativas",
+      "periodicity": "anual",
+      "profiles": [
+        "autonomo",
+        "empresa"
+      ],
+      "window": "Del 1 de enero al último día de enero (2 de febrero de 2026)."
+    },
+    {
+      "model": "193",
+      "name": {
+        "es": "Resumen anual de retenciones - capital mobiliario"
+      },
+      "category": "informativas",
+      "periodicity": "anual",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "Del 1 de enero al último día de enero (2 de febrero de 2026)."
+    },
+    {
+      "model": "347",
+      "name": {
+        "es": "Declaración anual de operaciones con terceras personas"
+      },
+      "category": "informativas",
+      "periodicity": "anual",
+      "profiles": [
+        "autonomo",
+        "empresa"
+      ],
+      "window": "Durante el mes de febrero (en 2026, hasta el 2 de marzo por ser inhábil el 28-feb)."
+    },
+    {
+      "model": "720",
+      "name": {
+        "es": "Declaración informativa sobre bienes y derechos situados en el extranjero"
+      },
+      "category": "informativas",
+      "periodicity": "anual",
+      "profiles": [
+        "particular",
+        "autonomo",
+        "empresa"
+      ],
+      "window": "Del 1 de enero al 31 de marzo del año siguiente al ejercicio."
+    },
+    {
+      "model": "721",
+      "name": {
+        "es": "Declaración informativa sobre monedas virtuales situadas en el extranjero"
+      },
+      "category": "informativas",
+      "periodicity": "anual",
+      "profiles": [
+        "particular",
+        "autonomo",
+        "empresa"
+      ],
+      "window": "Del 1 de enero al 31 de marzo del año siguiente."
+    },
+    {
+      "model": "714",
+      "name": {
+        "es": "Patrimonio - Declaración anual"
+      },
+      "category": "otros",
+      "periodicity": "anual",
+      "profiles": [
+        "particular"
+      ],
+      "window": "Mismo plazo que la campaña de Renta (8 abril - 30 junio; domiciliación hasta 25 junio)."
+    },
+    {
+      "model": "111",
+      "name": {
+        "es": "Retenciones e ingresos a cuenta - rendimientos del trabajo y actividades económicas"
+      },
+      "category": "retenciones",
+      "periodicity": "trimestral",
+      "profiles": [
+        "autonomo",
+        "empresa"
+      ],
+      "window": "Trimestral: del 1 al 20 del mes siguiente al trimestre (4T del 1 al 20 de enero). Mensual (grandes empresas): del 1 al 20 del mes siguiente."
+    },
+    {
+      "model": "115",
+      "name": {
+        "es": "Retenciones e ingresos a cuenta - rentas de arrendamiento de inmuebles urbanos"
+      },
+      "category": "retenciones",
+      "periodicity": "trimestral",
+      "profiles": [
+        "autonomo",
+        "empresa"
+      ],
+      "window": "Trimestral: del 1 al 20 del mes siguiente al trimestre. Mensual (grandes empresas): del 1 al 20 del mes siguiente."
+    },
+    {
+      "model": "117",
+      "name": {
+        "es": "Retenciones - rentas o ganancias de transmisiones/reembolsos de IIC"
+      },
+      "category": "retenciones",
+      "periodicity": "trimestral",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "Trimestral: del 1 al 20 del mes siguiente al trimestre. Mensual (grandes empresas): del 1 al 20 del mes siguiente."
+    },
+    {
+      "model": "123",
+      "name": {
+        "es": "Retenciones e ingresos a cuenta - rendimientos del capital mobiliario"
+      },
+      "category": "retenciones",
+      "periodicity": "trimestral",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "Trimestral: del 1 al 20 del mes siguiente al trimestre. Mensual (grandes empresas): del 1 al 20 del mes siguiente."
+    },
+    {
+      "model": "200",
+      "name": {
+        "es": "Impuesto sobre Sociedades - Declaración anual"
+      },
+      "category": "sociedades",
+      "periodicity": "anual",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "25 días naturales siguientes a los 6 meses posteriores al fin del periodo impositivo. Para ejercicio = año natural: del 1 al 25 de julio del año siguiente (si el 25 es inhábil, se traslada al siguiente hábil)."
+    },
+    {
+      "model": "202",
+      "name": {
+        "es": "Impuesto sobre Sociedades - Pago fraccionado a cuenta"
+      },
+      "category": "sociedades",
+      "periodicity": "trimestral",
+      "profiles": [
+        "empresa"
+      ],
+      "window": "Tres plazos al año: del 1 al 20 de abril, del 1 al 20 de octubre y del 1 al 20 de diciembre."
+    }
+  ]
+}

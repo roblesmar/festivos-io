@@ -1,0 +1,126 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-AR",
+    "name": "Aragón"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Resolución de 29 de abril de 2025, del Director General de Planificación, Centros y Formación Profesional, por la que se aprueban los calendarios escolares de los cursos 2025-2026 y 2026-2027 correspondientes a las enseñanzas de niveles no universitarios de la Comunidad Autónoma de Aragón",
+    "boletin": "BOA núm. 88",
+    "fecha": "2025-05-12",
+    "url": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1392479120808"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria-EE-ESO",
+      "start": "2026-09-08",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "ESO-bachillerato",
+      "start": "2026-09-09",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "FP grado D y E (presencial)",
+      "start": "2026-09-10",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "FP grado D y E (semipresencial/virtual)",
+      "start": "2026-10-01",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "Educación de Personas Adultas",
+      "start": "2026-09-14",
+      "end": "2027-06-18"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-22",
+      "to": "2027-01-06"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-25",
+      "to": "2027-04-02"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-10-12",
+      "name": {
+        "es": "Fiesta nacional"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "name": {
+        "es": "En sustitución del Día de Todos los Santos"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "name": {
+        "es": "En sustitución del Día de la Constitución"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "name": {
+        "es": "Inmaculada Concepción"
+      }
+    },
+    {
+      "date": "2027-04-23",
+      "name": {
+        "es": "Día de Aragón"
+      }
+    },
+    {
+      "date": "2027-02-18",
+      "name": {
+        "es": "Vacación provincial Huesca/Teruel"
+      }
+    },
+    {
+      "date": "2027-02-19",
+      "name": {
+        "es": "Vacación provincial Huesca/Teruel"
+      }
+    },
+    {
+      "date": "2027-05-03",
+      "name": {
+        "es": "Vacación provincial Huesca/Zaragoza"
+      }
+    },
+    {
+      "date": "2027-04-26",
+      "name": {
+        "es": "Vacación provincial Teruel"
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "name": {
+        "es": "Vacación provincial Zaragoza"
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "name": {
+        "es": "Vacación provincial Zaragoza"
+      }
+    }
+  ]
+}

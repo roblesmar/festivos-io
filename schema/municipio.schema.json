@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://festivos.io/v1/schema/municipio.json",
+  "title": "Festivos de un municipio en un año",
+  "description": "Lista explícita de los festivos (nacional, autonómico y local) de un municipio español identificado por su código INE de 5 dígitos, para un año concreto.",
+  "type": "object",
+  "required": ["version", "year", "municipality", "holidays"],
+  "additionalProperties": false,
+  "properties": {
+    "schema": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL del JSON Schema que valida este fichero."
+    },
+    "version": {
+      "type": "string",
+      "description": "Versión semántica del formato del fichero.",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 1900,
+      "maximum": 2100
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "municipality": {
+      "type": "object",
+      "required": ["ine", "name", "province", "ccaa"],
+      "additionalProperties": false,
+      "properties": {
+        "ine": {
+          "type": "string",
+          "pattern": "^[0-9]{5}$",
+          "description": "Código INE de municipio: CPRO (2) + CMUN (3), con ceros a la izquierda."
+        },
+        "name": { "type": "string" },
+        "province": {
+          "type": "object",
+          "required": ["ine", "name"],
+          "additionalProperties": false,
+          "properties": {
+            "ine": { "type": "string", "pattern": "^[0-9]{2}$" },
+            "name": { "type": "string" }
+          }
+        },
+        "ccaa": {
+          "type": "object",
+          "required": ["code", "name"],
+          "additionalProperties": false,
+          "properties": {
+            "code": {
+              "type": "string",
+              "pattern": "^ES-[A-Z]{2}$",
+              "description": "Código ISO 3166-2:ES de la comunidad o ciudad autónoma."
+            },
+            "name": { "type": "string" }
+          }
+        }
+      }
+    },
+    "holidays": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/holiday" }
+    }
+  },
+  "$defs": {
+    "holiday": {
+      "type": "object",
+      "required": ["date", "name", "level", "type", "source"],
+      "additionalProperties": false,
+      "properties": {
+        "date": {
+          "type": "string",
+          "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+          "description": "Fecha del festivo en formato ISO-8601 (YYYY-MM-DD)."
+        },
+        "name": {
+          "type": "object",
+          "description": "Nombre del festivo por idioma. Claves BCP 47: es (obligatorio), ca, eu, gl, ca-valencia.",
+          "required": ["es"],
+          "minProperties": 1,
+          "propertyNames": { "pattern": "^[a-z]{2}(-[a-z]+)?$" },
+          "additionalProperties": { "type": "string" }
+        },
+        "level": {
+          "enum": ["national", "regional", "local"],
+          "description": "Ámbito del festivo."
+        },
+        "type": {
+          "enum": ["fixed", "movable", "substitute"],
+          "description": "fixed = fecha fija; movable = depende de la Pascua; substitute = festivo nacional sustituible o sustituido a nivel autonómico."
+        },
+        "substitutable": {
+          "type": "boolean",
+          "description": "true si la CCAA podía sustituir este festivo nacional (marca ** del BOE)."
+        },
+        "source": {
+          "type": "object",
+          "required": ["ref"],
+          "additionalProperties": false,
+          "properties": {
+            "ref": { "type": "string", "description": "Referencia legal de la fuente (p. ej. BOE-A-2025-21667)." },
+            "url": { "type": "string", "format": "uri" }
+          }
+        },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}

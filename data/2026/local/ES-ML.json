@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "year": 2026,
+  "ccaa": "ES-ML",
+  "count_municipios": 1,
+  "count_festivos": 2,
+  "municipios": [
+    {"ine": "52001", "name": "Melilla", "holidays": [{"date": "2026-09-08", "name": {"es": "Festivo local"}, "level": "local", "type": "fixed", "source": {"ref": "Melilla"}}, {"date": "2026-09-17", "name": {"es": "Festivo local"}, "level": "local", "type": "fixed", "source": {"ref": "Melilla"}}]}
+  ]
+}

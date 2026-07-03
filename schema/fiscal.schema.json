@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://festivos.io/v1/schema/fiscal.json",
+  "title": "Calendario fiscal (AEAT) de un año, dateado",
+  "type": "object",
+  "required": ["version", "year", "deadlines"],
+  "properties": {
+    "schema": { "type": "string" },
+    "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "country": { "const": "ES" },
+    "calendarType": { "const": "fiscal" },
+    "year": { "type": "integer", "minimum": 1900, "maximum": 2100 },
+    "profile": { "enum": ["particular", "autonomo", "empresa"], "description": "presente solo en fiscal/{perfil}.json" },
+    "source": { "$ref": "#/$defs/source" },
+    "disclaimer": { "type": "string" },
+    "count": { "type": "integer" },
+    "deadlines": { "type": "array", "items": { "$ref": "#/$defs/deadline" } }
+  },
+  "$defs": {
+    "deadline": {
+      "type": "object",
+      "required": ["date", "figure", "category", "name", "source"],
+      "properties": {
+        "date": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$", "description": "fecha límite ya ajustada a día hábil por la AEAT" },
+        "figure": { "type": "string", "description": "figura tributaria (Renta, IVA, Sociedades...)" },
+        "category": { "type": "string", "description": "categoría-slug normalizada" },
+        "models": { "type": "array", "items": { "type": "string" }, "description": "modelos AEAT citados (303, 130, 200...)" },
+        "profiles": { "type": "array", "items": { "enum": ["particular", "autonomo", "empresa"] } },
+        "name": { "type": "object", "required": ["es"], "additionalProperties": { "type": "string" } },
+        "source": { "$ref": "#/$defs/source" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "required": ["ref"],
+      "properties": {
+        "ref": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "ical": { "type": "string", "format": "uri", "description": "feed iCalendar oficial de la AEAT del que procede" }
+      }
+    }
+  }
+}

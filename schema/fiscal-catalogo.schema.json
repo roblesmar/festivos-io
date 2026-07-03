@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://festivos.io/v1/schema/fiscal-catalogo.json",
+  "title": "Catálogo de obligaciones tributarias (AEAT), sin datear",
+  "description": "Metadatos por modelo. Las fechas NO están aquí: se toman de los feeds iCalendar oficiales de la AEAT al construir cada año. Editable por PR.",
+  "type": "object",
+  "required": ["version", "obligations"],
+  "properties": {
+    "schema": { "type": "string" },
+    "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "description": { "type": "string" },
+    "source": { "type": "object", "required": ["ref"], "properties": { "ref": { "type": "string" }, "url": { "type": "string", "format": "uri" } } },
+    "obligations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["model", "name", "category", "profiles"],
+        "properties": {
+          "model": { "type": "string", "description": "modelo AEAT: 303, 100, 200..." },
+          "name": { "type": "object", "required": ["es"], "additionalProperties": { "type": "string" } },
+          "category": { "type": "string" },
+          "periodicity": { "type": "string", "enum": ["mensual", "trimestral", "anual", "puntual", ""] },
+          "profiles": { "type": "array", "items": { "enum": ["particular", "autonomo", "empresa"] } },
+          "window": { "type": "string", "description": "regla del plazo (informativa)" }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-AN",
+    "name": "Andalucía"
+  },
+  "confidence": "media",
+  "source": {
+    "ref": "Calendario Escolar 2026-2027 publicado por la Consejería de Desarrollo Educativo y FP de la Junta de Andalucía (documento provincial - Provincia de Cádiz); marco normativo: Decreto 301/2009, de 14 de julio, por el que se regula el calendario y la jornada escolar en los centros docentes, a excepción de los universitarios. Las fechas concretas de cada curso las fijan anualmente las Delegaciones Territoriales por provincia.",
+    "boletin": "BOJA (Decreto 301/2009 publicado en BOJA nº 139, de 20 de julio de 2009)",
+    "fecha": "2009-07-20",
+    "url": "https://www.juntadeandalucia.es/educacion/portales/documents/1197071/0/CALENDARIO%20ESCOLAR%202026_2027.pdf/a55f8427-74f2-8211-eca1-20044826ba52?version=1.0"
+  },
+  "terms": [
+    {
+      "stage": "1er ciclo Educación Infantil (0-3)",
+      "start": "2026-09-03",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "infantil-primaria (2º ciclo Ed. Infantil, Primaria, Ed. Especial)",
+      "start": "2026-09-10",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "ESO-bachillerato",
+      "start": "2026-09-15",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "FP, Enseñanzas Artísticas y Ed. Permanente",
+      "start": "2026-09-15",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "Enseñanzas de Idiomas de Régimen Especial",
+      "start": "2026-09-21",
+      "end": "2027-06-23"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad (Cádiz)"
+      },
+      "from": "2026-12-23",
+      "to": "2027-01-08"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-22",
+      "to": "2027-03-28"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-10-12",
+      "name": {
+        "es": "Fiesta Nacional de España"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "name": {
+        "es": "Fiesta de Todos los Santos (1 nov. trasladado al 2 nov.)"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "name": {
+        "es": "Día de la Constitución Española (6 dic. trasladado al 7 dic.)"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "name": {
+        "es": "Inmaculada Concepción"
+      }
+    },
+    {
+      "date": "2027-02-28",
+      "name": {
+        "es": "Día de Andalucía (trasladado al 1 mar.)"
+      }
+    },
+    {
+      "date": "2027-03-01",
+      "name": {
+        "es": "Día de Andalucía (festivo trasladado)"
+      }
+    },
+    {
+      "date": "2027-04-30",
+      "name": {
+        "es": "Día de la Comunidad Educativa"
+      }
+    }
+  ]
+}

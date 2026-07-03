@@ -1,0 +1,162 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-ML",
+    "name": "Melilla"
+  },
+  "confidence": "media",
+  "source": {
+    "ref": "Calendario Escolar 2026-2027 de la Ciudad de Melilla, aprobado por la Direccion General de Planificacion y Gestion Educativa (MEFP) a propuesta de la Direccion Provincial de Educacion de Melilla. Documento oficial publicado por la Direccion Provincial de Melilla en el portal del Ministerio de Educacion, Formacion Profesional y Deportes.",
+    "boletin": "Sin boletin autonomico: Melilla carece de competencias educativas propias; la competencia la ejerce el MEFP (Direccion Provincial). El calendario se publica directamente en el portal del Ministerio, no en el BOME.",
+    "fecha": "2026-04-15",
+    "url": "https://www.educacionfpydeportes.gob.es/dam/jcr:e28bf20a-105d-4567-9b3c-21fb986dfc6e/calendario-escolar-26-27.pdf"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria",
+      "start": "2026-09-14",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "ESO-bachillerato",
+      "start": "2026-09-14",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "FP",
+      "start": "2026-09-09",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "Escuela de Arte",
+      "start": "2026-09-09",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "EOI-Conservatorio-CEPA",
+      "start": "2026-09-21",
+      "end": "2027-06-23"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-23",
+      "to": "2027-01-07"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-22",
+      "to": "2027-04-02"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-09-08",
+      "name": {
+        "es": "Dia de fiesta"
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "name": {
+        "es": "Dia de fiesta"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "name": {
+        "es": "Fiesta Nacional de Espana"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "name": {
+        "es": "Dia de fiesta (traslado Dia de la Constitucion)"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "name": {
+        "es": "Inmaculada Concepcion"
+      }
+    },
+    {
+      "date": "2027-01-01",
+      "name": {
+        "es": "Ano Nuevo"
+      }
+    },
+    {
+      "date": "2027-01-06",
+      "name": {
+        "es": "Epifania (Reyes)"
+      }
+    },
+    {
+      "date": "2027-01-08",
+      "name": {
+        "es": "Dia de libre disposicion"
+      }
+    },
+    {
+      "date": "2027-03-09",
+      "name": {
+        "es": "Fiesta (Fin del Ramadan / Eid al-Fitr, fecha aproximada)"
+      }
+    },
+    {
+      "date": "2027-03-25",
+      "name": {
+        "es": "Jueves Santo"
+      }
+    },
+    {
+      "date": "2027-03-26",
+      "name": {
+        "es": "Viernes Santo"
+      }
+    },
+    {
+      "date": "2027-03-29",
+      "name": {
+        "es": "Dia de libre disposicion"
+      }
+    },
+    {
+      "date": "2027-03-30",
+      "name": {
+        "es": "Dia de libre disposicion"
+      }
+    },
+    {
+      "date": "2027-03-31",
+      "name": {
+        "es": "Dia de libre disposicion"
+      }
+    },
+    {
+      "date": "2027-04-01",
+      "name": {
+        "es": "Dia de libre disposicion"
+      }
+    },
+    {
+      "date": "2027-04-02",
+      "name": {
+        "es": "Dia de libre disposicion"
+      }
+    },
+    {
+      "date": "2027-05-17",
+      "name": {
+        "es": "Fiesta (Pascua Musulmana / Eid al-Adha, fecha aproximada)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-CM",
+    "name": "Castilla-La Mancha"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Orden 79/2026, de 26 de mayo, de la Consejería de Educación, Cultura y Deportes, por la que se establece el calendario escolar para el curso 2026/2027 y los criterios y procedimiento para la elaboración de los calendarios escolares provinciales en las enseñanzas no universitarias",
+    "boletin": "DOCM Núm. 104",
+    "fecha": "2026-06-03",
+    "url": "https://docm.jccm.es/docm/verArchivoHtml.do?ruta=2026%2F06%2F03%2Fhtml%2F2026_4106.html&tipo=rutaDocm"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria (2º ciclo infantil, primaria, especial)",
+      "start": "2026-09-08",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "ESO-bachillerato (ESO, Bachillerato, Ciclos Formativos Básicos)",
+      "start": "2026-09-08",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "FP (Ciclos Formativos Grado Medio y Superior)",
+      "start": "2026-09-08",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "FP-ciclos de especialización",
+      "start": "2026-09-28",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "FP virtual",
+      "start": "2026-10-13",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "escuelas infantiles autonómicas (0-3)",
+      "start": "2026-09-08",
+      "end": "2027-07-23"
+    },
+    {
+      "stage": "enseñanzas de música y danza",
+      "start": "2026-09-08",
+      "end": "2027-06-11"
+    },
+    {
+      "stage": "enseñanzas de idiomas (régimen especial / EOI)",
+      "start": "2026-09-23",
+      "end": "2027-06-22"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-23",
+      "to": "2027-01-08"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-22",
+      "to": "2027-03-29"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-11-20",
+      "name": {
+        "es": "Día de la Enseñanza (no lectivo autonómico)"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "name": {
+        "es": "Día no lectivo adicional (puente de la Constitución)"
+      }
+    },
+    {
+      "date": "2027-02-08",
+      "name": {
+        "es": "Día de libre disposición"
+      }
+    },
+    {
+      "date": "2027-02-09",
+      "name": {
+        "es": "Día de libre disposición"
+      }
+    },
+    {
+      "date": "2027-05-28",
+      "name": {
+        "es": "Día no lectivo adicional"
+      }
+    }
+  ]
+}

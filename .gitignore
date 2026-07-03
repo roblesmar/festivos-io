@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node (mcp/)
+node_modules/
+dist/
+.wrangler/
+
+# Cache de descargas de fuentes oficiales (BOE, INE, boletines autonómicos…)
+/.cache/
+/cache/
+
+# Dataset generado bajo v1/{año}/ — artefacto derivado y reproducible con
+# `festivos build {año}`; se sirve en festivos.io/v1/. Solo se versiona v1/ref/.
+/v1/20*/
+
+# Entorno y sistema
+.env
+.env.local
+.DS_Store

@@ -1,0 +1,74 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-CT",
+    "name": "Cataluña"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Ordre EDF/66/2026, de 22 d'abril, del Departament d'Educació i Formació Professional, per la qual s'estableix el calendari escolar dels cursos 2026-2027, 2027-2028 i 2028-2029 per als centres educatius no universitaris de Catalunya",
+    "boletin": "DOGC núm. 9653 (CVE-DOGC-A-26113047-2026)",
+    "fecha": "2026-04-27",
+    "url": "https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1042830"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria (2n cicle infantil i primària)",
+      "start": "2026-09-08",
+      "end": "2027-06-21"
+    },
+    {
+      "stage": "ESO",
+      "start": "2026-09-08",
+      "end": "2027-06-21"
+    },
+    {
+      "stage": "bachillerato (1r curs)",
+      "start": "2026-09-08",
+      "end": "2027-06-17"
+    },
+    {
+      "stage": "institut escola (totes les etapes)",
+      "start": "2026-09-08",
+      "end": "2027-06-21"
+    },
+    {
+      "stage": "FP basica (grau bàsic)",
+      "start": "2026-09-08",
+      "end": "segons programació acadèmica del centre"
+    },
+    {
+      "stage": "FP grado medio y superior",
+      "start": "2026-09-14",
+      "end": "segons programació acadèmica del centre"
+    },
+    {
+      "stage": "formación personas adultas",
+      "start": "2026-09-21",
+      "end": "segons programació acadèmica"
+    },
+    {
+      "stage": "escuelas oficiales de idiomas (EOI)",
+      "start": "2026-09-21",
+      "end": "segons programació acadèmica"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-22",
+      "to": "2027-01-07"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-20",
+      "to": "2027-03-29"
+    }
+  ],
+  "nonSchoolDays": []
+}

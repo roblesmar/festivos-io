@@ -1,0 +1,121 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-RI",
+    "name": "La Rioja"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Resolución 34/2026, de 14 de abril, de la Consejería de Educación y Empleo, por la que se establece el calendario escolar para el curso académico 2026-2027 en los centros docentes no universitarios de la Comunidad Autónoma de La Rioja",
+    "boletin": "BOR núm. 71",
+    "fecha": "2026-04-16",
+    "url": "https://web.larioja.org/bor/boranuncio?n=39880457-3-HTML-576591-X"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria",
+      "start": "2026-09-09",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "ESO-bachillerato",
+      "start": "2026-09-09",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "educacion-especial",
+      "start": "2026-09-09",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "FP",
+      "start": "2026-09-09",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "FP a distancia",
+      "start": "2026-09-28",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "Educacion de Adultos",
+      "start": "2026-09-14",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "Conservatorios de Musica",
+      "start": "2026-09-28",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "Escuelas Oficiales de Idiomas",
+      "start": "2026-09-28",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "Ensenanzas Deportivas",
+      "start": "2026-10-01",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "Escuela Superior de Diseno (ESDIR)",
+      "start": "2026-09-09",
+      "end": "2027-06-25"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-23",
+      "to": "2027-01-06"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-25",
+      "to": "2027-04-04"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-10-12",
+      "name": {
+        "es": "Fiesta Nacional de Espana"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "name": {
+        "es": "Lunes siguiente al Dia de la Constitucion (no lectivo)"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "name": {
+        "es": "Inmaculada Concepcion"
+      }
+    },
+    {
+      "date": "2027-02-26",
+      "name": {
+        "es": "Dia de la Comunidad Educativa (no lectivo)"
+      }
+    },
+    {
+      "date": "2027-05-01",
+      "name": {
+        "es": "Fiesta del Trabajo"
+      }
+    },
+    {
+      "date": "2027-06-09",
+      "name": {
+        "es": "Dia de La Rioja"
+      }
+    }
+  ]
+}

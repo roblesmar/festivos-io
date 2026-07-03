@@ -1,0 +1,11 @@
+import { Client } from "@modelcontextprotocol/sdk/client/index.js";
+import { StreamableHTTPClientTransport } from "@modelcontextprotocol/sdk/client/streamableHttp.js";
+const t = new StreamableHTTPClientTransport(new URL("https://mcp.festivos.io/mcp"));
+const c = new Client({ name: "t", version: "1" }); await c.connect(t);
+console.log("tools:", (await c.listTools()).tools.map(x=>x.name).join(", "));
+const r1 = await c.callTool({ name:"proximas_obligaciones_fiscales", arguments:{ desde:"2026-04-01", perfil:"autonomo", n:3 }});
+console.log("\nautónomo desde abril:\n"+r1.content[0].text);
+const r2 = await c.callTool({ name:"calendario_escolar", arguments:{ ccaa:"Madrid" }});
+const e=JSON.parse(r2.content[0].text);
+console.log("\nescolar Madrid:", e.course, "| terms:", e.terms.length, "| breaks:", e.breaks.map(b=>b.name.es).join(", "));
+await c.close();

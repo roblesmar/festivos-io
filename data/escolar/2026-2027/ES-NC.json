@@ -1,0 +1,81 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-NC",
+    "name": "Navarra"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Resolución 143/2026, de 31 de marzo, del director general de Educación y Formación Profesional, por la que se aprueban las instrucciones para la elaboración del calendario y horario de las enseñanzas de segundo ciclo de Educación Infantil, Educación Primaria, Educación Especial, ESO y Bachillerato en centros educativos de la Comunidad Foral de Navarra, para el curso 2026-2027",
+    "boletin": "BON nº 77",
+    "fecha": "2026-04-21",
+    "url": "https://bon.navarra.es/es/anuncio/-/texto/2026/77/6"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria-especial",
+      "start": "2026-09-04",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "ESO-bachillerato",
+      "start": "2026-09-04",
+      "end": "2027-06-18"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-23",
+      "to": "2027-01-10"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-25",
+      "to": "2027-04-04"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-10-12",
+      "name": {
+        "es": "Fiesta Nacional de España (festivo laboral ordinario de Navarra)"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "name": {
+        "es": "Día festivo según calendario laboral ordinario de Navarra"
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "name": {
+        "es": "San Francisco Javier, día de Navarra (festivo laboral ordinario)"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "name": {
+        "es": "Inmaculada Concepción (festivo laboral ordinario de Navarra)"
+      }
+    },
+    {
+      "date": "2026-11-27",
+      "name": {
+        "es": "Festividad patronal del nivel educativo (Infantil/Primaria/Especial; cada centro puede cambiarla)"
+      }
+    },
+    {
+      "date": "2027-01-28",
+      "name": {
+        "es": "Festividad patronal del nivel educativo (ESO/Bachillerato; cada centro puede cambiarla)"
+      }
+    }
+  ]
+}

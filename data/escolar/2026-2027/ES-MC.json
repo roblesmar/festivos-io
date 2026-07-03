@@ -1,0 +1,86 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-MC",
+    "name": "Murcia"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Resolución de 8 de junio de 2026 de la Dirección General de Centros Educativos e Infraestructuras por la que se establece el período lectivo del curso escolar 2026-2027",
+    "boletin": "BORM núm. 132, anuncio 2748 (NPE: A-110626-2748)",
+    "fecha": "2026-06-11",
+    "url": "https://www.borm.es/services/anuncio/ano/2026/numero/2748/pdf?id=843430"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria-educacion-especial",
+      "start": "2026-09-08",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "ESO-bachillerato-FP-grado-basico-adultos",
+      "start": "2026-09-10",
+      "end": "2027-06-21"
+    },
+    {
+      "stage": "FP (FPGM, FPGS)",
+      "start": "2026-09-14",
+      "end": "2027-06-21"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-24",
+      "to": "2027-01-06"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-22",
+      "to": "2027-03-29"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-12-23",
+      "name": {
+        "es": "Día no lectivo establecido por la D.G. de Centros Educativos e Infraestructuras (art. 5.4 Orden 15/02/2023)"
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "name": {
+        "es": "Patrón: Enseñanzas Profesionales de Artes Plásticas y Diseño y Escuela Superior de Diseño"
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "name": {
+        "es": "Patrón: Enseñanzas Elementales y Profesionales de Música y Danza, Enseñanzas Superiores de Música y de Arte Dramático"
+      }
+    },
+    {
+      "date": "2026-11-27",
+      "name": {
+        "es": "Patrón: Ed. Infantil, Ed. Primaria y Ed. Especial"
+      }
+    },
+    {
+      "date": "2027-01-29",
+      "name": {
+        "es": "Patrón: ESO, Bachillerato, Escuela Oficial de Idiomas y Ed. de Personas Adultas"
+      }
+    },
+    {
+      "date": "2027-02-01",
+      "name": {
+        "es": "Patrón: Formación Profesional (FPGB, FPGM, FPGS)"
+      }
+    }
+  ]
+}

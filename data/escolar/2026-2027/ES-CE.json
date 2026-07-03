@@ -1,0 +1,103 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-CE",
+    "name": "Ceuta"
+  },
+  "confidence": "media",
+  "source": {
+    "ref": "Calendario escolar 2026-2027 aprobado por la Dirección Provincial de Ceuta del Ministerio de Educación, Formación Profesional y Deportes (MEFPD). Documento oficial cód. 26-070-01 (calendario-escolar-26-27-v1), publicado el 12-06-2026 en la web de la Dirección Provincial de Ceuta. No es una norma publicada en BOE: el BOE solo regula el proceso de admisión (Resolución de la Secretaría de Estado de Educación), no el calendario escolar.",
+    "boletin": "No publicado en boletín; documento de la Dirección Provincial (web MEFPD-Ceuta)",
+    "fecha": "2026-06-12",
+    "url": "https://www.educacionfpydeportes.gob.es/dam/jcr:a9cf685a-32f4-480f-8878-c06cae54fc37/26-070-01-calendario-escolar-26-27-v1.pdf"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria",
+      "start": "2026-09-08",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "ESO-bachillerato",
+      "start": "2026-09-08",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "educacion-especial",
+      "start": "2026-09-08",
+      "end": "2027-06-23"
+    },
+    {
+      "stage": "FP-EOI-artes-plasticas",
+      "start": "2026-09-10",
+      "end": "2027-06-30"
+    },
+    {
+      "stage": "educacion-personas-adultas",
+      "start": "2026-09-23",
+      "end": "2027-06-30"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-23",
+      "to": "2027-01-10"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-20",
+      "to": "2027-04-04"
+    },
+    {
+      "name": {
+        "es": "Semana Blanca"
+      },
+      "from": "2027-03-29",
+      "to": "2027-04-02"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-11-02",
+      "name": {
+        "es": "Día de libre disposición (puente Todos los Santos)"
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "name": {
+        "es": "Día de libre disposición (puente Todos los Santos)"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "name": {
+        "es": "Día de libre disposición (puente de la Constitución)"
+      }
+    },
+    {
+      "date": "2027-01-08",
+      "name": {
+        "es": "Día de libre disposición"
+      }
+    },
+    {
+      "date": "2027-02-12",
+      "name": {
+        "es": "Día de libre disposición (Carnaval)"
+      }
+    },
+    {
+      "date": "2027-05-18",
+      "name": {
+        "es": "Día de libre disposición (Pascua musulmana / Eid)"
+      }
+    }
+  ]
+}

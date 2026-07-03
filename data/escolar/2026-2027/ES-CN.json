@@ -1,0 +1,138 @@
+{
+  "schema": "https://festivos.io/v1/schema/escolar-ccaa.json",
+  "course": "2026-2027",
+  "ccaa": {
+    "code": "ES-CN",
+    "name": "Canarias"
+  },
+  "confidence": "alta",
+  "source": {
+    "ref": "Resolución de 17 de marzo de 2026, de la Dirección General de Administración de Centros, Escolarización y Servicios Complementarios, por la que se establece el calendario y se dictan instrucciones para la organización y desarrollo de las actividades de comienzo y finalización del curso 2026-2027, para los centros de enseñanzas no universitarias de la Comunidad Autónoma de Canarias",
+    "boletin": "BOC núm. 61",
+    "fecha": "2026-03-30",
+    "url": "https://www.gobiernodecanarias.org/boc/2026/061/1025.html"
+  },
+  "terms": [
+    {
+      "stage": "infantil-primaria",
+      "start": "2026-09-09",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "ESO",
+      "start": "2026-09-10",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "bachillerato-1",
+      "start": "2026-09-11",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "bachillerato-2",
+      "start": "2026-09-11",
+      "end": "2027-05-14"
+    },
+    {
+      "stage": "FP grado C (IFE +16 / IFC +21)",
+      "start": "2026-09-16",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "FP grado D (ciclos básico/medio/superior)",
+      "start": "2026-09-16",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "EBPA (ESO de personas adultas)",
+      "start": "2026-09-21",
+      "end": "2027-06-22"
+    },
+    {
+      "stage": "Bachillerato de personas adultas 1º",
+      "start": "2026-09-11",
+      "end": "2027-06-18"
+    },
+    {
+      "stage": "Bachillerato de personas adultas 2º",
+      "start": "2026-09-11",
+      "end": "2027-05-14"
+    },
+    {
+      "stage": "Enseñanzas de idiomas (EOI)",
+      "start": "2026-09-21",
+      "end": "2027-05-27"
+    },
+    {
+      "stage": "Enseñanzas Artísticas Superiores (curso completo)",
+      "start": "2026-09-01",
+      "end": "2027-07-02"
+    }
+  ],
+  "breaks": [
+    {
+      "name": {
+        "es": "Navidad"
+      },
+      "from": "2026-12-22",
+      "to": "2027-01-07"
+    },
+    {
+      "name": {
+        "es": "Semana Santa"
+      },
+      "from": "2027-03-22",
+      "to": "2027-03-26"
+    }
+  ],
+  "nonSchoolDays": [
+    {
+      "date": "2026-11-02",
+      "name": {
+        "es": "Todos los Santos (traslado)"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "name": {
+        "es": "Día del Enseñante y del Estudiante (festivo a efectos académicos)"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "name": {
+        "es": "Inmaculada Concepción"
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "name": {
+        "es": "Festividad insular Gran Canaria (Ntra. Sra. del Pino)"
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "name": {
+        "es": "Festividad insular Lanzarote y La Graciosa (Ntra. Sra. de Los Volcanes)"
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "name": {
+        "es": "Festividad insular Fuerteventura (Ntra. Sra. de la Peña)"
+      }
+    },
+    {
+      "date": "2026-09-24",
+      "name": {
+        "es": "Festividad insular El Hierro (Ntra. Sra. de los Reyes)"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "name": {
+        "es": "Festividad insular La Gomera (Ntra. Sra. de Guadalupe)"
+      }
+    }
+  ]
+}

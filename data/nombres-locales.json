@@ -3302,6 +3302,13 @@
     ],
     "13034": [
       {
+        "mmdd": "05-25",
+        "name": {
+          "es": "Romería de Alarcos"
+        },
+        "source": "https://www.ciudadreal.es/servicios-municipales/festejos/fiestas-y-tradiciones.html"
+      },
+      {
         "mmdd": "08-15",
         "name": {
           "es": "Nuestra Señora del Prado"
@@ -3417,6 +3424,13 @@
           "es": "Feria de Mayo"
         },
         "source": "https://es.wikipedia.org/wiki/Puertollano"
+      },
+      {
+        "mmdd": "05-21",
+        "name": {
+          "es": "Santo Voto"
+        },
+        "source": "https://www.puertollano.es/santovoto/"
       },
       {
         "mmdd": "06-05",
@@ -3693,6 +3707,13 @@
           "es": "San Julián"
         },
         "source": "https://es.wikipedia.org/wiki/Cuenca_(Espa%C3%B1a)"
+      },
+      {
+        "mmdd": "06-01",
+        "name": {
+          "es": "Virgen de la Luz"
+        },
+        "source": "https://ayuntamiento.cuenca.es/noticia/los-festivos-de-la-ciudad-de-cuenca-en-2025-seran-el-28-de-enero-y-el-2-de-junio"
       },
       {
         "mmdd": "06-02",
@@ -4331,6 +4352,13 @@
         "source": "https://es.wikipedia.org/wiki/Azuqueca_de_Henares"
       },
       {
+        "mmdd": "09-21",
+        "name": {
+          "es": "Fiestas de Septiembre en honor a la Virgen de la Soledad"
+        },
+        "source": "https://www.azuqueca.es/tu-ciudad/sobre-azuqueca/fiestas"
+      },
+      {
         "mmdd": "09-22",
         "name": {
           "es": "Fiestas de Septiembre en honor de Nuestra Señora de la Soledad"
@@ -4377,6 +4405,13 @@
           "es": "Virgen de la Antigua"
         },
         "source": "https://es.wikipedia.org/wiki/Guadalajara_(Espa%C3%B1a)"
+      },
+      {
+        "mmdd": "09-18",
+        "name": {
+          "es": "Ferias y Fiestas de Guadalajara"
+        },
+        "source": "https://www.guadalajara.es/es/ciudad/fiestas-tradicionales.html"
       }
     ],
     "19171": [

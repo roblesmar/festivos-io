@@ -43,6 +43,13 @@
         "source": "https://es.wikipedia.org/wiki/Almansa"
       },
       {
+        "mmdd": "08-31",
+        "name": {
+          "es": "Feria de Almansa"
+        },
+        "source": "https://es.wikipedia.org/wiki/Almansa"
+      },
+      {
         "mmdd": "09-01",
         "name": {
           "es": "Feria de Almansa"
@@ -51,6 +58,13 @@
       }
     ],
     "02024": [
+      {
+        "mmdd": "04-27",
+        "name": {
+          "es": "Romería de la Virgen de la Cabeza"
+        },
+        "source": "https://es.wikipedia.org/wiki/Casas-Ib%C3%A1%C3%B1ez"
+      },
       {
         "mmdd": "04-28",
         "name": {
@@ -91,6 +105,13 @@
         "source": "https://es.wikipedia.org/wiki/Hell%C3%ADn"
       },
       {
+        "mmdd": "10-02",
+        "name": {
+          "es": "Feria de Hellín"
+        },
+        "source": "https://turismohellin.es/actividad/feria-de-hellin-2026/"
+      },
+      {
         "mmdd": "10-24",
         "name": {
           "es": "San Rafael"
@@ -99,6 +120,13 @@
       }
     ],
     "02069": [
+      {
+        "mmdd": "02-18",
+        "name": {
+          "es": "Carnaval de La Roda"
+        },
+        "source": "https://es.wikipedia.org/wiki/Fiestas_de_Inter%C3%A9s_Tur%C3%ADstico_de_Castilla-La_Mancha"
+      },
       {
         "mmdd": "05-15",
         "name": {
@@ -128,6 +156,13 @@
           "es": "San Blas"
         },
         "source": "https://es.wikipedia.org/wiki/Tarazona_de_la_Mancha"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Feria de San Bartolomé"
+        },
+        "source": "https://es.wikipedia.org/wiki/Tarazona_de_la_Mancha"
       }
     ],
     "02074": [
@@ -147,6 +182,13 @@
       }
     ],
     "02081": [
+      {
+        "mmdd": "02-20",
+        "name": {
+          "es": "Carnaval de Villarrobledo"
+        },
+        "source": "https://turismo.villarrobledo.com/fiestas.php"
+      },
       {
         "mmdd": "08-18",
         "name": {
@@ -3259,6 +3301,13 @@
           "es": "Virgen del Rosario Coronada"
         },
         "source": "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_San_Juan"
+      },
+      {
+        "mmdd": "12-28",
+        "name": {
+          "es": "Carnaval de Alcázar de San Juan"
+        },
+        "source": "https://es.wikipedia.org/wiki/Carnaval_de_Alc%C3%A1zar_de_San_Juan"
       }
     ],
     "13013": [
@@ -3286,6 +3335,13 @@
     ],
     "13023": [
       {
+        "mmdd": "04-27",
+        "name": {
+          "es": "Romería de la Virgen del Monte"
+        },
+        "source": "https://es.wikipedia.org/wiki/Bola%C3%B1os_de_Calatrava"
+      },
+      {
         "mmdd": "04-28",
         "name": {
           "es": "Romería de la Virgen del Monte"
@@ -3294,6 +3350,13 @@
       },
       {
         "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas del Cristo de la Albahaca"
+        },
+        "source": "https://es.wikipedia.org/wiki/Bola%C3%B1os_de_Calatrava"
+      },
+      {
+        "mmdd": "09-14",
         "name": {
           "es": "Fiestas del Cristo de la Albahaca"
         },
@@ -3332,6 +3395,13 @@
         "source": "https://es.wikipedia.org/wiki/Daimiel"
       },
       {
+        "mmdd": "09-04",
+        "name": {
+          "es": "Ferias y Fiestas de Daimiel"
+        },
+        "source": "https://es.wikipedia.org/wiki/Daimiel"
+      },
+      {
         "mmdd": "09-05",
         "name": {
           "es": "Romería de la Virgen de las Cruces"
@@ -3340,6 +3410,13 @@
       }
     ],
     "13047": [
+      {
+        "mmdd": "02-17",
+        "name": {
+          "es": "Carnaval de Herencia"
+        },
+        "source": "https://es.wikipedia.org/wiki/Carnaval_de_Herencia"
+      },
       {
         "mmdd": "03-04",
         "name": {
@@ -3356,6 +3433,13 @@
       }
     ],
     "13053": [
+      {
+        "mmdd": "07-10",
+        "name": {
+          "es": "Feria Nacional del Campo"
+        },
+        "source": "https://es.wikipedia.org/wiki/Manzanares_(Ciudad_Real)"
+      },
       {
         "mmdd": "07-11",
         "name": {
@@ -3387,9 +3471,23 @@
     ],
     "13054": [
       {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Santiago Apóstol"
+        },
+        "source": "https://es.wikipedia.org/wiki/Membrilla"
+      },
+      {
         "mmdd": "07-25",
         "name": {
           "es": "Santiago Apóstol"
+        },
+        "source": "https://es.wikipedia.org/wiki/Membrilla"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Desposorios de la Virgen del Espino"
         },
         "source": "https://es.wikipedia.org/wiki/Membrilla"
       },
@@ -3402,6 +3500,13 @@
       }
     ],
     "13056": [
+      {
+        "mmdd": "02-18",
+        "name": {
+          "es": "Carnaval de Miguelturra"
+        },
+        "source": "https://es.wikipedia.org/wiki/Miguelturra"
+      },
       {
         "mmdd": "03-05",
         "name": {
@@ -3449,6 +3554,13 @@
     ],
     "13078": [
       {
+        "mmdd": "08-10",
+        "name": {
+          "es": "Fiestas patronales del Santísimo Cristo de la Vega"
+        },
+        "source": "https://es.wikipedia.org/wiki/Socu%C3%A9llamos"
+      },
+      {
         "mmdd": "09-08",
         "name": {
           "es": "Festividad de la Virgen de Loreto"
@@ -3466,6 +3578,13 @@
     "13079": [
       {
         "mmdd": "07-25",
+        "name": {
+          "es": "Ferias y fiestas en honor a Santiago y Santa Ana"
+        },
+        "source": "https://es.wikipedia.org/wiki/La_Solana_(Ciudad_Real)"
+      },
+      {
+        "mmdd": "07-27",
         "name": {
           "es": "Ferias y fiestas en honor a Santiago y Santa Ana"
         },
@@ -3732,6 +3851,13 @@
     ],
     "16133": [
       {
+        "mmdd": "08-10",
+        "name": {
+          "es": "La Traída de la Virgen de Manjavacas"
+        },
+        "source": "https://es.wikipedia.org/wiki/Mota_del_Cuervo"
+      },
+      {
         "mmdd": "08-11",
         "name": {
           "es": "La Traída de la Virgen de Manjavacas"
@@ -3788,6 +3914,20 @@
       }
     ],
     "16190": [
+      {
+        "mmdd": "05-25",
+        "name": {
+          "es": "Fiestas de Rus"
+        },
+        "source": "https://es.wikipedia.org/wiki/San_Clemente_(Cuenca)"
+      },
+      {
+        "mmdd": "08-20",
+        "name": {
+          "es": "Feria y Fiestas de San Clemente"
+        },
+        "source": "https://es.wikipedia.org/wiki/San_Clemente_(Cuenca)"
+      },
       {
         "mmdd": "08-21",
         "name": {
@@ -4384,6 +4524,13 @@
     ],
     "19071": [
       {
+        "mmdd": "02-02",
+        "name": {
+          "es": "Fiesta de la Candelaria"
+        },
+        "source": "https://es.wikipedia.org/wiki/El_Casar"
+      },
+      {
         "mmdd": "02-03",
         "name": {
           "es": "Fiesta de la Candelaria"
@@ -4392,6 +4539,13 @@
       },
       {
         "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas patronales en honor de la Virgen de la Antigua"
+        },
+        "source": "https://es.wikipedia.org/wiki/El_Casar"
+      },
+      {
+        "mmdd": "09-10",
         "name": {
           "es": "Fiestas patronales en honor de la Virgen de la Antigua"
         },
@@ -4415,6 +4569,13 @@
       }
     ],
     "19171": [
+      {
+        "mmdd": "04-30",
+        "name": {
+          "es": "Fiestas patronales en honor al Santísimo Cristo de la Esperanza"
+        },
+        "source": "https://es.wikipedia.org/wiki/Marchamalo"
+      },
       {
         "mmdd": "05-02",
         "name": {
@@ -4440,6 +4601,13 @@
       }
     ],
     "19192": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Fiestas patronales del Santísimo Cristo del Calvario"
+        },
+        "source": "https://es.wikipedia.org/wiki/Mond%C3%A9jar"
+      },
       {
         "mmdd": "09-15",
         "name": {
@@ -4490,6 +4658,13 @@
       },
       {
         "mmdd": "08-16",
+        "name": {
+          "es": "Fiestas patronales de verano en honor de San Roque y la Virgen de la Mayor"
+        },
+        "source": "https://es.wikipedia.org/wiki/Sig%C3%BCenza"
+      },
+      {
+        "mmdd": "08-17",
         "name": {
           "es": "Fiestas patronales de verano en honor de San Roque y la Virgen de la Mayor"
         },
@@ -10964,6 +11139,13 @@
         "source": "https://es.wikipedia.org/wiki/Consuegra"
       },
       {
+        "mmdd": "09-21",
+        "name": {
+          "es": "Ferias y Fiestas en honor al Santísimo Cristo de la Vera Cruz"
+        },
+        "source": "https://es.wikipedia.org/wiki/Consuegra"
+      },
+      {
         "mmdd": "09-22",
         "name": {
           "es": "Ferias y Fiestas en honor al Santísimo Cristo de la Vera Cruz"
@@ -10994,9 +11176,23 @@
           "es": "San Sebastián"
         },
         "source": "https://es.wikipedia.org/wiki/Madridejos"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Ferias y fiestas en honor al Santísimo Cristo del Prado"
+        },
+        "source": "https://es.wikipedia.org/wiki/Madridejos"
       }
     ],
     "45106": [
+      {
+        "mmdd": "04-27",
+        "name": {
+          "es": "Fiesta del Olivo"
+        },
+        "source": "https://es.wikipedia.org/wiki/Mora_(Toledo)"
+      },
       {
         "mmdd": "04-28",
         "name": {
@@ -11024,6 +11220,13 @@
         "mmdd": "07-25",
         "name": {
           "es": "Santiago Apóstol"
+        },
+        "source": "https://es.wikipedia.org/wiki/Quintanar_de_la_Orden"
+      },
+      {
+        "mmdd": "08-18",
+        "name": {
+          "es": "Fiestas en honor a la Virgen de la Piedad"
         },
         "source": "https://es.wikipedia.org/wiki/Quintanar_de_la_Orden"
       }
@@ -11063,6 +11266,13 @@
         "mmdd": "08-15",
         "name": {
           "es": "Virgen del Sagrario"
+        },
+        "source": "https://es.wikipedia.org/wiki/Toledo"
+      },
+      {
+        "mmdd": "11-26",
+        "name": {
+          "es": "San Eugenio"
         },
         "source": "https://es.wikipedia.org/wiki/Toledo"
       }

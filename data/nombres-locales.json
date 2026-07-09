@@ -340,6 +340,13 @@
     ],
     "02035": [
       {
+        "mmdd": "04-30",
+        "name": {
+          "es": "Virgen del Buen Suceso"
+        },
+        "source": "https://lagineta.es/fiestas/"
+      },
+      {
         "mmdd": "09-14",
         "name": {
           "es": "Cristo de la Misericordia"
@@ -4118,6 +4125,13 @@
           "es": "Virgen del Rosario Coronada"
         },
         "source": "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_San_Juan"
+      },
+      {
+        "mmdd": "12-28",
+        "name": {
+          "es": "Carnavalcázar"
+        },
+        "source": "https://www.turismociudadreal.com/pueblos/alcazar-de-san-juan/"
       }
     ],
     "13007": [
@@ -5566,6 +5580,13 @@
     ],
     "13093": [
       {
+        "mmdd": "09-18",
+        "name": {
+          "es": "Santo Tomasillo"
+        },
+        "source": "https://www.turismociudadreal.com/pueblos/villanueva-de-los-infantes/"
+      },
+      {
         "mmdd": "09-08",
         "name": {
           "es": "Fiestas Patronales en honor a la Virgen de la Antigua"
@@ -5635,6 +5656,22 @@
           "es": "Fiestas de San Juan"
         },
         "source": "https://www.turismociudadreal.com/pueblos/villarta-de-san-juan/"
+      }
+    ],
+    "13098": [
+      {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Fiestas de Santiago Apóstol"
+        },
+        "source": "https://www.turismociudadreal.com/pueblos/viso-del-marques/"
+      },
+      {
+        "mmdd": "11-30",
+        "name": {
+          "es": "San Andrés"
+        },
+        "source": "https://www.turismociudadreal.com/pueblos/viso-del-marques/"
       }
     ],
     "13901": [

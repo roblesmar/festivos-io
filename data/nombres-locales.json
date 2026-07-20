@@ -27,6 +27,15 @@
         "source": "https://abengibre.es/fiestas-y-agenda-cultural/"
       }
     ],
+    "02002": [
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      }
+    ],
     "02003": [
       {
         "mmdd": "06-24",
@@ -91,6 +100,15 @@
         "source": "https://alcadozo.es/pagina/"
       }
     ],
+    "02007": [
+      {
+        "mmdd": "08-10",
+        "name": {
+          "es": "Fiestas de San Lorenzo"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      }
+    ],
     "02008": [
       {
         "mmdd": "02-02",
@@ -111,16 +129,16 @@
       {
         "mmdd": "05-01",
         "name": {
-          "es": "Fiestas Mayores de Moros y Cristianos en honor a la Virgen de Belén; del 30 de abril al 6 de mayo"
+          "es": "Fiestas Mayores de Almansa"
         },
-        "source": "https://es.wikipedia.org/wiki/Almansa"
+        "source": "https://almansa.es/fiestas-mayores/"
       },
       {
         "mmdd": "05-06",
         "name": {
-          "es": "Fiestas Mayores de Moros y Cristianos en honor a la Virgen de Belén"
+          "es": "Fiestas Mayores de Almansa"
         },
-        "source": "https://es.wikipedia.org/wiki/Almansa"
+        "source": "https://almansa.es/fiestas-mayores/"
       },
       {
         "mmdd": "08-31",
@@ -134,7 +152,32 @@
         "name": {
           "es": "Feria de Almansa"
         },
-        "source": "https://es.wikipedia.org/wiki/Almansa"
+        "source": "https://almansa.es/presentada-la-programacion-completa-de-la-feria-de-almansa-2025"
+      }
+    ],
+    "02010": [
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "Fiestas de la Santa Cruz"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      }
+    ],
+    "02011": [
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Fiestas de la Virgen de lo Alto"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas de la Virgen de lo Alto"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
       }
     ],
     "02012": [
@@ -151,6 +194,22 @@
           "es": "Santa Mónica"
         },
         "source": "https://balazote.es/fiestas/"
+      }
+    ],
+    "02013": [
+      {
+        "mmdd": "01-16",
+        "name": {
+          "es": "San Antón"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "Fiestas de Santa Cruz"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
       }
     ],
     "02014": [
@@ -176,6 +235,22 @@
           "es": "Romería de Santa Quiteria"
         },
         "source": "https://barrax.es/fiestas/"
+      }
+    ],
+    "02016": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Romería de la Virgen del Turruchel"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas de la Virgen del Turruchel"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
       }
     ],
     "02017": [
@@ -210,6 +285,22 @@
         "source": "https://bonete.es/fiestas/"
       }
     ],
+    "02019": [
+      {
+        "mmdd": "03-04",
+        "name": {
+          "es": "Santísimo Cristo de los Milagros"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de los Milagros"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      }
+    ],
     "02020": [
       {
         "mmdd": "08-26",
@@ -224,6 +315,31 @@
           "es": "San Andrés"
         },
         "source": "https://carcelen.es/turismo/fiestas/"
+      }
+    ],
+    "02021": [
+      {
+        "mmdd": "01-16",
+        "name": {
+          "es": "San Antón"
+        },
+        "source": "https://casasdejuannunez.es/fiestas/"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://casasdejuannunez.es/fiestas/"
+      }
+    ],
+    "02022": [
+      {
+        "mmdd": "03-20",
+        "name": {
+          "es": "Fiestas Patronales en honor a San José"
+        },
+        "source": "https://casasdelazaro.es/fiestas-casas-de-lazaro-san-jose-2026/"
       }
     ],
     "02023": [
@@ -255,14 +371,14 @@
         "name": {
           "es": "Romería de la Virgen de la Cabeza"
         },
-        "source": "https://es.wikipedia.org/wiki/Casas-Ib%C3%A1%C3%B1ez"
+        "source": "https://casasibanez.es/fiestas"
       },
       {
         "mmdd": "08-28",
         "name": {
           "es": "Ferias y fiestas en honor a San Agustín"
         },
-        "source": "https://es.wikipedia.org/wiki/Casas-Ib%C3%A1%C3%B1ez"
+        "source": "https://casasibanez.es/fiestas"
       }
     ],
     "02025": [
@@ -271,7 +387,7 @@
         "name": {
           "es": "Moros y Cristianos en honor a la Virgen de Gracia"
         },
-        "source": "https://es.wikipedia.org/wiki/Caudete"
+        "source": "https://caudete.es/turismo/fiestas/"
       }
     ],
     "02026": [
@@ -320,6 +436,47 @@
           "es": "Fiestas de Septiembre"
         },
         "source": "https://turismoelchedelasierra.com/fiestas/"
+      }
+    ],
+    "02031": [
+      {
+        "mmdd": "10-05",
+        "name": {
+          "es": "Fiestas de la Virgen del Rosario"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "10-06",
+        "name": {
+          "es": "Fiestas de la Virgen del Rosario"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      }
+    ],
+    "02032": [
+      {
+        "mmdd": "05-11",
+        "name": {
+          "es": "San Gregorio Nacianceno"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de la Fuensanta"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      }
+    ],
+    "02033": [
+      {
+        "mmdd": "10-09",
+        "name": {
+          "es": "Fiestas de San Dionisio"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
       }
     ],
     "02034": [
@@ -376,14 +533,14 @@
         "name": {
           "es": "Tamborada / Semana Santa de Hellín"
         },
-        "source": "https://es.wikipedia.org/wiki/Hell%C3%ADn"
+        "source": "https://turismohellin.es/semana-santa-y-tamboradas/"
       },
       {
         "mmdd": "05-31",
         "name": {
           "es": "Virgen del Rosario"
         },
-        "source": "https://es.wikipedia.org/wiki/Hell%C3%ADn"
+        "source": "https://turismohellin.es/ofrenda-a-la-patrona/"
       },
       {
         "mmdd": "10-02",
@@ -397,7 +554,23 @@
         "name": {
           "es": "San Rafael"
         },
-        "source": "https://es.wikipedia.org/wiki/Hell%C3%ADn"
+        "source": "https://turismohellin.es/fiestas-de-san-rafael/"
+      }
+    ],
+    "02038": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "10-13",
+        "name": {
+          "es": "Fiestas de la Virgen del Pilar"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
       }
     ],
     "02039": [
@@ -514,6 +687,15 @@
         "source": "https://mahora.es/fiestas/"
       }
     ],
+    "02048": [
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Fiestas del Beato Alonso Pacheco"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      }
+    ],
     "02049": [
       {
         "mmdd": "03-19",
@@ -603,6 +785,22 @@
         "source": "https://navasdejorquera.es/fiestas/"
       }
     ],
+    "02055": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiestas de Nerpio (encierros)"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "Fiestas de Nerpio (encierros)"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      }
+    ],
     "02056": [
       {
         "mmdd": "03-18",
@@ -617,6 +815,22 @@
           "es": "Fiestas de San José"
         },
         "source": "https://ontur.es/fiestas/"
+      }
+    ],
+    "02057": [
+      {
+        "mmdd": "04-29",
+        "name": {
+          "es": "San Pedro Mártir de Verona"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Miguel Arcángel"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
       }
     ],
     "02058": [
@@ -681,6 +895,22 @@
           "es": "Fiestas patronales en honor a San Bernabé"
         },
         "source": "https://petrola.es/fiestas/"
+      }
+    ],
+    "02062": [
+      {
+        "mmdd": "04-24",
+        "name": {
+          "es": "San Marcos"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "10-05",
+        "name": {
+          "es": "Fiestas de la Virgen del Rosario"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
       }
     ],
     "02063": [
@@ -797,11 +1027,34 @@
     ],
     "02070": [
       {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
         "mmdd": "08-17",
         "name": {
           "es": "Fiestas de Salobre y Reolid"
         },
         "source": "https://www.salobre.es/"
+      }
+    ],
+    "02071": [
+      {
+        "mmdd": "06-26",
+        "name": {
+          "es": "Fiestas de San Pedro"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "06-29",
+        "name": {
+          "es": "Fiestas de San Pedro"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
       }
     ],
     "02072": [
@@ -826,14 +1079,14 @@
         "name": {
           "es": "San Antón"
         },
-        "source": "https://es.wikipedia.org/wiki/Tarazona_de_la_Mancha"
+        "source": "https://tarazonadelamancha.es/fiestas/"
       },
       {
         "mmdd": "02-03",
         "name": {
           "es": "San Blas"
         },
-        "source": "https://es.wikipedia.org/wiki/Tarazona_de_la_Mancha"
+        "source": "https://tarazonadelamancha.es/fiestas/"
       },
       {
         "mmdd": "08-24",
@@ -849,14 +1102,14 @@
         "name": {
           "es": "Fiestas de San Antón"
         },
-        "source": "https://es.wikipedia.org/wiki/Tobarra"
+        "source": "https://tobarra.es/fiestas/"
       },
       {
         "mmdd": "04-21",
         "name": {
           "es": "Semana Santa / Tamborada de Tobarra"
         },
-        "source": "https://es.wikipedia.org/wiki/Tobarra"
+        "source": "https://tobarra.es/semana-santa/"
       }
     ],
     "02075": [
@@ -891,6 +1144,31 @@
         "source": "https://vianos.es/fiestas/"
       }
     ],
+    "02077": [
+      {
+        "mmdd": "05-08",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Fiestas del Santísimo Cristo de la Vida"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      }
+    ],
+    "02078": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      }
+    ],
     "02079": [
       {
         "mmdd": "05-15",
@@ -898,6 +1176,15 @@
           "es": "San Isidro"
         },
         "source": "https://villamalea.es/san-isidro/"
+      }
+    ],
+    "02080": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Fiestas del Cristo"
+        },
+        "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
       }
     ],
     "02081": [
@@ -913,7 +1200,7 @@
         "name": {
           "es": "Feria de Villarrobledo"
         },
-        "source": "https://es.wikipedia.org/wiki/Villarrobledo"
+        "source": "https://turismo.villarrobledo.com/fiestas.php"
       }
     ],
     "02082": [
@@ -955,6 +1242,31 @@
           "es": "Fiestas en honor a San Mateo Apóstol"
         },
         "source": "https://villaverdedeguadalimar.es/fiestas/"
+      }
+    ],
+    "02085": [
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "Virgen de las Aguas"
+        },
+        "source": "https://viveros.es/fiestas-2/"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://viveros.es/fiestas-2/"
+      }
+    ],
+    "02086": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Romería y Fiestas de San Bartolomé"
+        },
+        "source": "https://yeste.es/romeria-y-fiestas-de-san-bartolome/"
       }
     ],
     "03009": [
@@ -4110,21 +4422,21 @@
         "name": {
           "es": "San Isidro Labrador"
         },
-        "source": "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_San_Juan"
+        "source": "https://www.turismociudadreal.com/pueblos/alcazar-de-san-juan/"
       },
       {
         "mmdd": "09-08",
         "name": {
           "es": "Feria en honor a la Virgen del Rosario"
         },
-        "source": "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_San_Juan"
+        "source": "https://www.turismociudadreal.com/pueblos/alcazar-de-san-juan/"
       },
       {
         "mmdd": "10-04",
         "name": {
           "es": "Virgen del Rosario Coronada"
         },
-        "source": "https://es.wikipedia.org/wiki/Alc%C3%A1zar_de_San_Juan"
+        "source": "https://www.turismociudadreal.com/pueblos/alcazar-de-san-juan/"
       },
       {
         "mmdd": "12-28",
@@ -4229,21 +4541,21 @@
         "name": {
           "es": "Virgen de las Nieves"
         },
-        "source": "https://es.wikipedia.org/wiki/Almagro_(Ciudad_Real)"
+        "source": "https://www.turismociudadreal.com/pueblos/almagro/"
       },
       {
         "mmdd": "08-24",
         "name": {
           "es": "Ferias en honor de San Bartolomé"
         },
-        "source": "https://es.wikipedia.org/wiki/Almagro_(Ciudad_Real)"
+        "source": "https://www.turismociudadreal.com/pueblos/almagro/"
       },
       {
         "mmdd": "08-25",
         "name": {
           "es": "Ferias en honor de San Bartolomé"
         },
-        "source": "https://es.wikipedia.org/wiki/Almagro_(Ciudad_Real)"
+        "source": "https://www.turismociudadreal.com/pueblos/almagro/"
       }
     ],
     "13014": [
@@ -4396,7 +4708,7 @@
         "name": {
           "es": "Romería de la Virgen del Monte"
         },
-        "source": "https://es.wikipedia.org/wiki/Bola%C3%B1os_de_Calatrava"
+        "source": "https://www.turismociudadreal.com/pueblos/bolanos-de-calatrava/"
       },
       {
         "mmdd": "09-08",
@@ -4556,14 +4868,14 @@
         "name": {
           "es": "Nuestra Señora del Prado"
         },
-        "source": "https://es.wikipedia.org/wiki/Ciudad_Real"
+        "source": "https://www.turismociudadreal.com/pueblos/ciudad-real/"
       },
       {
         "mmdd": "08-22",
         "name": {
           "es": "Ferias y Fiestas en honor a la Virgen del Prado"
         },
-        "source": "https://es.wikipedia.org/wiki/Ciudad_Real"
+        "source": "https://www.ciudadreal.es/servicios-municipales/festejos/fiestas-y-tradiciones.html"
       }
     ],
     "13035": [
@@ -4629,7 +4941,7 @@
         "name": {
           "es": "Nuestra Señora de las Cruces"
         },
-        "source": "https://es.wikipedia.org/wiki/Daimiel"
+        "source": "https://www.daimiel.es/es/turismo/fiestas"
       },
       {
         "mmdd": "09-04",
@@ -4643,7 +4955,7 @@
         "name": {
           "es": "Romería de la Virgen de las Cruces"
         },
-        "source": "https://es.wikipedia.org/wiki/Daimiel"
+        "source": "https://www.daimiel.es/es/turismo/fiestas"
       }
     ],
     "13040": [
@@ -4764,14 +5076,14 @@
         "name": {
           "es": "Carnaval de Herencia"
         },
-        "source": "https://es.wikipedia.org/wiki/Herencia_(Ciudad_Real)"
+        "source": "https://herencia.es/carnaval-2025"
       },
       {
         "mmdd": "09-24",
         "name": {
           "es": "Feria y fiestas en honor a la Virgen de las Mercedes"
         },
-        "source": "https://es.wikipedia.org/wiki/Herencia_(Ciudad_Real)"
+        "source": "https://www.turismociudadreal.com/pueblos/herencia/"
       }
     ],
     "13048": [
@@ -4865,23 +5177,23 @@
       {
         "mmdd": "07-11",
         "name": {
-          "es": "Feria Nacional del Campo"
+          "es": "Feria Regional del Campo"
         },
-        "source": "https://es.wikipedia.org/wiki/Manzanares_(Ciudad_Real)"
+        "source": "https://www.turismociudadreal.com/pueblos/manzanares/"
       },
       {
         "mmdd": "09-12",
         "name": {
           "es": "Fiestas patronales de Nuestro Padre Jesús del Perdón"
         },
-        "source": "https://es.wikipedia.org/wiki/Manzanares_(Ciudad_Real)"
+        "source": "https://www.turismociudadreal.com/pueblos/manzanares/"
       },
       {
         "mmdd": "09-14",
         "name": {
           "es": "Nuestro Padre Jesús del Perdón"
         },
-        "source": "https://es.wikipedia.org/wiki/Manzanares_(Ciudad_Real)"
+        "source": "https://www.turismociudadreal.com/pueblos/manzanares/"
       },
       {
         "mmdd": "12-08",
@@ -4904,7 +5216,7 @@
         "name": {
           "es": "Santiago Apóstol"
         },
-        "source": "https://es.wikipedia.org/wiki/Membrilla"
+        "source": "http://www.aytomembrilla.org/conoce-membrilla/fiestas-y-tradiciones.html"
       },
       {
         "mmdd": "08-24",
@@ -4918,7 +5230,7 @@
         "name": {
           "es": "Desposorios de la Virgen del Espino"
         },
-        "source": "https://es.wikipedia.org/wiki/Membrilla"
+        "source": "http://www.aytomembrilla.org/conoce-membrilla/fiestas-y-tradiciones.html"
       }
     ],
     "13055": [
@@ -4950,14 +5262,14 @@
         "name": {
           "es": "Carnaval de Miguelturra"
         },
-        "source": "https://es.wikipedia.org/wiki/Miguelturra"
+        "source": "https://www.miguelturra.es/carnaval"
       },
       {
         "mmdd": "09-08",
         "name": {
           "es": "Fiestas patronales en honor a Nuestra Señora de la Estrella"
         },
-        "source": "https://es.wikipedia.org/wiki/Miguelturra"
+        "source": "https://www.turismociudadreal.com/pueblos/miguelturra/"
       }
     ],
     "13057": [
@@ -5190,7 +5502,7 @@
         "name": {
           "es": "Feria de Mayo"
         },
-        "source": "https://es.wikipedia.org/wiki/Puertollano"
+        "source": "https://www.turismociudadreal.com/pueblos/puertollano/"
       },
       {
         "mmdd": "05-21",
@@ -5204,14 +5516,14 @@
         "name": {
           "es": "Feria de Mayo / El Santo Voto"
         },
-        "source": "https://es.wikipedia.org/wiki/Puertollano"
+        "source": "https://www.turismociudadreal.com/pueblos/puertollano/"
       },
       {
         "mmdd": "09-08",
         "name": {
           "es": "Fiestas en honor de la patrona, Nuestra Señora de Gracia"
         },
-        "source": "https://es.wikipedia.org/wiki/Puertollano"
+        "source": "https://www.turismociudadreal.com/pueblos/puertollano/"
       }
     ],
     "13072": [
@@ -5323,14 +5635,14 @@
         "name": {
           "es": "Festividad de la Virgen de Loreto"
         },
-        "source": "https://es.wikipedia.org/wiki/Socu%C3%A9llamos"
+        "source": "https://www.turismociudadreal.com/pueblos/socuellamos/"
       },
       {
         "mmdd": "11-03",
         "name": {
           "es": "Feria de los Santos"
         },
-        "source": "https://es.wikipedia.org/wiki/Socu%C3%A9llamos"
+        "source": "https://www.turismociudadreal.com/pueblos/socuellamos/"
       }
     ],
     "13079": [
@@ -5346,7 +5658,7 @@
         "name": {
           "es": "Ferias y fiestas en honor a Santiago y Santa Ana"
         },
-        "source": "https://es.wikipedia.org/wiki/La_Solana_(Ciudad_Real)"
+        "source": "https://www.turismociudadreal.com/pueblos/la-solana/"
       },
       {
         "mmdd": "07-27",
@@ -5394,14 +5706,14 @@
         "name": {
           "es": "Romería de la Virgen de las Viñas"
         },
-        "source": "https://es.wikipedia.org/wiki/Tomelloso"
+        "source": "https://www.turismociudadreal.com/pueblos/tomelloso/"
       },
       {
         "mmdd": "08-25",
         "name": {
           "es": "Feria y Fiestas de Tomelloso"
         },
-        "source": "https://es.wikipedia.org/wiki/Tomelloso"
+        "source": "https://www.turismociudadreal.com/pueblos/tomelloso/"
       },
       {
         "mmdd": "08-31",
@@ -5927,6 +6239,206 @@
         "source": "https://www.puente-genil.es/fiestas/feria/real.html"
       }
     ],
+    "16005": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/albalate-de-la-nogueras"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/albalate-de-la-nogueras"
+      }
+    ],
+    "16006": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio de Padua"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/albendea.html"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de la Vega"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/albendea.html"
+      }
+    ],
+    "16009": [
+      {
+        "mmdd": "05-08",
+        "name": {
+          "es": "Nuestra Señora de los Afligidos"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/alcantud"
+      },
+      {
+        "mmdd": "05-11",
+        "name": {
+          "es": "Nuestra Señora de los Afligidos"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/alcantud"
+      }
+    ],
+    "16015": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/la-almarcha.html"
+      }
+    ],
+    "16019": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Fiesta de San Isidro"
+        },
+        "source": "https://altarejos.dipucuenca.es/index.php/shortcodes/catalogo-de-servicios"
+      },
+      {
+        "mmdd": "06-05",
+        "name": {
+          "es": "Corpus Christi"
+        },
+        "source": "https://altarejos.dipucuenca.es/index.php/shortcodes/catalogo-de-servicios"
+      }
+    ],
+    "16027": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas Patronales en honor a la Santísima Virgen de la Vega"
+        },
+        "source": "https://barajasdemelo.eu/fiestas/"
+      },
+      {
+        "mmdd": "09-09",
+        "name": {
+          "es": "Fiestas Patronales en honor a la Santísima Virgen de la Vega"
+        },
+        "source": "https://barajasdemelo.eu/fiestas/"
+      }
+    ],
+    "16038": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/buciegas"
+      },
+      {
+        "mmdd": "08-01",
+        "name": {
+          "es": "San Pedro Advíncula"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/buciegas"
+      }
+    ],
+    "16040": [
+      {
+        "mmdd": "10-02",
+        "name": {
+          "es": "Virgen del Rosario"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/buenache-de-la-sierra.html"
+      }
+    ],
+    "16041": [
+      {
+        "mmdd": "05-11",
+        "name": {
+          "es": "Fiestas de Mayo de Nuestra Señora de los Desamparados"
+        },
+        "source": "https://ayuntamientodebuendia.com/fiestas"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Fiestas de Septiembre de Nuestra Señora de los Desamparados"
+        },
+        "source": "https://ayuntamientodebuendia.com/fiestas"
+      }
+    ],
+    "16045": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/canalejas-del-arroyo"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Ermita de la Envía"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/canalejas-del-arroyo"
+      }
+    ],
+    "16048": [
+      {
+        "mmdd": "11-12",
+        "name": {
+          "es": "San Millán"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/canamares.html"
+      }
+    ],
+    "16050": [
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Nuestra Señora del Pinar"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/canaveras"
+      }
+    ],
+    "16055": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Fiestas patronales de San Roque"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/carboneras-de-guadazaon.html"
+      }
+    ],
+    "16056": [
+      {
+        "mmdd": "06-12",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/cardenete.html"
+      }
+    ],
+    "16061": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/casas-de-fernando-alonso.html"
+      }
+    ],
+    "16067": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://ayuntamientocastejon.es/fiestas"
+      }
+    ],
     "16078": [
       {
         "mmdd": "01-28",
@@ -5957,27 +6469,113 @@
         "source": "https://visitacuenca.es/en/node/19279"
       }
     ],
+    "16086": [
+      {
+        "mmdd": "09-21",
+        "name": {
+          "es": "Fiestas patronales de San Andrés y la Virgen del Rosario"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/fuente-de-pedro-naharro.html"
+      }
+    ],
+    "16087": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/fuentelespino-de-haro.html"
+      }
+    ],
+    "16089": [
+      {
+        "mmdd": "10-05",
+        "name": {
+          "es": "Virgen del Rosario"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/fuentes.html"
+      }
+    ],
+    "16092": [
+      {
+        "mmdd": "05-25",
+        "name": {
+          "es": "Pascua de mayo"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/gabaldon.html"
+      }
+    ],
+    "16094": [
+      {
+        "mmdd": "07-10",
+        "name": {
+          "es": "San Cristóbal"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/gascuena"
+      },
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "San Ginés"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/gascuena"
+      }
+    ],
+    "16102": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/honrubia.html"
+      }
+    ],
+    "16106": [
+      {
+        "mmdd": "12-09",
+        "name": {
+          "es": "El Vítor"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/horcajo-de-santiago.html"
+      }
+    ],
+    "16112": [
+      {
+        "mmdd": "05-08",
+        "name": {
+          "es": "San Juan Evangelista"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/huete.html"
+      },
+      {
+        "mmdd": "05-22",
+        "name": {
+          "es": "Santa Quiteria"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/huete.html"
+      }
+    ],
     "16133": [
       {
         "mmdd": "08-10",
         "name": {
           "es": "La Traída de la Virgen de Manjavacas"
         },
-        "source": "https://www.motadelcuervo.es/fiestas-y-tradiciones/"
+        "source": "https://www.motadelcuervo.es/municipio/fiestas-y-tradiciones"
       },
       {
         "mmdd": "08-11",
         "name": {
           "es": "La Traída de la Virgen de Manjavacas"
         },
-        "source": "https://es.wikipedia.org/wiki/Mota_del_Cuervo"
+        "source": "https://www.motadelcuervo.es/municipio/fiestas-y-tradiciones"
       },
       {
         "mmdd": "08-28",
         "name": {
           "es": "La Llevada de la Virgen de Manjavacas"
         },
-        "source": "https://es.wikipedia.org/wiki/Mota_del_Cuervo"
+        "source": "https://www.motadelcuervo.es/municipio/fiestas-y-tradiciones"
       }
     ],
     "16134": [
@@ -5996,6 +6594,15 @@
         "source": "https://es.wikipedia.org/wiki/Motilla_del_Palancar"
       }
     ],
+    "16151": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/paredes.html"
+      }
+    ],
     "16154": [
       {
         "mmdd": "09-01",
@@ -6003,6 +6610,63 @@
           "es": "Fiestas de Jesús Nazareno y el Santísimo Cristo de la Humildad"
         },
         "source": "https://es.wikipedia.org/wiki/Las_Pedro%C3%B1eras"
+      }
+    ],
+    "16160": [
+      {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Santa Ana"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/pineda-de-giguela"
+      },
+      {
+        "mmdd": "10-02",
+        "name": {
+          "es": "Virgen del Rosario"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/pineda-de-giguela"
+      }
+    ],
+    "16162": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/portalrubio-de-guadamejud.html"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/portalrubio-de-guadamejud.html"
+      }
+    ],
+    "16167": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiestas en honor a la Virgen de la Soledad"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/pozorrubio-de-santiago.html"
+      }
+    ],
+    "16170": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de la Caridad"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/priego"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Santísimo Cristo de la Caridad"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/priego"
       }
     ],
     "16175": [
@@ -6021,6 +6685,56 @@
         "source": "https://es.wikipedia.org/wiki/Quintanar_del_Rey"
       }
     ],
+    "16177": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/reillo.html"
+      }
+    ],
+    "16181": [
+      {
+        "mmdd": "05-22",
+        "name": {
+          "es": "Santa Quiteria"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/rozalen-del-monte.html"
+      }
+    ],
+    "16186": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo del Amparo"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/saelices.html"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Cristo del Amparo"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/saelices.html"
+      }
+    ],
+    "16187": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/salinas-del-manzano.html"
+      },
+      {
+        "mmdd": "10-06",
+        "name": {
+          "es": "Virgen del Rosario"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/salinas-del-manzano.html"
+      }
+    ],
     "16190": [
       {
         "mmdd": "08-21",
@@ -6030,6 +6744,67 @@
         "source": "https://es.wikipedia.org/wiki/San_Clemente_(Cuenca)"
       }
     ],
+    "16191": [
+      {
+        "mmdd": "08-10",
+        "name": {
+          "es": "San Lorenzo Mártir"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/san-lorenzo-de-la-parrilla.html"
+      }
+    ],
+    "16192": [
+      {
+        "mmdd": "11-11",
+        "name": {
+          "es": "San Martín Obispo"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/san-martin-de-boniches.html"
+      }
+    ],
+    "16193": [
+      {
+        "mmdd": "08-01",
+        "name": {
+          "es": "San Pedro Advíncula"
+        },
+        "source": "https://www.alcarriaconquense.com/la-comarca/municipio/san-pedro-palmiches"
+      }
+    ],
+    "16196": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Virgen de la Asunción"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/santa-maria-de-los-llanos.html"
+      }
+    ],
+    "16198": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Virgen de la Zarza"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/sisante.html"
+      }
+    ],
+    "16202": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/talayuelas.html"
+      },
+      {
+        "mmdd": "06-15",
+        "name": {
+          "es": "San Antonio de Padua"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/talayuelas.html"
+      }
+    ],
     "16203": [
       {
         "mmdd": "09-08",
@@ -6037,6 +6812,42 @@
           "es": "Fiestas patronales en honor a la Virgen de Riánsares"
         },
         "source": "https://es.wikipedia.org/wiki/Taranc%C3%B3n"
+      }
+    ],
+    "16206": [
+      {
+        "mmdd": "08-18",
+        "name": {
+          "es": "Fiesta del Jubileo"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/tinajas.html"
+      }
+    ],
+    "16250": [
+      {
+        "mmdd": "09-09",
+        "name": {
+          "es": "Natividad de Nuestra Señora"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/villanueva-de-guadamejud.html"
+      }
+    ],
+    "16254": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Virgen del Rosario"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/villar-de-domingo-garcia.html"
+      }
+    ],
+    "16275": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Virgen de la Asunción"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/vindel.html"
       }
     ],
     "17007": [
@@ -6561,6 +7372,47 @@
         "source": "https://motrilturismo.com/es/tradiciones/fiestas-patronales-honor-ntra-sra-cabeza"
       }
     ],
+    "19024": [
+      {
+        "mmdd": "01-26",
+        "name": {
+          "es": "Fiestas de la Virgen de la Paz"
+        },
+        "source": "https://alovera.es/paginas/fiestas-locales/1017/"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas de la Virgen del Carmen"
+        },
+        "source": "https://alovera.es/paginas/fiestas-locales/1017/"
+      }
+    ],
+    "19006": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "Botargas-danzantes de San Blas"
+        },
+        "source": "https://turismoenguadalajara.es/localidades/albalate-de-zorita"
+      }
+    ],
+    "19013": [
+      {
+        "mmdd": "08-22",
+        "name": {
+          "es": "San Timoteo. Cánticos, bandera y currutaje"
+        },
+        "source": "https://turismoenguadalajara.es/localidades/alcoroches"
+      },
+      {
+        "mmdd": "08-23",
+        "name": {
+          "es": "San Timoteo. Cánticos, bandera y currutaje"
+        },
+        "source": "https://turismoenguadalajara.es/localidades/alcoroches"
+      }
+    ],
     "19045": [
       {
         "mmdd": "05-15",
@@ -6581,9 +7433,9 @@
       {
         "mmdd": "05-15",
         "name": {
-          "es": "San Isidro Labrador"
+          "es": "Fiesta de la Espiga"
         },
-        "source": "https://es.wikipedia.org/wiki/Azuqueca_de_Henares"
+        "source": "https://turismoenguadalajara.es/localidades/azuqueca-de-henares"
       },
       {
         "mmdd": "09-21",
@@ -6597,23 +7449,55 @@
         "name": {
           "es": "Fiestas de Septiembre en honor de Nuestra Señora de la Soledad"
         },
-        "source": "https://es.wikipedia.org/wiki/Azuqueca_de_Henares"
+        "source": "https://www.azuqueca.es/tu-ciudad/sobre-azuqueca/fiestas"
+      }
+    ],
+    "19053": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Fiestas patronales en honor de Ntra. Sra. de la Peña / La Bajada"
+        },
+        "source": "https://turismobrihuega.com/index.php/nuestras-fiestas/fiestas-patronales"
       }
     ],
     "19058": [
       {
         "mmdd": "02-03",
         "name": {
-          "es": "San Blas"
+          "es": "Botarga de Cabanillas del Campo"
         },
-        "source": "https://es.wikipedia.org/wiki/Cabanillas_del_Campo"
+        "source": "https://turismoenguadalajara.es/localidades/cabanillas-del-campo"
       },
       {
         "mmdd": "05-02",
         "name": {
           "es": "Santísimo Cristo de la Expiración"
         },
-        "source": "https://es.wikipedia.org/wiki/Cabanillas_del_Campo"
+        "source": "https://aytocabanillas.org/ciudad/fiestas-y-tradiciones/"
+      },
+      {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Fiestas de verano"
+        },
+        "source": "https://aytocabanillas.org/ciudad/fiestas-y-tradiciones/"
+      }
+    ],
+    "19065": [
+      {
+        "mmdd": "10-09",
+        "name": {
+          "es": "Feria de ganado"
+        },
+        "source": "https://turismoenguadalajara.es/localidades/cantalojas"
+      },
+      {
+        "mmdd": "12-07",
+        "name": {
+          "es": "Los Cencerrones"
+        },
+        "source": "https://turismoenguadalajara.es/localidades/cantalojas"
       }
     ],
     "19071": [
@@ -6646,13 +7530,86 @@
         "source": "https://elcasar.es/"
       }
     ],
+    "19086": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Fiestas Patronales en honor al Santísimo Cristo de la Misericordia"
+        },
+        "source": "https://www.cifuentes.es/post/bases-del-concurso-de-carteles-fiestas-patronales-de-cifuentes-2026"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Fiestas Patronales en honor al Santísimo Cristo de la Misericordia"
+        },
+        "source": "https://www.cifuentes.es/post/bases-del-concurso-de-carteles-fiestas-patronales-de-cifuentes-2026"
+      }
+    ],
+    "19117": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Fiestas de San Roque"
+        },
+        "source": "https://fontanar.es/fiestas/"
+      }
+    ],
+    "19143": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas Patronales de Horche"
+        },
+        "source": "https://www.horche.org/actualidad/avisos/bases-para-el-concurso-de-carteles-de-las-fiestas-de-horche-2026"
+      },
+      {
+        "mmdd": "09-09",
+        "name": {
+          "es": "Fiestas Patronales de Horche"
+        },
+        "source": "https://www.horche.org/actualidad/avisos/bases-para-el-concurso-de-carteles-de-las-fiestas-de-horche-2026"
+      }
+    ],
+    "19156": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Fiestas Patronales en honor al Cristo con la Cruz Acuestas"
+        },
+        "source": "https://jadraque.es/eventos/evento-fiestas-patronales/"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Fiestas Patronales en honor al Cristo con la Cruz Acuestas"
+        },
+        "source": "https://jadraque.es/eventos/evento-fiestas-patronales/"
+      }
+    ],
+    "19126": [
+      {
+        "mmdd": "02-05",
+        "name": {
+          "es": "Santa Águeda"
+        },
+        "source": "https://turismoenguadalajara.es/localidades/galapagos"
+      },
+      {
+        "mmdd": "08-21",
+        "name": {
+          "es": "Fiestas en honor de la Virgen del Campo"
+        },
+        "source": "https://turismoenguadalajara.es/localidades/galapagos"
+      }
+    ],
     "19130": [
       {
         "mmdd": "09-08",
         "name": {
           "es": "Virgen de la Antigua"
         },
-        "source": "https://es.wikipedia.org/wiki/Guadalajara_(Espa%C3%B1a)"
+        "source": "https://www.guadalajara.es/es/ciudad/fiestas-tradicionales.html"
       },
       {
         "mmdd": "09-18",
@@ -6668,7 +7625,7 @@
         "name": {
           "es": "Fiestas patronales en honor al Santísimo Cristo de la Esperanza"
         },
-        "source": "https://es.wikipedia.org/wiki/Marchamalo"
+        "source": "https://www.marchamalo.com/municipio/fiestas/2/"
       },
       {
         "mmdd": "04-30",
@@ -6689,9 +7646,9 @@
       {
         "mmdd": "07-16",
         "name": {
-          "es": "El Carmen"
+          "es": "Desfile de la Cofradía Militar del Carmen"
         },
-        "source": "https://es.wikipedia.org/wiki/Molina_de_Arag%C3%B3n"
+        "source": "https://turismoenguadalajara.es/localidades/molina-de-aragon"
       },
       {
         "mmdd": "09-01",
@@ -6703,20 +7660,34 @@
     ],
     "19192": [
       {
+        "mmdd": "07-22",
+        "name": {
+          "es": "Festividad de Santa María Magdalena"
+        },
+        "source": "https://mondejar.eu/fiestas-y-tradiciones/"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Fiestas mayores en honor del Santísimo Cristo del Calvario"
+        },
+        "source": "https://mondejar.eu/fiestas-y-tradiciones/"
+      },
+      {
         "mmdd": "09-15",
         "name": {
           "es": "Fiestas patronales del Santísimo Cristo del Calvario"
         },
-        "source": "https://es.wikipedia.org/wiki/Mond%C3%A9jar"
+        "source": "https://mondejar.eu/fiestas-y-tradiciones/"
       }
     ],
     "19212": [
       {
         "mmdd": "01-20",
         "name": {
-          "es": "San Sebastián"
+          "es": "Ronda de San Sebastián"
         },
-        "source": "https://es.wikipedia.org/wiki/Pastrana"
+        "source": "https://turismoenguadalajara.es/localidades/pastrana"
       },
       {
         "mmdd": "10-15",
@@ -6756,6 +7727,29 @@
           "es": "Fiestas patronales de verano en honor de San Roque y la Virgen de la Mayor"
         },
         "source": "https://es.wikipedia.org/wiki/Sig%C3%BCenza"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Fiestas Patronales en honor a San Roque y la Virgen de la Mayor"
+        },
+        "source": "https://siguenza.es/?page_id=536"
+      }
+    ],
+    "19291": [
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Fiestas Patronales en honor a la Virgen del Campo"
+        },
+        "source": "https://www.trillo.es/web/index.php/vivir-trillo/noticias/613-trillo-se-prepara-para-vivir-sus-fiestas-patronales-en-honor-a-la-virgen-del-campo-del-4-al-9-de-septiembre"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas Patronales en honor a la Virgen del Campo"
+        },
+        "source": "https://www.trillo.es/web/index.php/vivir-trillo/noticias/613-trillo-se-prepara-para-vivir-sus-fiestas-patronales-en-honor-a-la-virgen-del-campo-del-4-al-9-de-septiembre"
       }
     ],
     "21005": [
@@ -13217,6 +14211,104 @@
         "source": "https://www.wikidata.org/wiki/Q14336"
       }
     ],
+    "45001": [
+      {
+        "mmdd": "04-07",
+        "name": {
+          "es": "Romería de Alimán"
+        },
+        "source": "https://ajofrin.es/fiestas-y-eventos/"
+      },
+      {
+        "mmdd": "05-05",
+        "name": {
+          "es": "Romería de los Cuatro Caminos"
+        },
+        "source": "https://ajofrin.es/fiestas-y-eventos/"
+      }
+    ],
+    "45003": [
+      {
+        "mmdd": "08-27",
+        "name": {
+          "es": "Fiestas Patronales en Honor a San Agustín"
+        },
+        "source": "https://albarrealdetajo.es/fiestas-y-tradiciones/"
+      },
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "Fiestas Patronales en Honor a San Agustín"
+        },
+        "source": "https://albarrealdetajo.es/fiestas-y-tradiciones/"
+      }
+    ],
+    "45007": [
+      {
+        "mmdd": "05-12",
+        "name": {
+          "es": "Fiestas Patronales en honor a Ntra. Sra. Virgen de los Dolores"
+        },
+        "source": "https://www.alcoleadetajo.es/fiestas/"
+      }
+    ],
+    "45013": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Fiestas en honor al Cristo de la Misericordia"
+        },
+        "source": "http://www.almorox.es/fiestas-locales/"
+      }
+    ],
+    "45014": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiestas Patronales en honor de San Bartolomé"
+        },
+        "source": "http://anoverdetajo.es/programa-de-fiestas-san-bartolome-2025/"
+      },
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "Fiestas Patronales en honor de San Bartolomé"
+        },
+        "source": "http://anoverdetajo.es/programa-de-fiestas-san-bartolome-2025/"
+      }
+    ],
+    "45024": [
+      {
+        "mmdd": "07-27",
+        "name": {
+          "es": "Fiesta patronal en honor a San Pantaleón"
+        },
+        "source": "https://burujon.es/fiestas-de-burujon/"
+      },
+      {
+        "mmdd": "07-28",
+        "name": {
+          "es": "Fiesta patronal en honor a San Pantaleón"
+        },
+        "source": "https://burujon.es/fiestas-de-burujon/"
+      }
+    ],
+    "45028": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Fiestas en honor al Santísimo Cristo de Chozas"
+        },
+        "source": "https://caleraychozas.com/fiestas-santisimo-cristo-chozas-septiembre"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Fiestas en honor al Santísimo Cristo de Chozas"
+        },
+        "source": "https://caleraychozas.com/fiestas-santisimo-cristo-chozas-septiembre"
+      }
+    ],
     "45034": [
       {
         "mmdd": "05-15",
@@ -13231,6 +14323,54 @@
           "es": "Corpus Christi / Pecados y Danzantes de Camuñas"
         },
         "source": "https://www.turismocastillalamancha.es/fiestas/pecados-y-danzantes-de-camunas-59164/descripcion/"
+      }
+    ],
+    "45045": [
+      {
+        "mmdd": "01-22",
+        "name": {
+          "es": "Festividad de San Vicente Mártir"
+        },
+        "source": "https://www.cazalegas.es/oferta-turistica/festividades-locales.html"
+      },
+      {
+        "mmdd": "02-02",
+        "name": {
+          "es": "Virgen de la Candelaria"
+        },
+        "source": "https://www.cazalegas.es/oferta-turistica/festividades-locales.html"
+      }
+    ],
+    "45047": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "Fiestas de San Antonio de Padua"
+        },
+        "source": "https://cedillodelcondado.es/municipio/fiestas-y-eventos"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas de la Virgen de la Natividad"
+        },
+        "source": "https://cedillodelcondado.es/municipio/fiestas-y-eventos"
+      }
+    ],
+    "45064": [
+      {
+        "mmdd": "08-20",
+        "name": {
+          "es": "Fiestas Patronales en honor a la Virgen de la Leche"
+        },
+        "source": "https://www.esquivias.es/fiestas"
+      },
+      {
+        "mmdd": "08-21",
+        "name": {
+          "es": "Fiestas Patronales en honor a la Virgen de la Leche"
+        },
+        "source": "https://www.esquivias.es/fiestas"
       }
     ],
     "45066": [
@@ -13263,6 +14403,56 @@
           "es": "Fiestas Patronales de Nuestra Señora de la Caridad"
         },
         "source": "https://www.illescas.es/fiestas/"
+      }
+    ],
+    "45102": [
+      {
+        "mmdd": "07-16",
+        "name": {
+          "es": "Virgen del Carmen"
+        },
+        "source": "https://www.mocejon.es/fiestas"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas en Honor a la Virgen de las Angustias"
+        },
+        "source": "https://www.mocejon.es/fiestas"
+      }
+    ],
+    "45107": [
+      {
+        "mmdd": "05-25",
+        "name": {
+          "es": "Fiestas Patronales al Santísimo Cristo de las Aguas"
+        },
+        "source": "https://www.nambroca.com/el-municipio/fiestas-locales"
+      },
+      {
+        "mmdd": "07-16",
+        "name": {
+          "es": "Fiestas en honor de la Santísima Virgen del Carmen"
+        },
+        "source": "https://www.nambroca.com/el-municipio/fiestas-locales"
+      }
+    ],
+    "45109": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiestas en Honor a San Bartolomé"
+        },
+        "source": "https://navahermosa.es/event/fiestas-en-honor-a-san-bartolome-2025/"
+      }
+    ],
+    "45112": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de las Maravillas"
+        },
+        "source": "https://www.losnavalmorales.es/index.php?option=com_content&view=article&id=29&Itemid=168"
       }
     ],
     "45121": [
@@ -13407,6 +14597,38 @@
         "source": "https://www.quintanardelaorden.es/servicios/ferias-fiestas-y-tradiciones/"
       }
     ],
+    "45145": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.recas.es/fiestas"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de la Oliva"
+        },
+        "source": "https://www.recas.es/lugares/virgen-de-la-oliva"
+      }
+    ],
+    "45156": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://santacruzdelazarza.es/%C3%A1reas-y-servicios/turismo-y-festejos/festejos"
+      },
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "Fiestas Patronales en honor a Nuestra Señora Virgen del Rosario"
+        },
+        "source": "https://santacruzdelazarza.es/%C3%A1reas-y-servicios/turismo-y-festejos/festejos"
+      }
+    ],
     "45163": [
       {
         "mmdd": "05-06",
@@ -13496,6 +14718,31 @@
         "source": "https://www.villafrancadeloscaballeros.es/actualidad-municipal/noticias/3964-villafranca-de-los-caballeros-celebra-la-feria-y-fiestas-2025-en-honor-al-sant%C3%ADsimo-cristo-de-santa-ana-con-un-amplio-programa-religioso%2C-cultural-y-festivo"
       }
     ],
+    "45199": [
+      {
+        "mmdd": "07-22",
+        "name": {
+          "es": "Santa María Magdalena"
+        },
+        "source": "https://elvisodesanjuan.org/municipio/fiestas/"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Santísimo Cristo de la Buena Muerte"
+        },
+        "source": "https://elvisodesanjuan.org/municipio/fiestas/"
+      }
+    ],
+    "45200": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://turismo.losyebenes.es/que-ver/monumetos-religiosos/ermita-de-san-blas"
+      }
+    ],
     "45202": [
       {
         "mmdd": "09-11",
@@ -13510,6 +14757,22 @@
           "es": "Fiestas en honor al Santísimo Cristo de la Vera Cruz"
         },
         "source": "https://www.yepes.es/fiestas/"
+      }
+    ],
+    "45205": [
+      {
+        "mmdd": "09-10",
+        "name": {
+          "es": "Fiestas Mayores de la Virgen del Consuelo"
+        },
+        "source": "https://yuncos.es/fiestas-y-tradiciones/"
+      },
+      {
+        "mmdd": "09-11",
+        "name": {
+          "es": "Fiestas Mayores de la Virgen del Consuelo"
+        },
+        "source": "https://yuncos.es/fiestas-y-tradiciones/"
       }
     ],
     "46077": [

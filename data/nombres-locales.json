@@ -689,6 +689,13 @@
     ],
     "02048": [
       {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.minaya.es/fiestas.html"
+      },
+      {
         "mmdd": "09-07",
         "name": {
           "es": "Fiestas del Beato Alonso Pacheco"
@@ -1011,6 +1018,13 @@
     ],
     "02069": [
       {
+        "mmdd": "02-18",
+        "name": {
+          "es": "Miércoles de Mercadillo del Carnaval"
+        },
+        "source": "https://laroda.es/este-ano-el-miercoles-de-carnaval-sera-festivo-junto-a-el-salvador/"
+      },
+      {
         "mmdd": "05-15",
         "name": {
           "es": "Romería de la Virgen de los Remedios"
@@ -1105,6 +1119,20 @@
         "source": "https://tobarra.es/fiestas/"
       },
       {
+        "mmdd": "03-19",
+        "name": {
+          "es": "San José"
+        },
+        "source": "https://tobarra.es/wp-content/uploads/2024/03/20200424_jgl.pdf"
+      },
+      {
+        "mmdd": "03-25",
+        "name": {
+          "es": "Virgen de la Encarnación"
+        },
+        "source": "https://tobarra.es/wp-content/uploads/2024/03/20190927_ordinario.pdf"
+      },
+      {
         "mmdd": "04-21",
         "name": {
           "es": "Semana Santa / Tamborada de Tobarra"
@@ -1179,6 +1207,13 @@
       }
     ],
     "02080": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://villapalacios.es/tradiciones/"
+      },
       {
         "mmdd": "09-14",
         "name": {
@@ -4640,6 +4675,13 @@
     ],
     "13019": [
       {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.argamasilladealba.es/fileadmin/media/Documentos_nueva_web/Plenos/2025/ACTA_PLENO_29-05-2025.pdf"
+      },
+      {
         "mmdd": "09-07",
         "name": {
           "es": "Feria y Fiestas en honor a Nuestra Señora de Peñarroya"
@@ -6239,6 +6281,22 @@
         "source": "https://www.puente-genil.es/fiestas/feria/real.html"
       }
     ],
+    "16003": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://ayuntamientoalarcon.es/cultura/"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santo Cristo de la Fe"
+        },
+        "source": "https://ayuntamientoalarcon.es/cultura/"
+      }
+    ],
     "16005": [
       {
         "mmdd": "02-03",
@@ -7388,6 +7446,22 @@
         "source": "https://alovera.es/paginas/fiestas-locales/1017/"
       }
     ],
+    "19001": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.abanades.es/download/Plenos/2012/0f1dcbb79b8117b6dfa0fd8e4c1aa9d4.pdf"
+      },
+      {
+        "mmdd": "09-24",
+        "name": {
+          "es": "Nuestra Señora de la Merced"
+        },
+        "source": "https://www.abanades.es/download/Plenos/2012/0f1dcbb79b8117b6dfa0fd8e4c1aa9d4.pdf"
+      }
+    ],
     "19006": [
       {
         "mmdd": "02-03",
@@ -7395,6 +7469,22 @@
           "es": "Botargas-danzantes de San Blas"
         },
         "source": "https://turismoenguadalajara.es/localidades/albalate-de-zorita"
+      },
+      {
+        "mmdd": "09-28",
+        "name": {
+          "es": "Fiestas patronales de la Santa Cruz Aparecida"
+        },
+        "source": "https://www.albalatedezorita.es/turismo/fiestas/"
+      }
+    ],
+    "19011": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio de Padua"
+        },
+        "source": "https://www.dguadalajara.es/documents/10128/814656/Calendario%2Bde%2BFiestas%2BTradicionales%2Bde%2BGuadalajara%2B2019.pdf"
       }
     ],
     "19013": [
@@ -14227,6 +14317,22 @@
         "source": "https://ajofrin.es/fiestas-y-eventos/"
       }
     ],
+    "45002": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Fiestas en honor a Nuestra Señora de la Asunción y San Roque"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-18",
+        "name": {
+          "es": "Fiestas en honor a Nuestra Señora de la Asunción y San Roque"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
     "45003": [
       {
         "mmdd": "08-27",
@@ -14243,6 +14349,38 @@
         "source": "https://albarrealdetajo.es/fiestas-y-tradiciones/"
       }
     ],
+    "45004": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Festividad de Nuestra Señora de la Aurora"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "12-29",
+        "name": {
+          "es": "Festividad de Santo Tomás Cantuariense"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45006": [
+      {
+        "mmdd": "02-12",
+        "name": {
+          "es": "Jueves de Comadre"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "12-07",
+        "name": {
+          "es": "Virgen Chica"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
     "45007": [
       {
         "mmdd": "05-12",
@@ -14250,6 +14388,47 @@
           "es": "Fiestas Patronales en honor a Ntra. Sra. Virgen de los Dolores"
         },
         "source": "https://www.alcoleadetajo.es/fiestas/"
+      },
+      {
+        "mmdd": "05-13",
+        "name": {
+          "es": "Fiestas patronales en honor a Nuestra Señora de los Dolores"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=232&insert_year=2009&publication_date=09102009"
+      }
+    ],
+    "45009": [
+      {
+        "mmdd": "08-31",
+        "name": {
+          "es": "Nuestra Señora del Espino"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45010": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiestas patronales"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "Fiestas patronales"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45012": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       }
     ],
     "45013": [
@@ -14275,6 +14454,40 @@
           "es": "Fiestas Patronales en honor de San Bartolomé"
         },
         "source": "http://anoverdetajo.es/programa-de-fiestas-san-bartolome-2025/"
+      }
+    ],
+    "45015": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.aytoarcicollar.es/fiestas/"
+      }
+    ],
+    "45016": [
+      {
+        "mmdd": "01-23",
+        "name": {
+          "es": "San Ildefonso"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-07",
+        "name": {
+          "es": "Nuestra Señora de la Soledad y Nuestra Señora del Rosario"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45017": [
+      {
+        "mmdd": "04-28",
+        "name": {
+          "es": "Cristo del Amparo"
+        },
+        "source": "https://www.diputoledo.es/global/11/50/169/dir-municipios/Todos/45017"
       }
     ],
     "45024": [

@@ -29,6 +29,13 @@
     ],
     "02002": [
       {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
         "mmdd": "06-24",
         "name": {
           "es": "San Juan"
@@ -162,6 +169,13 @@
           "es": "Fiestas de la Santa Cruz"
         },
         "source": "https://www.dipualba.es/webcultura/default.aspx?id=118"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Exaltación de la Santa Cruz"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-459"
       }
     ],
     "02011": [
@@ -1261,6 +1275,13 @@
           "es": "San Ildefonso"
         },
         "source": "https://villavaliente.es/fiestas/"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/albacete/villavaliente"
       }
     ],
     "02084": [
@@ -1302,6 +1323,22 @@
           "es": "Romería y Fiestas de San Bartolomé"
         },
         "source": "https://yeste.es/romeria-y-fiestas-de-san-bartolome/"
+      }
+    ],
+    "02901": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
       }
     ],
     "03009": [
@@ -4806,6 +4843,13 @@
           "es": "Fiestas Patronales en honor a San Pantaleón"
         },
         "source": "https://www.turismociudadreal.com/pueblos/cabezarrubias-del-puerto/"
+      },
+      {
+        "mmdd": "01-23",
+        "name": {
+          "es": "Fiestas patronales en honor a la Virgen de la Paz"
+        },
+        "source": "https://sedescr.dipucr.es/contenido/general/etablon/repositorio/068/33646.pdf"
       }
     ],
     "13027": [
@@ -4854,6 +4898,15 @@
           "es": "Inmaculada Concepción"
         },
         "source": "https://www.turismociudadreal.com/pueblos/canada-de-calatrava/"
+      }
+    ],
+    "13030": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.cmmedia.es/play/tv/ancha-es-castilla-la-mancha/migas-festejar-san-blasillo-caracuel-calatrava.html"
       }
     ],
     "13031": [
@@ -4975,6 +5028,13 @@
           "es": "Feria y Fiestas en honor a San Roque"
         },
         "source": "https://www.turismociudadreal.com/pueblos/chillon/"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen del Castillo"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
       }
     ],
     "13039": [
@@ -6281,6 +6341,15 @@
         "source": "https://www.puente-genil.es/fiestas/feria/real.html"
       }
     ],
+    "16001": [
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Jerónimo"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
     "16003": [
       {
         "mmdd": "01-20",
@@ -6295,6 +6364,15 @@
           "es": "Santo Cristo de la Fe"
         },
         "source": "https://ayuntamientoalarcon.es/cultura/"
+      }
+    ],
+    "16004": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.albaladejodelcuende.com/"
       }
     ],
     "16005": [
@@ -6329,6 +6407,31 @@
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/albendea.html"
       }
     ],
+    "16007": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.castillalamancha.es/actualidad/galeriaimagenes/mart%C3%ADnez-guijarro-asiste-la-comida-popular-de-san-isidro-en-la-alberca-de-zancara"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "La Santa Cruz"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "16008": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
     "16009": [
       {
         "mmdd": "05-08",
@@ -6345,6 +6448,38 @@
         "source": "https://www.alcarriaconquense.com/la-comarca/municipio/alcantud"
       }
     ],
+    "16010": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-459"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de la Salud"
+        },
+        "source": "https://www.boe.es/boe/dias/1970/01/10/pdfs/A00408-00432.pdf"
+      }
+    ],
+    "16012": [
+      {
+        "mmdd": "05-08",
+        "name": {
+          "es": "Virgen de la Cuesta"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "05-09",
+        "name": {
+          "es": "Virgen de la Cuesta"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
     "16015": [
       {
         "mmdd": "08-24",
@@ -6352,6 +6487,47 @@
           "es": "San Bartolomé"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/la-almarcha.html"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Fiestas de San Isidro"
+        },
+        "source": "https://www.bandomovil.com/laalmarcha"
+      }
+    ],
+    "16016": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Purísima Concepción"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16017": [
+      {
+        "mmdd": "08-05",
+        "name": {
+          "es": "Virgen de las Nieves"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16018": [
+      {
+        "mmdd": "02-04",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-459"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.almonacid.org/nuestro-pueblo/"
       }
     ],
     "16019": [
@@ -6370,6 +6546,56 @@
         "source": "https://altarejos.dipucuenca.es/index.php/shortcodes/catalogo-de-servicios"
       }
     ],
+    "16020": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
+      {
+        "mmdd": "09-16",
+        "name": {
+          "es": "Santo Cristo de la Oliva"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "16022": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-459"
+      }
+    ],
+    "16023": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de la Luz"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "16024": [
+      {
+        "mmdd": "08-10",
+        "name": {
+          "es": "San Lorenzo"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
+      {
+        "mmdd": "10-05",
+        "name": {
+          "es": "Virgen del Rosario"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
     "16027": [
       {
         "mmdd": "09-08",
@@ -6386,6 +6612,81 @@
         "source": "https://barajasdemelo.eu/fiestas/"
       }
     ],
+    "16030": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "16031": [
+      {
+        "mmdd": "08-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
+      {
+        "mmdd": "08-14",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16033": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Feria de Belmonte"
+        },
+        "source": "https://belmonteturismo.es/event/feria-de-belmonte"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Virgen de Gracia"
+        },
+        "source": "https://www.castillalamancha.es/actualidad/notasdeprensa/soledad-herrero-asiste-en-belmonte-cuenca-los-actos-conmemorativos-del-xxv-aniversario-de-la"
+      }
+    ],
+    "16034": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Jesús Nazareno"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-459"
+      }
+    ],
+    "16035": [
+      {
+        "mmdd": "09-17",
+        "name": {
+          "es": "Nuestra Señora de la Rosa"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "09-18",
+        "name": {
+          "es": "Nuestra Señora de la Rosa"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16036": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Nuestra Señora del Rosario"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
     "16038": [
       {
         "mmdd": "06-13",
@@ -6400,6 +6701,22 @@
           "es": "San Pedro Advíncula"
         },
         "source": "https://www.alcarriaconquense.com/la-comarca/municipio/buciegas"
+      }
+    ],
+    "16039": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.buenachedealarcon.com/san-isidro-2026-buenache-se-prepara/"
+      },
+      {
+        "mmdd": "09-16",
+        "name": {
+          "es": "Fiestas patronales en honor a la Virgen de la Estrella"
+        },
+        "source": "https://www.buenachedealarcon.com/fiestas-patronales-de-la-virgen-de-la-estrella/"
       }
     ],
     "16040": [
@@ -6427,6 +6744,38 @@
         "source": "https://ayuntamientodebuendia.com/fiestas"
       }
     ],
+    "16042": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de la Loma"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16043": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://www.boe.es/boe/dias/1967/01/03/pdfs/A00061-00081.pdf"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
     "16045": [
       {
         "mmdd": "05-15",
@@ -6441,6 +6790,22 @@
           "es": "Ermita de la Envía"
         },
         "source": "https://www.alcarriaconquense.com/la-comarca/municipio/canalejas-del-arroyo"
+      }
+    ],
+    "16047": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://canadajuncosa.dipucuenca.es/index.php/layout/layout-4"
+      },
+      {
+        "mmdd": "05-16",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
       }
     ],
     "16048": [
@@ -6461,7 +6826,39 @@
         "source": "https://www.alcarriaconquense.com/la-comarca/municipio/canaveras"
       }
     ],
+    "16052": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Natividad de la Santísima Virgen"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-459"
+      }
+    ],
+    "16053": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de los Casares"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      },
+      {
+        "mmdd": "09-09",
+        "name": {
+          "es": "Virgen de los Casares"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
     "16055": [
+      {
+        "mmdd": "05-11",
+        "name": {
+          "es": "Santa Palia"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
       {
         "mmdd": "08-17",
         "name": {
@@ -6479,6 +6876,33 @@
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/cardenete.html"
       }
     ],
+    "16057": [
+      {
+        "mmdd": "07-16",
+        "name": {
+          "es": "Virgen del Carmen"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16058": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16060": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
     "16061": [
       {
         "mmdd": "05-15",
@@ -6488,6 +6912,72 @@
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/casas-de-fernando-alonso.html"
       }
     ],
+    "16062": [
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan Bautista"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16063": [
+      {
+        "mmdd": "01-19",
+        "name": {
+          "es": "El Niñete"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "La Crucecilla"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16064": [
+      {
+        "mmdd": "01-28",
+        "name": {
+          "es": "San Julián"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-459"
+      },
+      {
+        "mmdd": "08-31",
+        "name": {
+          "es": "María Magdalena"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16065": [
+      {
+        "mmdd": "02-02",
+        "name": {
+          "es": "Nuestra Señora de las Candelas"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16066": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.casasimarro.es/secciones.php?categoria=61&seccion=5"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiestas patronales en honor a San Bartolomé"
+        },
+        "source": "https://www.casasimarro.es/secciones.php?categoria=61&seccion=5"
+      }
+    ],
     "16067": [
       {
         "mmdd": "02-03",
@@ -6495,6 +6985,38 @@
           "es": "San Blas"
         },
         "source": "https://ayuntamientocastejon.es/fiestas"
+      }
+    ],
+    "16068": [
+      {
+        "mmdd": "07-23",
+        "name": {
+          "es": "Santa María Magdalena"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/R03785-03996.pdf"
+      },
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "San Agustín"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16073": [
+      {
+        "mmdd": "02-02",
+        "name": {
+          "es": "Santísima Virgen de las Candelas"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "08-12",
+        "name": {
+          "es": "Santo Cristo de la Salud"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
       }
     ],
     "16078": [
@@ -6527,6 +7049,81 @@
         "source": "https://visitacuenca.es/en/node/19279"
       }
     ],
+    "16079": [
+      {
+        "mmdd": "09-01",
+        "name": {
+          "es": "San Gil"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16081": [
+      {
+        "mmdd": "09-11",
+        "name": {
+          "es": "Cristo de la Luz"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16082": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "Fiestas de San Blas"
+        },
+        "source": "https://enguidanos.es/wp-content/uploads/2015/08/Memoria-2008-voluntariado-en-ri%CC%81os.pdf"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/boe/dias/1972/02/10/pdfs/A02422-02450.pdf"
+      }
+    ],
+    "16083": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16084": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      },
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "16085": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/la-frontera"
+      },
+      {
+        "mmdd": "11-30",
+        "name": {
+          "es": "San Andrés Apóstol"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/la-frontera"
+      }
+    ],
     "16086": [
       {
         "mmdd": "09-21",
@@ -6534,6 +7131,13 @@
           "es": "Fiestas patronales de San Andrés y la Virgen del Rosario"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/fuente-de-pedro-naharro.html"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
       }
     ],
     "16087": [
@@ -6543,6 +7147,29 @@
           "es": "San Isidro"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/fuentelespino-de-haro.html"
+      },
+      {
+        "mmdd": "10-27",
+        "name": {
+          "es": "Santísimo Corpus Christi"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16088": [
+      {
+        "mmdd": "05-22",
+        "name": {
+          "es": "Santa Quiteria"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "El Cristo"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
       }
     ],
     "16089": [
@@ -6552,6 +7179,22 @@
           "es": "Virgen del Rosario"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/fuentes.html"
+      }
+    ],
+    "16091": [
+      {
+        "mmdd": "10-07",
+        "name": {
+          "es": "Nuestra Señora del Rosario"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "11-11",
+        "name": {
+          "es": "San Martín Obispo"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-459"
       }
     ],
     "16092": [
@@ -6579,6 +7222,81 @@
         "source": "https://www.alcarriaconquense.com/la-comarca/municipio/gascuena"
       }
     ],
+    "16095": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-459"
+      },
+      {
+        "mmdd": "04-29",
+        "name": {
+          "es": "San Pedro Mártir"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16096": [
+      {
+        "mmdd": "04-23",
+        "name": {
+          "es": "San Jorge"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16098": [
+      {
+        "mmdd": "01-28",
+        "name": {
+          "es": "San Julián"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de la Estrella"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16099": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-459"
+      },
+      {
+        "mmdd": "05-20",
+        "name": {
+          "es": "San Bernardino"
+        },
+        "source": "https://www.boe.es/boe/dias/1972/02/10/pdfs/A02422-02450.pdf"
+      }
+    ],
+    "16100": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "16101": [
+      {
+        "mmdd": "05-28",
+        "name": {
+          "es": "Nuestra Señora de la Encarnación"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
     "16102": [
       {
         "mmdd": "05-15",
@@ -6586,15 +7304,65 @@
           "es": "San Isidro Labrador"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/honrubia.html"
+      },
+      {
+        "mmdd": "09-18",
+        "name": {
+          "es": "Santísimo Rostro del Señor"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
       }
     ],
     "16106": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Ferias del Cristo de los Aparecidos"
+        },
+        "source": "https://horcajodesantiago.dipucuenca.es/index.php/layout/fiestas-y-gastronomia"
+      },
       {
         "mmdd": "12-09",
         "name": {
           "es": "El Vítor"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/horcajo-de-santiago.html"
+      }
+    ],
+    "16107": [
+      {
+        "mmdd": "09-04",
+        "name": {
+          "es": "San Esteban y Santa Rosalía"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      }
+    ],
+    "16108": [
+      {
+        "mmdd": "05-08",
+        "name": {
+          "es": "San Miguel Arcángel"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16110": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de la Fuensanta"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16111": [
+      {
+        "mmdd": "07-22",
+        "name": {
+          "es": "Santa María Magdalena"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
       }
     ],
     "16112": [
@@ -6611,6 +7379,204 @@
           "es": "Santa Quiteria"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/huete.html"
+      }
+    ],
+    "16113": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Fiestas en Honor a San Isidro y al Señor de la Ascensión"
+        },
+        "source": "https://www.iniesta.es/category/ayuntamiento/page/2/"
+      },
+      {
+        "mmdd": "08-26",
+        "name": {
+          "es": "Feria y Fiestas en honor a la Virgen de la Consolación"
+        },
+        "source": "https://www.iniesta.es/wp-content/uploads/2018/07/fiestas-libro-2018.pdf"
+      }
+    ],
+    "16115": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio de Padua"
+        },
+        "source": "https://www.boe.es/boe/dias/1975/01/04/pdfs/A00195-00209.pdf"
+      },
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      }
+    ],
+    "16116": [
+      {
+        "mmdd": "06-11",
+        "name": {
+          "es": "San Bernabé"
+        },
+        "source": "https://www.boe.es/boe/dias/1965/01/05/pdfs/A00154-00174.pdf"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de la Zarza"
+        },
+        "source": "https://www.boe.es/boe/dias/1965/01/05/pdfs/A00154-00174.pdf"
+      }
+    ],
+    "16117": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16118": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Fiesta de San Isidro"
+        },
+        "source": "https://ledana.dipucuenca.es/index.php/careers/fiestas-patronales-2019"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roquillo"
+        },
+        "source": "https://www.xn--ledaa-rta.net/wp-content/uploads/2025/07/Libro-de-fiestas-Ledana-2025-Pliegos_compressed-3.pdf"
+      }
+    ],
+    "16119": [
+      {
+        "mmdd": "09-18",
+        "name": {
+          "es": "Santísimo Cristo de la Luz"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16121": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora del Sagrario"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      }
+    ],
+    "16122": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santo Cristo de la Luz"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Santo Cristo de la Salud"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16123": [
+      {
+        "mmdd": "10-02",
+        "name": {
+          "es": "Nuestra Señora del Rosario"
+        },
+        "source": "https://www.boe.es/boe/dias/1972/02/10/pdfs/A02422-02450.pdf"
+      }
+    ],
+    "16125": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.bandomovil.com/archivos/minglanilla/270420201152_Bando_suspension_San_Isidro-1.pdf"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santo Cristo de la Salud"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16126": [
+      {
+        "mmdd": "06-20",
+        "name": {
+          "es": "Corpus Christi"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16129": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Nuestro Padre Jesús Nazareno"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "16130": [
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "09-30",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16131": [
+      {
+        "mmdd": "06-15",
+        "name": {
+          "es": "Los Santos Mártires"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
+    "16132": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      },
+      {
+        "mmdd": "08-10",
+        "name": {
+          "es": "San Lorenzo"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
       }
     ],
     "16133": [
@@ -6652,6 +7618,129 @@
         "source": "https://es.wikipedia.org/wiki/Motilla_del_Palancar"
       }
     ],
+    "16137": [
+      {
+        "mmdd": "12-17",
+        "name": {
+          "es": "Virgen de la Esperanza"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16139": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Santo Niño"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16140": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "Fiesta en honor a San Sebastián"
+        },
+        "source": "https://visitalaalcarriaconquense.es/es/pueblos/olmeda-de-la-cuesta"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16141": [
+      {
+        "mmdd": "05-08",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santo Cristo de la Paz"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "16142": [
+      {
+        "mmdd": "01-19",
+        "name": {
+          "es": "Santo Niño de la Bola"
+        },
+        "source": "https://www.boe.es/boe/dias/1965/01/05/pdfs/A00154-00174.pdf"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.olmedilladealarcon.com/"
+      }
+    ],
+    "16145": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16146": [
+      {
+        "mmdd": "02-02",
+        "name": {
+          "es": "Virgen de las Candelas"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "09-01",
+        "name": {
+          "es": "San Gil"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16147": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Santísimo Cristo de la Paz"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "16148": [
+      {
+        "mmdd": "04-27",
+        "name": {
+          "es": "Nuestra Señora de la Cabeza"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
+      {
+        "mmdd": "09-25",
+        "name": {
+          "es": "Santo Cristo de la Paz"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      }
+    ],
     "16151": [
       {
         "mmdd": "05-15",
@@ -6659,6 +7748,22 @@
           "es": "San Isidro"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/paredes.html"
+      },
+      {
+        "mmdd": "11-30",
+        "name": {
+          "es": "San Andrés"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      }
+    ],
+    "16153": [
+      {
+        "mmdd": "07-27",
+        "name": {
+          "es": "Santa Ana"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
       }
     ],
     "16154": [
@@ -6668,6 +7773,49 @@
           "es": "Fiestas de Jesús Nazareno y el Santísimo Cristo de la Humildad"
         },
         "source": "https://es.wikipedia.org/wiki/Las_Pedro%C3%B1eras"
+      }
+    ],
+    "16155": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Jorge y San Damián"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16156": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      },
+      {
+        "mmdd": "09-09",
+        "name": {
+          "es": "Fiestas en honor a Nuestra Señora del Monte"
+        },
+        "source": "https://visitalaalcarriaconquense.es/es/pueblos/la-peraleja"
+      }
+    ],
+    "16157": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      }
+    ],
+    "16159": [
+      {
+        "mmdd": "02-05",
+        "name": {
+          "es": "Santa Águeda"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
       }
     ],
     "16160": [
@@ -6686,6 +7834,15 @@
         "source": "https://www.alcarriaconquense.com/la-comarca/municipio/pineda-de-giguela"
       }
     ],
+    "16161": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiesta del Turista"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
     "16162": [
       {
         "mmdd": "06-13",
@@ -6702,6 +7859,31 @@
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/portalrubio-de-guadamejud.html"
       }
     ],
+    "16165": [
+      {
+        "mmdd": "07-22",
+        "name": {
+          "es": "Santa María Magdalena"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      },
+      {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Santa María Magdalena"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "16166": [
+      {
+        "mmdd": "04-27",
+        "name": {
+          "es": "La Virgencilla"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
     "16167": [
       {
         "mmdd": "08-24",
@@ -6709,6 +7891,15 @@
           "es": "Fiestas en honor a la Virgen de la Soledad"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/pozorrubio-de-santiago.html"
+      }
+    ],
+    "16169": [
+      {
+        "mmdd": "09-12",
+        "name": {
+          "es": "Virgen de los Hoyos"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
       }
     ],
     "16170": [
@@ -6727,6 +7918,33 @@
         "source": "https://www.alcarriaconquense.com/la-comarca/municipio/priego"
       }
     ],
+    "16171": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Santo Niño del Remedio"
+        },
+        "source": "https://www.boe.es/boe/dias/1977/04/09/pdfs/R07840-08068.pdf"
+      }
+    ],
+    "16172": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Santísima Virgen de la Misericordia"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      }
+    ],
+    "16174": [
+      {
+        "mmdd": "05-28",
+        "name": {
+          "es": "Santa Quiteria"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
     "16175": [
       {
         "mmdd": "04-25",
@@ -6741,6 +7959,15 @@
           "es": "San Isidro"
         },
         "source": "https://es.wikipedia.org/wiki/Quintanar_del_Rey"
+      }
+    ],
+    "16176": [
+      {
+        "mmdd": "05-06",
+        "name": {
+          "es": "Virgen de la Rubia"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
       }
     ],
     "16177": [
@@ -6759,6 +7986,22 @@
           "es": "Santa Quiteria"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/rozalen-del-monte.html"
+      },
+      {
+        "mmdd": "06-11",
+        "name": {
+          "es": "San Bernabé"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      }
+    ],
+    "16185": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo del Amparo"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
       }
     ],
     "16186": [
@@ -6793,7 +8036,46 @@
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/salinas-del-manzano.html"
       }
     ],
+    "16188": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      },
+      {
+        "mmdd": "11-25",
+        "name": {
+          "es": "Santa Catalina"
+        },
+        "source": "https://www.boe.es/boe/dias/1970/01/10/pdfs/A00408-00432.pdf"
+      }
+    ],
+    "16189": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio de Padua"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
     "16190": [
+      {
+        "mmdd": "05-25",
+        "name": {
+          "es": "Día de Rus"
+        },
+        "source": "https://www.ivoox.com/victor-luis-camacho-alcalde-san-clemente-comentamos-audios-mp3_rf_160471787_1.html"
+      },
+      {
+        "mmdd": "08-20",
+        "name": {
+          "es": "Festivo de feria"
+        },
+        "source": "https://www.ivoox.com/victor-luis-camacho-alcalde-san-clemente-comentamos-audios-mp3_rf_160471787_1.html"
+      },
       {
         "mmdd": "08-21",
         "name": {
@@ -6822,6 +8104,13 @@
     ],
     "16193": [
       {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      },
+      {
         "mmdd": "08-01",
         "name": {
           "es": "San Pedro Advíncula"
@@ -6829,7 +8118,23 @@
         "source": "https://www.alcarriaconquense.com/la-comarca/municipio/san-pedro-palmiches"
       }
     ],
+    "16194": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
     "16196": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
       {
         "mmdd": "08-17",
         "name": {
@@ -6845,6 +8150,22 @@
           "es": "Virgen de la Zarza"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/sisante.html"
+      }
+    ],
+    "16199": [
+      {
+        "mmdd": "02-02",
+        "name": {
+          "es": "La Candelaria"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "05-06",
+        "name": {
+          "es": "San Juan"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
       }
     ],
     "16202": [
@@ -6865,11 +8186,43 @@
     ],
     "16203": [
       {
+        "mmdd": "01-28",
+        "name": {
+          "es": "San Julián"
+        },
+        "source": "https://nuevaweb.tarancon.es/servicios-municipales/tradiciones/"
+      },
+      {
         "mmdd": "09-08",
         "name": {
           "es": "Fiestas patronales en honor a la Virgen de Riánsares"
         },
         "source": "https://es.wikipedia.org/wiki/Taranc%C3%B3n"
+      }
+    ],
+    "16204": [
+      {
+        "mmdd": "05-25",
+        "name": {
+          "es": "Santa Quiteria"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
+      {
+        "mmdd": "09-10",
+        "name": {
+          "es": "Fiestas de San Roque"
+        },
+        "source": "https://tebar.dipucuenca.es/index.php/layout/layout-three"
+      }
+    ],
+    "16205": [
+      {
+        "mmdd": "07-16",
+        "name": {
+          "es": "Nuestra Señora del Carmen"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
       }
     ],
     "16206": [
@@ -6881,13 +8234,329 @@
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/tinajas.html"
       }
     ],
+    "16209": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      },
+      {
+        "mmdd": "12-21",
+        "name": {
+          "es": "Santo Domingo de Silos"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16211": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "Fiestas en honor a San Blas"
+        },
+        "source": "https://visitalaalcarriaconquense.es/es/pueblos/torrejoncillo-del-rey"
+      }
+    ],
+    "16212": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Santísima Virgen del Valle"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
+    "16215": [
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Miguel Arcángel"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan Bautista"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16240": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiesta en honor a San Bartolomé"
+        },
+        "source": "https://visitalaalcarriaconquense.es/es/pueblos/vellisca"
+      }
+    ],
+    "16242": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "Fiestas en honor a San Juan Bautista"
+        },
+        "source": "https://visitalaalcarriaconquense.es/es/pueblos/villaconejos-de-trabaque"
+      }
+    ],
+    "16216": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      },
+      {
+        "mmdd": "08-07",
+        "name": {
+          "es": "San Cayetano"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16217": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16218": [
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "Santo Cristo de la Humildad"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Nuestra Señora de las Angustias"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16219": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16224": [
+      {
+        "mmdd": "07-02",
+        "name": {
+          "es": "Virgen de Belén"
+        },
+        "source": "https://www.boe.es/boe/dias/1977/04/09/pdfs/R07840-08068.pdf"
+      }
+    ],
+    "16225": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16227": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio de Padua"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16231": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "Sagrado Corazón de Jesús"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "16234": [
+      {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Santiago Apóstol"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16236": [
+      {
+        "mmdd": "01-08",
+        "name": {
+          "es": "Santo Niño"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "09-22",
+        "name": {
+          "es": "Virgen del Espíritu Santo"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      }
+    ],
+    "16237": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
+      {
+        "mmdd": "12-18",
+        "name": {
+          "es": "Nuestra Señora de los Remedios"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16239": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de los Dolores"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "09-09",
+        "name": {
+          "es": "Nuestra Señora de los Dolores"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16243": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santo Cristo de la Expiración"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Santo Cristo de la Expiración"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16244": [
+      {
+        "mmdd": "05-08",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16245": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Santísima Virgen de la Natividad"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16247": [
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "Cristo de la Vera Cruz"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "16249": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
     "16250": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "Fiesta en honor a San Blas"
+        },
+        "source": "https://visitalaalcarriaconquense.es/es/pueblos/villanueva-de-guadamejud"
+      },
       {
         "mmdd": "09-09",
         "name": {
           "es": "Natividad de Nuestra Señora"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/villanueva-de-guadamejud.html"
+      }
+    ],
+    "16251": [
+      {
+        "mmdd": "08-05",
+        "name": {
+          "es": "Nuestra Señora de las Nieves"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "10-15",
+        "name": {
+          "es": "Santa Teresa de Jesús"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16253": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Santísima Virgen de la Cabeza"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
       }
     ],
     "16254": [
@@ -6899,6 +8568,95 @@
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/villar-de-domingo-garcia.html"
       }
     ],
+    "16255": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1976-49918"
+      }
+    ],
+    "16259": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Fiestas en honor a San Roque"
+        },
+        "source": "https://visitalaalcarriaconquense.es/es/pueblos/villar-del-infantado"
+      }
+    ],
+    "16263": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Natividad de Nuestra Señora"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/villar-de-olalla.html"
+      },
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "La Santa Cruz"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16265": [
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "Fiestas en honor a San Bartolomé"
+        },
+        "source": "https://visitalaalcarriaconquense.es/es/pueblos/villarejo-de-la-penuela"
+      }
+    ],
+    "16269": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Exaltación de la Santa Cruz"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      },
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "La Santa Cruz"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16273": [
+      {
+        "mmdd": "02-02",
+        "name": {
+          "es": "Nuestra Señora de la Purificación"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
     "16275": [
       {
         "mmdd": "08-17",
@@ -6906,6 +8664,67 @@
           "es": "Virgen de la Asunción"
         },
         "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/cuenca/vindel.html"
+      }
+    ],
+    "16276": [
+      {
+        "mmdd": "04-25",
+        "name": {
+          "es": "San Marcos"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      }
+    ],
+    "16277": [
+      {
+        "mmdd": "10-05",
+        "name": {
+          "es": "Nuestra Señora del Rosario"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "16278": [
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "San Agustín"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
+    "16280": [
+      {
+        "mmdd": "06-08",
+        "name": {
+          "es": "San Ciro"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "16905": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santo Rostro"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "16906": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/buscar/doc.php?id=BOE-A-1980-6232"
       }
     ],
     "17007": [
@@ -7430,7 +9249,145 @@
         "source": "https://motrilturismo.com/es/tradiciones/fiestas-patronales-honor-ntra-sra-cabeza"
       }
     ],
-    "19024": [
+    "19002": [
+      {
+        "mmdd": "05-22",
+        "name": {
+          "es": "Buen Labrador"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19004": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19005": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19007": [
+      {
+        "mmdd": "06-15",
+        "name": {
+          "es": "San Antonio de Padua"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "06-19",
+        "name": {
+          "es": "San Antonio de Padua"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+   "19008": [
+      {
+        "mmdd": "01-31",
+        "name": {
+          "es": "Santa Coloma"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19015": [
+      {
+        "mmdd": "08-16",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "12-13",
+        "name": {
+          "es": "Santa Lucía"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19016": [
+      {
+        "mmdd": "09-12",
+        "name": {
+          "es": "Nuestra Señora de los Albares"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19017": [
+      {
+        "mmdd": "07-16",
+        "name": {
+          "es": "Nuestra Señora del Carmen"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19018": [
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora del Saz"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19019": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19020": [
+      {
+        "mmdd": "06-16",
+        "name": {
+          "es": "San Quirico"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19021": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19022": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de la Luz"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+   "19024": [
       {
         "mmdd": "01-26",
         "name": {
@@ -7478,6 +9435,15 @@
         "source": "https://www.albalatedezorita.es/turismo/fiestas/"
       }
     ],
+    "19009": [
+      {
+        "mmdd": "09-21",
+        "name": {
+          "es": "Nuestra Señora de Tremedal"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
     "19011": [
       {
         "mmdd": "06-13",
@@ -7503,7 +9469,100 @@
         "source": "https://turismoenguadalajara.es/localidades/alcoroches"
       }
     ],
-    "19045": [
+    "19031": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19034": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19037": [
+      {
+        "mmdd": "02-02",
+        "name": {
+          "es": "Botarga de Arbancón"
+        },
+        "source": "https://turismoenguadalajara.es/listado/eventos"
+      }
+    ],
+    "19039": [
+      {
+        "mmdd": "05-08",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19041": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      }
+    ],
+    "19042": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+   "19043": [
+     {
+       "mmdd": "02-03",
+       "name": {
+         "es": "San Blas"
+       },
+       "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "San Agustín"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+     }
+   ],
+   "19044": [
+     {
+       "mmdd": "03-27",
+       "name": {
+         "es": "Virgen de los Dolores"
+       },
+       "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santo Cristo"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+     }
+   ],
+   "19045": [
       {
         "mmdd": "05-15",
         "name": {
@@ -7542,6 +9601,42 @@
         "source": "https://www.azuqueca.es/tu-ciudad/sobre-azuqueca/fiestas"
       }
     ],
+    "19047": [
+      {
+        "mmdd": "01-24",
+        "name": {
+          "es": "Nuestra Señora de la Paz"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19048": [
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19049": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19051": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora del Condado"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
     "19053": [
       {
         "mmdd": "08-17",
@@ -7549,6 +9644,31 @@
           "es": "Fiestas patronales en honor de Ntra. Sra. de la Peña / La Bajada"
         },
         "source": "https://turismobrihuega.com/index.php/nuestras-fiestas/fiestas-patronales"
+      }
+    ],
+    "19055": [
+      {
+        "mmdd": "06-29",
+        "name": {
+          "es": "San Pedro Apóstol"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/guadalajara/bujalaro"
+      }
+    ],
+    "19057": [
+      {
+        "mmdd": "08-10",
+        "name": {
+          "es": "San Lorenzo"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/guadalajara/bustares"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
       }
     ],
     "19058": [
@@ -7574,7 +9694,25 @@
         "source": "https://aytocabanillas.org/ciudad/fiestas-y-tradiciones/"
       }
     ],
-    "19065": [
+    "19059": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de la Antigua"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19060": [
+      {
+        "mmdd": "07-11",
+        "name": {
+          "es": "Santa María Magdalena"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+   "19065": [
       {
         "mmdd": "10-09",
         "name": {
@@ -7620,7 +9758,75 @@
         "source": "https://elcasar.es/"
       }
     ],
-    "19086": [
+    "19073": [
+      {
+        "mmdd": "06-05",
+        "name": {
+          "es": "Corpus Christi"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19074": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19075": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      },
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19078": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19080": [
+      {
+        "mmdd": "01-17",
+        "name": {
+          "es": "San Antón"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
+    "19082": [
+     {
+       "mmdd": "02-05",
+       "name": {
+         "es": "Santa Águeda"
+       },
+       "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Festividad del Santo Cristo"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+     }
+   ],
+   "19086": [
       {
         "mmdd": "09-14",
         "name": {
@@ -7636,7 +9842,195 @@
         "source": "https://www.cifuentes.es/post/bases-del-concurso-de-carteles-fiestas-patronales-de-cifuentes-2026"
       }
     ],
-    "19117": [
+    "19087": [
+      {
+        "mmdd": "01-22",
+        "name": {
+          "es": "San Vicente Mártir"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/guadalajara/cincovillas"
+      }
+    ],
+    "19088": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Fiestas del Cristo del Ecce Homo"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19091": [
+      {
+        "mmdd": "06-14",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19092": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "11-12",
+        "name": {
+          "es": "San Diego de Alcalá"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19095": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Natividad de Nuestra Señora"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19096": [
+      {
+        "mmdd": "01-22",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19097": [
+      {
+        "mmdd": "12-04",
+        "name": {
+          "es": "Santa Bárbara"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19098": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19099": [
+      {
+        "mmdd": "09-11",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/boe/dias/1964/01/06/pdfs/A00213-00229.pdf"
+      }
+    ],
+    "19103": [
+      {
+        "mmdd": "08-10",
+        "name": {
+          "es": "San Lorenzo"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19105": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de la Salud"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19107": [
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      },
+      {
+        "mmdd": "09-30",
+        "name": {
+          "es": "San Miguel y Virgen de la Muela"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19108": [
+      {
+        "mmdd": "08-14",
+        "name": {
+          "es": "Virgen de la Esperanza"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "12-18",
+        "name": {
+          "es": "Nuestra Señora de la Cuesta"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19109": [
+      {
+        "mmdd": "12-20",
+        "name": {
+          "es": "Santo Domingo de Silos"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19111": [
+      {
+        "mmdd": "04-22",
+        "name": {
+          "es": "Virgen de las Angustias"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19112": [
+      {
+        "mmdd": "05-01",
+        "name": {
+          "es": "Hermandad de San José"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19115": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+  "19117": [
       {
         "mmdd": "08-17",
         "name": {
@@ -7645,7 +10039,118 @@
         "source": "https://fontanar.es/fiestas/"
       }
     ],
-    "19143": [
+    "19119": [
+      {
+        "mmdd": "01-24",
+        "name": {
+          "es": "Botarga de Fuencemillán"
+        },
+        "source": "https://turismoenguadalajara.es/listado/eventos"
+      },
+      {
+        "mmdd": "05-02",
+        "name": {
+          "es": "La Cruz de Mayo"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19120": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo de la Salud"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19121": [
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "Fiestas de San Agustín"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+   "19123": [
+     {
+       "mmdd": "05-03",
+       "name": {
+         "es": "Cruz de Mayo"
+       },
+       "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-16",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19124": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro y Virgen del Socorro"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19125": [
+      {
+        "mmdd": "06-12",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19135": [
+      {
+        "mmdd": "08-22",
+        "name": {
+          "es": "Santa Cecilia"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      }
+    ],
+    "19136": [
+      {
+        "mmdd": "06-11",
+        "name": {
+          "es": "San Bernabé"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19139": [
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "San Agustín"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19142": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de los Llanos"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+  "19143": [
       {
         "mmdd": "09-08",
         "name": {
@@ -7659,6 +10164,94 @@
           "es": "Fiestas Patronales de Horche"
         },
         "source": "https://www.horche.org/actualidad/avisos/bases-para-el-concurso-de-carteles-de-las-fiestas-de-horche-2026"
+      }
+    ],
+    "19146": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19147": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19148": [
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19150": [
+      {
+        "mmdd": "09-11",
+        "name": {
+          "es": "Cristo de la Fe"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19151": [
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Nuestra Señora de Peñahora"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19152": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora del Perpetuo Socorro"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19153": [
+      {
+        "mmdd": "12-04",
+        "name": {
+          "es": "Santa Bárbara"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19154": [
+      {
+        "mmdd": "06-22",
+        "name": {
+          "es": "San Acacio"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
+    "19155": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
       }
     ],
     "19156": [
@@ -7709,7 +10302,118 @@
         "source": "https://www.guadalajara.es/es/ciudad/fiestas-tradicionales.html"
       }
     ],
-    "19171": [
+    "19157": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19160": [
+      {
+        "mmdd": "08-04",
+        "name": {
+          "es": "Santo Domingo de Guzmán"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de la Misericordia"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19161": [
+      {
+        "mmdd": "05-06",
+        "name": {
+          "es": "Santísimo Cristo del Socorro"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19162": [
+      {
+        "mmdd": "07-09",
+        "name": {
+          "es": "San Zenón"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19165": [
+      {
+        "mmdd": "09-06",
+        "name": {
+          "es": "Danzantes de la Fiesta del Santo Niño"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19166": [
+      {
+        "mmdd": "08-06",
+        "name": {
+          "es": "Los Santos Niños"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      }
+    ],
+    "19167": [
+      {
+        "mmdd": "02-06",
+        "name": {
+          "es": "Las Candelas"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19168": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de la Paz"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+   "19169": [
+      {
+        "mmdd": "06-12",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-07",
+        "name": {
+          "es": "Nuestra Señora de la Asunción"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19170": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de los Olmos"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+   "19171": [
       {
         "mmdd": "05-02",
         "name": {
@@ -7732,7 +10436,157 @@
         "source": "https://www.marchamalo.com/municipio/fiestas/"
       }
     ],
-    "19190": [
+    "19172": [
+      {
+        "mmdd": "06-11",
+        "name": {
+          "es": "San Bernabé"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19173": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19175": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Romería de San Mamés"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19177": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan Bautista"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+   "19178": [
+     {
+       "mmdd": "05-22",
+       "name": {
+         "es": "Santa Quiteria"
+       },
+       "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-16",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+     }
+   ],
+    "19179": [
+      {
+        "mmdd": "08-05",
+        "name": {
+          "es": "Nuestra Señora de la Blanca"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "San Agustín"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19181": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19183": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Jesús Nazareno"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19184": [
+      {
+        "mmdd": "08-29",
+        "name": {
+          "es": "La Santa Cara de Dios"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19185": [
+      {
+        "mmdd": "06-12",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      },
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19187": [
+      {
+        "mmdd": "04-23",
+        "name": {
+          "es": "San Jorge"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de Cáritas"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      }
+    ],
+    "19188": [
+      {
+        "mmdd": "05-17",
+        "name": {
+          "es": "San Pascual Bailón"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      },
+      {
+        "mmdd": "09-24",
+        "name": {
+          "es": "Nuestra Señora de los Remedios"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+   "19190": [
       {
         "mmdd": "07-16",
         "name": {
@@ -7748,7 +10602,16 @@
         "source": "https://es.wikipedia.org/wiki/Molina_de_Arag%C3%B3n"
       }
     ],
-    "19192": [
+    "19191": [
+      {
+        "mmdd": "09-09",
+        "name": {
+          "es": "Santo Cristo"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      }
+    ],
+   "19192": [
       {
         "mmdd": "07-22",
         "name": {
@@ -7771,7 +10634,64 @@
         "source": "https://mondejar.eu/fiestas-y-tradiciones/"
       }
     ],
-    "19212": [
+   "19204": [
+     {
+       "mmdd": "07-10",
+       "name": {
+         "es": "Fiestas de San Cristóbal"
+       },
+       "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-04",
+        "name": {
+          "es": "La Reverencia"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+     }
+   ],
+    "19208": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Natividad de Nuestra Señora"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      },
+      {
+        "mmdd": "09-09",
+        "name": {
+          "es": "Natividad de Nuestra Señora"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19210": [
+      {
+        "mmdd": "08-27",
+        "name": {
+          "es": "San Julián"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
+    "19211": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de los Remedios"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      },
+      {
+        "mmdd": "09-09",
+        "name": {
+          "es": "Nuestra Señora de los Remedios"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+   "19212": [
       {
         "mmdd": "01-20",
         "name": {
@@ -7787,7 +10707,220 @@
         "source": "https://es.wikipedia.org/wiki/Pastrana"
       }
     ],
-    "19248": [
+    "19215": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de la Salceda"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19216": [
+      {
+        "mmdd": "09-21",
+        "name": {
+          "es": "San Mateo"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19219": [
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan Bautista"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19223": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Virgen de los Remedios y San Roque"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      },
+      {
+        "mmdd": "08-18",
+        "name": {
+          "es": "Virgen de los Remedios y San Roque"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      }
+    ],
+   "19224": [
+      {
+        "mmdd": "11-10",
+        "name": {
+          "es": "San Martín"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      },
+      {
+        "mmdd": "11-11",
+        "name": {
+          "es": "San Martín"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19225": [
+      {
+        "mmdd": "09-21",
+        "name": {
+          "es": "San Mateo Apóstol"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+   "19226": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio de Padua"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19228": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "Caridad de San Juan"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      }
+    ],
+    "19229": [
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19230": [
+      {
+        "mmdd": "01-22",
+        "name": {
+          "es": "San Vicente"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-04",
+        "name": {
+          "es": "Cristo de la Misericordia"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19231": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19232": [
+      {
+        "mmdd": "06-12",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19235": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de Armallak"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19237": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Natividad de Nuestra Señora"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19240": [
+      {
+        "mmdd": "10-04",
+        "name": {
+          "es": "Virgen del Rosario"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19241": [
+      {
+        "mmdd": "11-30",
+        "name": {
+          "es": "San Andrés"
+        },
+        "source": "https://www.boe.es/boe/dias/1977/04/09/pdfs/R07840-08068.pdf"
+      }
+    ],
+    "19242": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Natividad de Nuestra Señora"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19244": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19247": [
+      {
+        "mmdd": "05-14",
+        "name": {
+          "es": "San Matías"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo de la Buena Muerte"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+   "19248": [
       {
         "mmdd": "01-22",
         "name": {
@@ -7801,9 +10934,52 @@
           "es": "Fiestas patronales de verano en honor a San Roque y la Virgen la Mayor"
         },
         "source": "https://es.wikipedia.org/wiki/Sig%C3%BCenza"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
       }
     ],
-    "19257": [
+    "19249": [
+      {
+        "mmdd": "11-30",
+        "name": {
+          "es": "San Andrés"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19250": [
+      {
+        "mmdd": "08-06",
+        "name": {
+          "es": "Fiestas del Salvador"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19251": [
+      {
+        "mmdd": "10-07",
+        "name": {
+          "es": "Nuestra Señora del Rosario"
+        },
+        "source": "https://www.boe.es/boe/dias/1972/02/10/pdfs/A02422-02450.pdf"
+      }
+    ],
+    "19252": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+   "19257": [
       {
         "mmdd": "01-22",
         "name": {
@@ -7826,7 +11002,161 @@
         "source": "https://siguenza.es/?page_id=536"
       }
     ],
-    "19291": [
+    "19263": [
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan Bautista"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19264": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Mamés"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19265": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19266": [
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Virgen de la Salceda"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de la Salceda"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19268": [
+      {
+        "mmdd": "05-17",
+        "name": {
+          "es": "San Pascual Bailón"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19269": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19274": [
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Virgen del Amparo"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen del Amparo"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+   "19279": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de Sopetrán"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19280": [
+      {
+        "mmdd": "02-02",
+        "name": {
+          "es": "La Candelaria"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19282": [
+      {
+        "mmdd": "05-18",
+        "name": {
+          "es": "San Pascual Bailón"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19284": [
+      {
+        "mmdd": "09-24",
+        "name": {
+          "es": "Nuestra Señora de la Esperanza"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19287": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "San Nicolás de Tolentino"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      },
+      {
+        "mmdd": "09-10",
+        "name": {
+          "es": "San Nicolás de Tolentino"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/R03785-03996.pdf"
+      }
+    ],
+    "19288": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19290": [
+      {
+        "mmdd": "06-11",
+        "name": {
+          "es": "Fiesta de San Bernabé"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo de la Misericordia"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+   "19291": [
       {
         "mmdd": "09-07",
         "name": {
@@ -7842,7 +11172,304 @@
         "source": "https://www.trillo.es/web/index.php/vivir-trillo/noticias/613-trillo-se-prepara-para-vivir-sus-fiestas-patronales-en-honor-a-la-virgen-del-campo-del-4-al-9-de-septiembre"
       }
     ],
-    "21005": [
+    "19293": [
+      {
+        "mmdd": "08-14",
+        "name": {
+          "es": "Virgen de la Varga"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19296": [
+      {
+        "mmdd": "06-22",
+        "name": {
+          "es": "San Acacio"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19297": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+   "19298": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-16",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19299": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo"
+        },
+        "source": "https://www.boe.es/boe/dias/1977/04/09/pdfs/R07840-08068.pdf"
+      }
+    ],
+    "19301": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+   "19302": [
+     {
+       "mmdd": "05-09",
+       "name": {
+         "es": "San Gregorio"
+       },
+       "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "06-15",
+        "name": {
+          "es": "San Antonio de Padua"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+     }
+   ],
+    "19303": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de la Zarza"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19304": [
+      {
+        "mmdd": "06-11",
+        "name": {
+          "es": "San Bernabé"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santo Cristo de la Nave"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      }
+    ],
+   "19305": [
+     {
+       "mmdd": "05-15",
+       "name": {
+         "es": "San Isidro"
+       },
+       "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "Santísimo Cristo de la Paz"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+     }
+   ],
+    "19306": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19308": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Fulcito"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "San Fulcito"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19309": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo"
+        },
+        "source": "https://www.boe.es/boe/dias/1977/04/09/pdfs/R07840-08068.pdf"
+      }
+    ],
+    "19314": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19318": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "02-04",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+    "19319": [
+      {
+        "mmdd": "02-05",
+        "name": {
+          "es": "Santa Águeda"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19322": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19324": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19325": [
+      {
+        "mmdd": "08-10",
+        "name": {
+          "es": "San Lorenzo"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      },
+      {
+        "mmdd": "08-31",
+        "name": {
+          "es": "San Ramón Nonato"
+        },
+        "source": "https://www.boe.es/boe/dias/1977/04/09/pdfs/R07840-08068.pdf"
+      }
+    ],
+    "19326": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.boe.es/boe/dias/1977/04/09/pdfs/R07840-08068.pdf"
+      }
+    ],
+    "19327": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de la Soledad"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19330": [
+      {
+        "mmdd": "08-15",
+        "name": {
+          "es": "Virgen de la Zarza y San Roque"
+        },
+        "source": "https://turismoenguadalajara.es/wp-content/uploads/2017/07/Calendario-de-Fiestas-Tradicionales-2018.pdf"
+      },
+      {
+        "mmdd": "08-16",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19331": [
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Nuestra Señora de la Granja"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      },
+      {
+        "mmdd": "09-16",
+        "name": {
+          "es": "Nuestra Señora de la Granja"
+        },
+        "source": "https://www.boe.es/datos/pdfs/BOE/1978/064/R06362-06475.pdf"
+      }
+    ],
+   "19332": [
+      {
+        "mmdd": "05-03",
+        "name": {
+          "es": "Santo Cristo del Guijarro"
+        },
+        "source": "https://www.dguadalajara.es/c/document_library/get_file?uuid=950f5a5a-9b26-48a3-a85c-53590bca171a&groupId=10128"
+      }
+    ],
+    "19333": [
+      {
+        "mmdd": "06-13",
+        "name": {
+          "es": "San Antonio"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+    "19901": [
+      {
+        "mmdd": "08-16",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/A03785-03812.pdf"
+      }
+    ],
+   "21005": [
       {
         "mmdd": "05-25",
         "name": {
@@ -14422,6 +18049,22 @@
         "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       }
     ],
+    "45011": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://en.www.turismocastillalamancha.es/patrimonio/almendral-de-la-canada-73831/"
+      },
+      {
+        "mmdd": "09-11",
+        "name": {
+          "es": "Beata Ana"
+        },
+        "source": "https://en.www.turismocastillalamancha.es/patrimonio/almendral-de-la-canada-73831/"
+      }
+    ],
     "45012": [
       {
         "mmdd": "02-03",
@@ -14429,6 +18072,13 @@
           "es": "San Blas"
         },
         "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=199&insert_year=2017&publication_date=19102017"
       }
     ],
     "45013": [
@@ -14457,6 +18107,13 @@
       }
     ],
     "45015": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
       {
         "mmdd": "05-15",
         "name": {
@@ -14488,6 +18145,86 @@
           "es": "Cristo del Amparo"
         },
         "source": "https://www.diputoledo.es/global/11/50/169/dir-municipios/Todos/45017"
+      },
+      {
+        "mmdd": "07-16",
+        "name": {
+          "es": "Nuestra Señora del Carmen"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/R03785-03996.pdf"
+      }
+    ],
+    "45018": [
+      {
+        "mmdd": "06-16",
+        "name": {
+          "es": "Fiestas Patronales en Honor a Santa Julita y San Quirico"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45019": [
+      {
+        "mmdd": "08-03",
+        "name": {
+          "es": "Fiestas Patronales San Esteban"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-21",
+        "name": {
+          "es": "Fiestas en Honor del Santísimo Cristo de la Sala"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45020": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "Fiestas Patronales de San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "01-21",
+        "name": {
+          "es": "Fiestas Patronales de San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45021": [
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "Fiestas Patronales en Honor a San Agustín"
+        },
+        "source": "https://www.ayuntamientodeborox.com/images/cultura/bases_concurso_portada_fiestas_2025.pdf"
+      },
+      {
+        "mmdd": "08-31",
+        "name": {
+          "es": "Fiestas Patronales en Honor a San Agustín"
+        },
+        "source": "https://www.ayuntamientodeborox.com/images/cultura/bases_concurso_portada_fiestas_2025.pdf"
+      }
+    ],
+    "45023": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Cristo de la Fe"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       }
     ],
     "45024": [
@@ -14506,6 +18243,31 @@
         "source": "https://burujon.es/fiestas-de-burujon/"
       }
     ],
+    "45026": [
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "Fiestas Patronales en Honor de la Virgen del Socorro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-31",
+        "name": {
+          "es": "Fiestas Patronales en Honor de la Virgen del Socorro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45027": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Festividad de San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
     "45028": [
       {
         "mmdd": "09-14",
@@ -14520,6 +18282,72 @@
           "es": "Fiestas en honor al Santísimo Cristo de Chozas"
         },
         "source": "https://caleraychozas.com/fiestas-santisimo-cristo-chozas-septiembre"
+      }
+    ],
+    "45029": [
+      {
+        "mmdd": "05-06",
+        "name": {
+          "es": "Festividad de San Juan Evangelista"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "05-07",
+        "name": {
+          "es": "Festividad de San Juan Evangelista"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45030": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo de la Misericordia"
+        },
+        "source": "https://www.boe.es/boe/dias/1964/01/06/pdfs/A00213-00229.pdf"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Cristo de las Misericordias"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45031": [
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "Fiesta de San Juan"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-14",
+        "name": {
+          "es": "Fiesta Virgen de la Caridad"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45032": [
+      {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Virgen del Rosario"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45033": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=21096636%3B0&insert_number=4677&insert_year=2021"
       }
     ],
     "45034": [
@@ -14538,6 +18366,136 @@
         "source": "https://www.turismocastillalamancha.es/fiestas/pecados-y-danzantes-de-camunas-59164/descripcion/"
       }
     ],
+    "45035": [
+      {
+        "mmdd": "02-02",
+        "name": {
+          "es": "Virgen de las Candelas"
+        },
+        "source": "https://www.boe.es/boe/dias/1970/01/10/pdfs/A00408-00432.pdf"
+      },
+      {
+        "mmdd": "10-05",
+        "name": {
+          "es": "Nuestra Señora del Rosario"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45036": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de la Cueva"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "11-30",
+        "name": {
+          "es": "Santa Justina"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45037": [
+      {
+        "mmdd": "04-13",
+        "name": {
+          "es": "Fiestas de Quasimodo"
+        },
+        "source": "https://www.bandomovil.com/web.php?municipio=elcarpiodetajo&pag=3"
+      },
+      {
+        "mmdd": "07-25",
+        "name": {
+          "es": "Festividad de Santiago Apóstol"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=21096636%3B0&insert_number=4677&insert_year=2021"
+      }
+    ],
+    "45038": [
+      {
+        "mmdd": "07-22",
+        "name": {
+          "es": "Fiestas de Santa María Magdalena"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-04",
+        "name": {
+          "es": "Fiestas del Santísimo Cristo de la Fe"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45039": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora la Virgen de la Encina"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45040": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roquito"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+   "45041": [
+     {
+       "mmdd": "05-15",
+       "name": {
+         "es": "San Isidro"
+       },
+       "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+     },
+     {
+       "mmdd": "09-14",
+       "name": {
+         "es": "Día posterior a la Virgen de Gracia"
+       },
+       "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+     }
+   ],
+    "45042": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=18106469%3B0&insert_number=5292&insert_year=2018"
+      },
+      {
+        "mmdd": "12-09",
+        "name": {
+          "es": "Santa Leocadia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=21096636%3B0&insert_number=4677&insert_year=2021"
+      }
+    ],
+   "45043": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "11-30",
+        "name": {
+          "es": "San Andrés"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
     "45045": [
       {
         "mmdd": "01-22",
@@ -14554,6 +18512,22 @@
         "source": "https://www.cazalegas.es/oferta-turistica/festividades-locales.html"
       }
     ],
+    "45046": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora Virgen de la Antigua"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
     "45047": [
       {
         "mmdd": "06-13",
@@ -14568,6 +18542,186 @@
           "es": "Fiestas de la Virgen de la Natividad"
         },
         "source": "https://cedillodelcondado.es/municipio/fiestas-y-eventos"
+      }
+    ],
+    "45048": [
+      {
+        "mmdd": "08-03",
+        "name": {
+          "es": "San Esteban"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo del Consuelo y la Virgen"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45049": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45051": [
+      {
+        "mmdd": "09-21",
+        "name": {
+          "es": "Fiestas en Honor a la Virgen del Carmen"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-22",
+        "name": {
+          "es": "Fiestas en Honor a la Virgen del Carmen"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45054": [
+      {
+        "mmdd": "05-18",
+        "name": {
+          "es": "Función en Honor de Nuestra Señora de la Muela"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45055": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45056": [
+      {
+        "mmdd": "04-30",
+        "name": {
+          "es": "Santísimo Cristo de la Misericordia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Santa María Magdalena"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45057": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Romería en Honor a San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "12-04",
+        "name": {
+          "es": "Festividad de Santa Bárbara"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45058": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora del Prado"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
+    "45059": [
+      {
+        "mmdd": "05-05",
+        "name": {
+          "es": "Nuestro Padre Jesús de Nazareno"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-18",
+        "name": {
+          "es": "Virgen del Campo"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
+    "45060": [
+      {
+        "mmdd": "04-23",
+        "name": {
+          "es": "San Jorge"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45061": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "12-09",
+        "name": {
+          "es": "La Virgen Chica"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45062": [
+      {
+        "mmdd": "07-22",
+        "name": {
+          "es": "Santa María Magdalena"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de la Cruz a Cuestas"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45063": [
+      {
+        "mmdd": "07-27",
+        "name": {
+          "es": "Santiago"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de los Remedios"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/R03785-03996.pdf"
       }
     ],
     "45064": [
@@ -14602,6 +18756,179 @@
         "source": "https://www.fuensalida.com/fiestas/"
       }
     ],
+    "45067": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+   "45068": [
+     {
+       "mmdd": "07-22",
+       "name": {
+         "es": "Fiestas de Santa María Magdalena"
+       },
+       "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+     },
+     {
+       "mmdd": "09-14",
+       "name": {
+         "es": "Fiestas en Honor al Santísimo Cristo de la Luz"
+       },
+       "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+     }
+   ],
+    "45069": [
+      {
+        "mmdd": "03-19",
+        "name": {
+          "es": "San José"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=199&insert_year=2017&publication_date=19102017"
+      },
+      {
+        "mmdd": "09-21",
+        "name": {
+          "es": "San Mateo"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45070": [
+      {
+        "mmdd": "07-22",
+        "name": {
+          "es": "Festividad de Santísima María Magdalena"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=18106469%3B0&insert_number=5292&insert_year=2018"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Festividad del Santísimo Cristo de la Piedad"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45071": [
+      {
+        "mmdd": "09-24",
+        "name": {
+          "es": "Fiestas del Santo Niño de La Guardia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-25",
+        "name": {
+          "es": "Fiestas del Santo Niño de La Guardia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45072": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de la Vera Cruz"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "45073": [
+      {
+        "mmdd": "01-23",
+        "name": {
+          "es": "San Ildefonso"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "45074": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo de la Esperanza"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/R03785-03996.pdf"
+      }
+    ],
+    "45075": [
+      {
+        "mmdd": "05-18",
+        "name": {
+          "es": "La Milagra"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "El Cristo"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45076": [
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45077": [
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "Festividad de San Juan Bautista"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "12-23",
+        "name": {
+          "es": "Festividad de Santa Eugenia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45078": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Virgen del Rosario de Pastores"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "Virgen del Rosario de Pastores"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45079": [
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Virgen de la Oliva"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Fiesta en Honor a Nuestra Señora Virgen de la Oliva"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
     "45081": [
       {
         "mmdd": "03-11",
@@ -14618,6 +18945,257 @@
         "source": "https://www.illescas.es/fiestas/"
       }
     ],
+    "45082": [
+      {
+        "mmdd": "08-03",
+        "name": {
+          "es": "Fiesta en Honor a El Salvador"
+        },
+        "source": "https://lagartera.es/fiestas-municipales/"
+      },
+      {
+        "mmdd": "10-05",
+        "name": {
+          "es": "Fiesta de la Virgen del Rosario"
+        },
+        "source": "https://lagartera.es/fiestas-municipales/"
+      }
+    ],
+    "45083": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Fiesta de San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "07-22",
+        "name": {
+          "es": "Fiesta de Santa María Magdalena"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45084": [
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "Cristo de las Injurias"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de la Esperanza"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45086": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "El Cristo de la Toza"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45088": [
+      {
+        "mmdd": "07-17",
+        "name": {
+          "es": "Festividad de Santa Marina"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-21",
+        "name": {
+          "es": "Fiestas de las Purísima Concepción"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45089": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "Festividad de San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-05",
+        "name": {
+          "es": "Festividad de Nuestra Señora de las Nieves"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45090": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=18106469%3B0&insert_number=5292&insert_year=2018"
+      },
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "Víspera del Cristo de la Fe"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45091": [
+      {
+        "mmdd": "04-24",
+        "name": {
+          "es": "Fiesta en honor a Nuestra Señora de los Dados"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "04-27",
+        "name": {
+          "es": "Fiesta en honor a Nuestra Señora de los Dados"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+   "45092": [
+      {
+        "mmdd": "05-22",
+        "name": {
+          "es": "Santa Quiteria"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan Bautista"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45093": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=21096636%3B0&insert_number=4677&insert_year=2021"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "San Bartolomé"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=21096636%3B0&insert_number=4677&insert_year=2021"
+      }
+    ],
+    "45094": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de Gracia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45095": [
+      {
+        "mmdd": "01-23",
+        "name": {
+          "es": "San Ildefonso"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/R03785-03996.pdf"
+      }
+    ],
+    "45096": [
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "Fiesta de la Cruz"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Fiesta de Nuestra Señora del Sagrario"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45097": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45099": [
+      {
+        "mmdd": "04-24",
+        "name": {
+          "es": "Fiestas de Abril en honor a Nuestra Señora de la Natividad"
+        },
+        "source": "https://www.turismocastillalamancha.es/es/destinos/encanto-rural/toledo/mentrida"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Fiestas Patronales de Septiembre en Honor a Nuestra Señora de la Natividad"
+        },
+        "source": "https://mentrida.es/%C3%A1reas-y-servicios/turismo/calendario-festivo"
+      }
+    ],
+    "45100": [
+      {
+        "mmdd": "05-11",
+        "name": {
+          "es": "Fiestas en Honor del Santísimo Cristo del Amparo"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiestas en Honor de San Bartolomé"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45101": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Festividad de San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Feria y Fiestas"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
     "45102": [
       {
         "mmdd": "07-16",
@@ -14632,6 +19210,47 @@
           "es": "Fiestas en Honor a la Virgen de las Angustias"
         },
         "source": "https://www.mocejon.es/fiestas"
+      }
+    ],
+    "45103": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45104": [
+      {
+        "mmdd": "07-31",
+        "name": {
+          "es": "Fiesta Mayor de la Virgen del Rosario"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "10-07",
+        "name": {
+          "es": "Festividad de la Virgen del Rosario"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45105": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "02-05",
+        "name": {
+          "es": "Santa Águeda"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       }
     ],
     "45107": [
@@ -14652,11 +19271,43 @@
     ],
     "45109": [
       {
+        "mmdd": "05-18",
+        "name": {
+          "es": "Festividad de La Milagra"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
         "mmdd": "08-24",
         "name": {
           "es": "Fiestas en Honor a San Bartolomé"
         },
         "source": "https://navahermosa.es/event/fiestas-en-honor-a-san-bartolome-2025/"
+      }
+    ],
+    "45110": [
+      {
+        "mmdd": "01-26",
+        "name": {
+          "es": "San Pablito"
+        },
+        "source": "https://navalcan.com/index.php/noticias/actualidad/393-grandes-fiestas-en-honor-a-san-pablo-del-22-al-26-de-enero-de-2026"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45111": [
+      {
+        "mmdd": "01-16",
+        "name": {
+          "es": "Fiesta de San Antón"
+        },
+        "source": "https://www.bandomovil.com/navalmoralejo/1485163/0"
       }
     ],
     "45112": [
@@ -14666,6 +19317,120 @@
           "es": "Santísimo Cristo de las Maravillas"
         },
         "source": "https://www.losnavalmorales.es/index.php?option=com_content&view=article&id=29&Itemid=168"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Santísimo Cristo de las Maravillas"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "45113": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen de las Saleras"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
+    "45114": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Nuestra Señora de la Nava"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45115": [
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "Cristo de las Injurias"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      },
+      {
+        "mmdd": "07-17",
+        "name": {
+          "es": "Fiestas en honor a Santa María Magdalena"
+        },
+        "source": "https://noblejas.es/noblejas-presenta-el-programa-de-las-fiestas-en-honor-a-santa-maria-magdalena-2026-cinco-dias-de-tradicion-musica-y-convivencia/"
+      }
+    ],
+    "45116": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo de la Salud"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "45117": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Festividad de San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "07-27",
+        "name": {
+          "es": "Fiestas Patronales en Honor a Santiago Apóstol y Santa Ana"
+        },
+        "source": "https://nombela.es/fiestas-y-tradiciones/"
+      }
+    ],
+    "45118": [
+      {
+        "mmdd": "09-28",
+        "name": {
+          "es": "Fiestas en Honor de San Miguel Arcángel y Nuestra Señora de la Mongia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "Fiestas en Honor de San Miguel Arcángel y Nuestra Señora de la Mongia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45119": [
+      {
+        "mmdd": "09-21",
+        "name": {
+          "es": "Fiestas en Honor del Santísimo Cristo de la Misericordia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-22",
+        "name": {
+          "es": "Fiestas en Honor del Santísimo Cristo de la Misericordia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45120": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       }
     ],
     "45121": [
@@ -14684,6 +19449,31 @@
         "source": "https://www.ocana.es/"
       }
     ],
+    "45122": [
+      {
+        "mmdd": "10-05",
+        "name": {
+          "es": "Nuestra Señora de la Virgen del Rosario"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "10-06",
+        "name": {
+          "es": "Nuestra Señora de la Virgen del Rosario"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45123": [
+      {
+        "mmdd": "07-27",
+        "name": {
+          "es": "Virgen del Rosario"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
     "45124": [
       {
         "mmdd": "08-25",
@@ -14700,6 +19490,136 @@
         "source": "https://www.ayto-orgaz.es/fiestas.php?ref=3927"
       }
     ],
+    "45125": [
+      {
+        "mmdd": "09-09",
+        "name": {
+          "es": "Fiestas en honor de Nuestra Señora de Peñitas"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=21096636%3B0&insert_number=4677&insert_year=2021"
+      },
+      {
+        "mmdd": "09-19",
+        "name": {
+          "es": "Fiestas en honor de San Alonso de Orozco"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=21096636%3B0&insert_number=4677&insert_year=2021"
+      }
+    ],
+    "45126": [
+      {
+        "mmdd": "09-11",
+        "name": {
+          "es": "Santísimo Cristo de la Misericordia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de la Misericordia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45127": [
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan Bautista"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45128": [
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "Fiestas en Honor de Santa Bárbara"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-30",
+        "name": {
+          "es": "Fiestas en Honor de Santa Bárbara"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45129": [
+      {
+        "mmdd": "01-22",
+        "name": {
+          "es": "San Vicente"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Natividad de Nuestra Señora"
+        },
+        "source": "https://www.boe.es/boe/dias/1964/01/06/pdfs/A00213-00229.pdf"
+      }
+    ],
+    "45130": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-07",
+        "name": {
+          "es": "Santo Cristo del Olvido"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45131": [
+      {
+        "mmdd": "04-29",
+        "name": {
+          "es": "Feria Ganadera"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo de la Esperanza"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45132": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "San Blas"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Natividad del Señor"
+        },
+        "source": "https://www.boe.es/boe/dias/1976/01/09/pdfs/A00440-00462.pdf"
+      }
+    ],
+    "45133": [
+      {
+        "mmdd": "06-29",
+        "name": {
+          "es": "San Pedro y San Pablo"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=18106469%3B0&insert_number=5292&insert_year=2018"
+      }
+    ],
     "45135": [
       {
         "mmdd": "05-15",
@@ -14714,6 +19634,15 @@
           "es": "Feria y Fiestas del Santísimo Cristo de la Salud"
         },
         "source": "https://web.archive.org/web/20150906064757/http://www.puebladealmoradiel.es/fiestas-locales/"
+      }
+    ],
+    "45052": [
+      {
+        "mmdd": "07-27",
+        "name": {
+          "es": "San Pantaleón"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
       }
     ],
     "45053": [
@@ -14773,6 +19702,13 @@
     ],
     "45106": [
       {
+        "mmdd": "04-27",
+        "name": {
+          "es": "Fiesta del Olivo"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
         "mmdd": "04-28",
         "name": {
           "es": "Fiesta del Olivo"
@@ -14785,6 +19721,88 @@
           "es": "Feria Grande en honor al Cristo de la Vera-Cruz"
         },
         "source": "https://es.wikipedia.org/wiki/Mora_(Toledo)"
+      }
+    ],
+    "45136": [
+      {
+        "mmdd": "07-16",
+        "name": {
+          "es": "Cristo de la Caridad"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45137": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo Nazareno"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45138": [
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan"
+        },
+        "source": "https://www.boe.es/boe/dias/1964/01/06/pdfs/A00213-00229.pdf"
+      },
+      {
+        "mmdd": "06-25",
+        "name": {
+          "es": "San Juan"
+        },
+        "source": "https://www.boe.es/boe/dias/1964/01/06/pdfs/A00213-00229.pdf"
+      }
+    ],
+    "45139": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiesta de San Bartolomé"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=21096636%3B0&insert_number=4677&insert_year=2021"
+      },
+      {
+        "mmdd": "01-22",
+        "name": {
+          "es": "San Vicente"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "45140": [
+      {
+        "mmdd": "08-04",
+        "name": {
+          "es": "Santo Domingo de Guzmán"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "10-13",
+        "name": {
+          "es": "Virgen del Pilar"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45141": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Festividad de San Isidro Labrador"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-05",
+        "name": {
+          "es": "Festividad de Nuestra Señora la Virgen de las Nieves"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       }
     ],
     "45142": [
@@ -14810,6 +19828,31 @@
         "source": "https://www.quintanardelaorden.es/servicios/ferias-fiestas-y-tradiciones/"
       }
     ],
+    "45143": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "San Roque"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45144": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Virgen de los Dolores"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Virgen de los Dolores"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
     "45145": [
       {
         "mmdd": "02-03",
@@ -14824,6 +19867,145 @@
           "es": "Virgen de la Oliva"
         },
         "source": "https://www.recas.es/lugares/virgen-de-la-oliva"
+      }
+    ],
+    "45146": [
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Inmaculada Concepción"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45147": [
+      {
+        "mmdd": "06-19",
+        "name": {
+          "es": "Fiestas en Honor de San Luis Gonzaga"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45148": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://www.boe.es/boe/dias/1979/02/13/pdfs/R03785-03996.pdf"
+      },
+      {
+        "mmdd": "09-29",
+        "name": {
+          "es": "San Miguel"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "45149": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Festividad de San Isidro Labrador"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-14",
+        "name": {
+          "es": "Fiestas Patronales"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45150": [
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiestas de San Bartolomé"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "08-25",
+        "name": {
+          "es": "Fiestas de San Bartolomé"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45151": [
+      {
+        "mmdd": "11-30",
+        "name": {
+          "es": "San Andrés"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45152": [
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "Festividad del Santísimo Cristo de Valdepozo"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "11-11",
+        "name": {
+          "es": "Festividad de San Martín Obispo"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45153": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Festividad de San Isidro Labrador"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Festividad del Cristo de la Veracruz"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45154": [
+      {
+        "mmdd": "08-14",
+        "name": {
+          "es": "Virgen del Buen Camino"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "11-18",
+        "name": {
+          "es": "San Román"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45155": [
+      {
+        "mmdd": "07-27",
+        "name": {
+          "es": "Santa Ana"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo de la Salud"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
       }
     ],
     "45156": [
@@ -14842,6 +20024,72 @@
         "source": "https://santacruzdelazarza.es/%C3%A1reas-y-servicios/turismo-y-festejos/festejos"
       }
     ],
+   "45158": [
+     {
+       "mmdd": "05-04",
+       "name": {
+         "es": "Fiestas en Honor a Nuestra Señora de la Piedad"
+       },
+       "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+     },
+     {
+       "mmdd": "07-16",
+       "name": {
+         "es": "Festividad del Cristo de la Caridad"
+       },
+       "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+     }
+   ],
+    "45159": [
+      {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Santiago Apóstol"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45160": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Cristo de las Maravillas"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45161": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://sede.ayto-sesena.org/eAdmin/InfoSede.do?pagina=calendarioDiasInhabiles"
+      },
+      {
+        "mmdd": "08-14",
+        "name": {
+          "es": "Virgen de la Asunción"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+   "45162": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo Arrodillado"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
     "45163": [
       {
         "mmdd": "05-06",
@@ -14856,6 +20104,22 @@
           "es": "Ferias y Fiestas de Sonseca"
         },
         "source": "https://www.sonseca.es/certamen-nacional-de-pintura-rapida-ferias-y-fiestas-sonseca-2026/"
+      }
+    ],
+    "45164": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Santiago"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
       }
     ],
     "45165": [
@@ -14881,6 +20145,31 @@
         "source": "https://es.wikipedia.org/wiki/Talavera_de_la_Reina"
       }
     ],
+    "45166": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-24",
+        "name": {
+          "es": "Fiestas en Honor a Jesús Nazareno"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45167": [
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "Feria de San Agustín"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
     "45168": [
       {
         "mmdd": "01-23",
@@ -14897,29 +20186,237 @@
         "source": "https://es.wikipedia.org/wiki/Toledo"
       }
     ],
-    "45173": [
+    "45169": [
       {
-        "mmdd": "05-19",
+        "mmdd": "08-06",
         "name": {
-          "es": "Fiestas en honor del Santísimo Cristo de la Sangre"
+          "es": "El Salvador"
         },
-        "source": "https://es.wikipedia.org/wiki/Torrijos"
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "08-07",
+        "name": {
+          "es": "El Salvador"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45171": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Santísimo Cristo de la Salud"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45172": [
+      {
+        "mmdd": "08-31",
+        "name": {
+          "es": "Víspera de San Gil"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       },
       {
         "mmdd": "09-01",
         "name": {
-          "es": "San Gil Abad"
+          "es": "Festividad de San Gil"
         },
-        "source": "https://es.wikipedia.org/wiki/Torrijos"
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       }
     ],
-    "45185": [
+   "45173": [
+     {
+       "mmdd": "05-19",
+       "name": {
+         "es": "Fiestas en honor del Santísimo Cristo de la Sangre"
+       },
+       "source": "https://es.wikipedia.org/wiki/Torrijos"
+     },
+     {
+       "mmdd": "09-01",
+       "name": {
+         "es": "San Gil Abad"
+       },
+       "source": "https://es.wikipedia.org/wiki/Torrijos"
+     }
+   ],
+    "45174": [
       {
-        "mmdd": "05-02",
+        "mmdd": "05-15",
         "name": {
-          "es": "Fiestas del Santísimo Cristo de la Viga"
+          "es": "San Isidro"
         },
-        "source": "https://es.wikipedia.org/wiki/Villaca%C3%B1as"
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=18106469%3B0&insert_number=5292&insert_year=2018"
+      },
+      {
+        "mmdd": "09-21",
+        "name": {
+          "es": "Inmaculada Concepción"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+   "45175": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Nuestra Señora Virgen del Rosario"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45176": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Festividad de San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "06-24",
+        "name": {
+          "es": "San Juan Bautista"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45177": [
+      {
+        "mmdd": "09-28",
+        "name": {
+          "es": "Cristo de Urda"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45179": [
+      {
+        "mmdd": "02-03",
+        "name": {
+          "es": "Festividad de San Blas"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-17",
+        "name": {
+          "es": "Fiesta de la Confraternidad"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45180": [
+      {
+        "mmdd": "05-04",
+        "name": {
+          "es": "Cristo del Amparo"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      },
+      {
+        "mmdd": "08-07",
+        "name": {
+          "es": "Santo Domingo de Guzmán"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45181": [
+      {
+        "mmdd": "05-20",
+        "name": {
+          "es": "Fiesta de San Bernardino"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-04",
+        "name": {
+          "es": "Fiesta en Honor a la Virgen de Gracia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+   "45183": [
+     {
+       "mmdd": "07-16",
+       "name": {
+         "es": "Festividad de la Virgen del Carmen"
+       },
+       "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "08-01",
+        "name": {
+          "es": "Fiestas en honor a San Pedro Advíncula"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=18106469%3B0&insert_number=5292&insert_year=2018"
+     }
+   ],
+   "45185": [
+     {
+       "mmdd": "03-19",
+       "name": {
+         "es": "San José"
+       },
+       "source": "https://bop.diputoledo.es/webEbop/DocGet?id=18106469%3B0&insert_number=5292&insert_year=2018"
+      },
+      {
+       "mmdd": "05-02",
+       "name": {
+         "es": "Fiestas del Santísimo Cristo de la Viga"
+       },
+       "source": "https://es.wikipedia.org/wiki/Villaca%C3%B1as"
+      },
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro Labrador"
+        },
+        "source": "https://www.aytovillacanas.com/images/publicaciones/ayuntamiento/revistas/web-revista-dic-19.pdf"
+     }
+   ],
+    "45182": [
+      {
+        "mmdd": "09-24",
+        "name": {
+          "es": "Virgen del Águila"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45186": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-11",
+        "name": {
+          "es": "Fiestas Patronales"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       }
     ],
     "45187": [
@@ -14929,6 +20426,159 @@
           "es": "Feria y Fiestas en honor al Santísimo Cristo de Santa Ana"
         },
         "source": "https://www.villafrancadeloscaballeros.es/actualidad-municipal/noticias/3964-villafranca-de-los-caballeros-celebra-la-feria-y-fiestas-2025-en-honor-al-sant%C3%ADsimo-cristo-de-santa-ana-con-un-amplio-programa-religioso%2C-cultural-y-festivo"
+      }
+    ],
+    "45188": [
+      {
+        "mmdd": "08-28",
+        "name": {
+          "es": "Feria"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "09-24",
+        "name": {
+          "es": "Virgen de las Mercedes"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45189": [
+      {
+        "mmdd": "01-20",
+        "name": {
+          "es": "Festividad de San Sebastián"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Festividad de Nuestra Señora de la Redonda"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45191": [
+      {
+        "mmdd": "07-22",
+        "name": {
+          "es": "Fiesta de Santa María Magdalena"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=21096636%3B0&insert_number=4677&insert_year=2021"
+      },
+      {
+        "mmdd": "04-27",
+        "name": {
+          "es": "Cristo del Gran Poder"
+        },
+        "source": "https://www.boe.es/boe/dias/1981/03/03/pdfs/R04758-05041.pdf"
+      }
+    ],
+    "45192": [
+      {
+        "mmdd": "04-23",
+        "name": {
+          "es": "San Jorge"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "11-09",
+        "name": {
+          "es": "Virgen de la Piedad"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45193": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Festividad de San Isidro Labrador"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Festividad del Santísimo Cristo de las Angustias"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45194": [
+      {
+        "mmdd": "08-31",
+        "name": {
+          "es": "San Ramón Nonato"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?id=21096636%3B0&insert_number=4677&insert_year=2021"
+      }
+    ],
+    "45195": [
+      {
+        "mmdd": "09-07",
+        "name": {
+          "es": "Virgen del Castellar"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Virgen del Castellar"
+        },
+        "source": "https://www.boe.es/boe/dias/1965/01/05/pdfs/A00154-00174.pdf"
+      }
+    ],
+    "45196": [
+      {
+        "mmdd": "09-08",
+        "name": {
+          "es": "Festividad Virgen de las Angustias"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "12-09",
+        "name": {
+          "es": "Festividad de Santa Leocadia"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45197": [
+      {
+        "mmdd": "05-15",
+        "name": {
+          "es": "Festividad de San Isidro"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "07-22",
+        "name": {
+          "es": "Festividad de Santa María Magdalena"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+    "45198": [
+      {
+        "mmdd": "09-14",
+        "name": {
+          "es": "Padre Jesús Nazareno"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      },
+      {
+        "mmdd": "09-15",
+        "name": {
+          "es": "Padre Jesús Nazareno"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
       }
     ],
     "45199": [
@@ -14954,25 +20604,73 @@
           "es": "San Blas"
         },
         "source": "https://turismo.losyebenes.es/que-ver/monumetos-religiosos/ermita-de-san-blas"
-      }
-    ],
-    "45202": [
+      },
       {
         "mmdd": "09-11",
         "name": {
-          "es": "Fiestas en honor al Santísimo Cristo de la Vera Cruz"
+          "es": "Virgen Finibusterre"
         },
-        "source": "https://www.yepes.es/fiestas/"
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45201": [
+      {
+        "mmdd": "06-12",
+        "name": {
+          "es": "Fiestas en Honor a San Antonio de Padua"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      }
+    ],
+   "45202": [
+     {
+       "mmdd": "09-11",
+       "name": {
+         "es": "Fiestas en honor al Santísimo Cristo de la Vera Cruz"
+       },
+       "source": "https://www.yepes.es/fiestas/"
+     },
+     {
+       "mmdd": "09-14",
+       "name": {
+         "es": "Fiestas en honor al Santísimo Cristo de la Vera Cruz"
+       },
+       "source": "https://www.yepes.es/fiestas/"
+     }
+   ],
+    "45203": [
+      {
+        "mmdd": "07-16",
+        "name": {
+          "es": "Virgen del Carmen"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
       },
+      {
+        "mmdd": "07-17",
+        "name": {
+          "es": "Virgen del Carmen"
+        },
+        "source": "https://www.diputoledo.es/noticias_ampliada/4842/2026/02"
+      }
+    ],
+    "45204": [
       {
         "mmdd": "09-14",
         "name": {
-          "es": "Fiestas en honor al Santísimo Cristo de la Vera Cruz"
+          "es": "Fiesta en honor a Nuestra Señora de la Salud"
         },
-        "source": "https://www.yepes.es/fiestas/"
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "11-30",
+        "name": {
+          "es": "Fiesta en honor a San Andrés Apóstol"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       }
     ],
-    "45205": [
+   "45205": [
       {
         "mmdd": "09-10",
         "name": {
@@ -14986,6 +20684,22 @@
           "es": "Fiestas Mayores de la Virgen del Consuelo"
         },
         "source": "https://yuncos.es/fiestas-y-tradiciones/"
+      }
+    ],
+    "45901": [
+      {
+        "mmdd": "07-24",
+        "name": {
+          "es": "Santiago Apóstol"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
+      },
+      {
+        "mmdd": "07-27",
+        "name": {
+          "es": "Santa Ana"
+        },
+        "source": "https://bop.diputoledo.es/webEbop/DocGet?anexo=0&bop=194&insert_year=2019&publication_date=11102019"
       }
     ],
     "46077": [
